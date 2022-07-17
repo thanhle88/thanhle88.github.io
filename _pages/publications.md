@@ -49,7 +49,7 @@ Preprints
 
 1. N.T.A. Dao, **L.T. Thanh**, N.V. Dung, N. L. Trung, & L.V. Ha. "New feature selection method for multi-channel EEG epileptic spike detection system". *VNU J. Sci.*, 2019. [[DOI]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230), [[PDF]](https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view).
 
-L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. "EEG source localization: A new multiway temporal-spatial-spectral analysis". *In Proc. IEEE NICS*, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[pdf]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
+1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. "EEG source localization: A new multiway temporal-spatial-spectral analysis". *In Proc. IEEE NICS*, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[pdf]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
 
 2018 and before
 ----
