@@ -23,9 +23,8 @@ Curriculum vitae [[PDF]](https://drive.google.com/file/d/1iGF17xyATs6ApvIO2D3w6v
 # Contact
 
 * **LE Trung Thanh** \
-PRISME Laboratory, \
+PRISME Laboratory \
 University of Orleans, INSA CVL \
 12 rue de Blois, 45067 Orléans, France 
-* Emails: trung-thanh.le@univ-orleans.fr (working) \
-          thanhle88.tbt@gmail.com (personal)
+* Emails: trung-thanh.le@univ-orleans.fr (working)  or  thanhle88.tbt@gmail.com (personal)
 
