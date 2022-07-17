@@ -24,7 +24,8 @@ His research interests include signal processing, subspace tracking, tensor anal
 * **LE Trung Thanh** \
 PRISME Laboratory, \
 University of Orleans, INSA CVL \
-12 rue de Blois, 45067 Orléans, France \
+12 rue de Blois, 45067 Orléans, France 
+
 * *Emails:* trung-thanh.le@univ-orleans.fr (working) \
            thanhle88.tbt@gmail.com (personal)
 
