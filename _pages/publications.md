@@ -67,3 +67,9 @@ L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. "EEG source
 1. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. "Multi-source data analysis for bike sharing systems". *In Proc. IEEE ATC*, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167624), [[PDF]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view).
 
 
+Thesis
+=====
+
+1. M.S. "GMNS-based Tensor Decomposition". VNU-UET 2018, [[PDF]](https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view).
+
+1. B.S. "EEG Epileptic Spike Detection using Deep Belief Networks". VNU-UET 2016, [[PDF]](https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view).
