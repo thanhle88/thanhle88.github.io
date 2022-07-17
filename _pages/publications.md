@@ -35,3 +35,13 @@ Preprints
 1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "Performance lower bounds of blind system identification techniques in the presence of channel order estimation error". *In Proc. 29th EUSIPCO*, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9615921), [[PDF]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view).
 
 1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. "Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems". *In Proc. 55th Asilomar*, 2021.[[IEEExplore]](https://ieeexplore.ieee.org/abstract/document/9723265), [[PDF]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view).
+
+2020
+----
+
+1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Multi-channel EEG epileptic spike detection by a new method of tensor decomposition". *IOP J. Neural Eng.*, 2020. [[DOI]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[PDF]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full-text]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
+
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". In Proc. 28th EUSIPCO, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[PDF]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[MATLAB]](https://github.com/thanhtbt/ATT).
+
+
+
