@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Ph.D. Candidate in Signal Processing at the [PRISME Laboratory](https://www.univ-orleans.fr/fr/prisme)\
-[University of Orleans, INSA CVL](https://www.univ-orleans.fr/)\
+Ph.D. Candidate in Signal Processing \
+[University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme) \
 Orleans, France
 
 
