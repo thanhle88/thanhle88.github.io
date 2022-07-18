@@ -18,7 +18,7 @@ Biography
 Le Trung Thanh received the B.Sc. and M.Sc. degrees in electronics and telecommunications from VNU University of Engineering and Technology, Vietnam National University, Hanoi (VNU), Vietnam, in 2016 and 2018, respectively. He is currently working toward the Ph.D. degree with the University of Orleans, Orléans, France.
 His research interests include signal processing, subspace tracking, tensor analysis, and system identification.
 
-Curriculum vitae [[PDF]](https://drive.google.com/file/d/1iGF17xyATs6ApvIO2D3w6vTGNMCsuTW1/view?usp=sharing).
+My curriculum vitae is available [here](https://drive.google.com/file/d/1iGF17xyATs6ApvIO2D3w6vTGNMCsuTW1/view?usp=sharing).
 
 # Contact
 
