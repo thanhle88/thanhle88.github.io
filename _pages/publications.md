@@ -39,7 +39,7 @@ Preprints
 2020
 ----
 
-1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Multi-channel EEG epileptic spike detection by a new method of tensor decomposition". **_IOP J. Neural Eng._**, 2020. [[DOI]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[PDF]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full-text]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
+1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Multi-channel EEG epileptic spike detection by a new method of tensor decomposition". **_IOP J. Neural Eng._**, 2020. [[DOI]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[PDF]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[Full-Text]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". **_In Proc. 28th EUSIPCO_**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[PDF]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[MATLAB]](https://github.com/thanhtbt/ATT).
 
