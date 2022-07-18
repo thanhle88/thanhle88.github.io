@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Short CV"
+title: "Vitae"
 permalink: /vitae/
 author_profile: true
 ---
