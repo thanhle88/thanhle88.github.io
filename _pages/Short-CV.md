@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Vitae"
+title: "Curriculum Vitae"
 permalink: /vitae/
 author_profile: true
 ---
