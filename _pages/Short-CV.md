@@ -15,7 +15,8 @@ author_profile: true
 ---
 ## Experiences
 
-* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.centralesupelec.fr/), France  (Nov 2019 - Oct 2022). 
+* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.centralesupelec.fr/), France  (Nov 2019 - Oct 2022).
+ 
     Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en): 
     - Tensor Analysis: Develop fast adaptive tensor algorithms for factorizing streaming data.
     - Subspace Tracking: Develop fast and effective algorithms subspace tracking in high dimensions.
