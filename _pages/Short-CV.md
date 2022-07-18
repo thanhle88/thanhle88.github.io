@@ -9,7 +9,7 @@ author_profile: true
 
 * *Ph.D. in Signal Processing*, [University of Orleans, INSA CVL, PRISME](https://www.centralesupelec.fr/), France (Nov. 2019 - Oct. 2022).
 * *M.Sc. in Telecommunications Engineering*, [Vietnam National University, Hanoi, VNU-UET](http://uet.vnu.edu.vn/), Vietnam (Dec. 2016 - Dec. 2018). 
-* *B.Sc in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](http://uet.vnu.edu.vn/), Vietnam (Aug. 2012 - Jun. 2016). 
+* *B.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](http://uet.vnu.edu.vn/), Vietnam (Aug. 2012 - Jun. 2016). 
 
 
 ---
