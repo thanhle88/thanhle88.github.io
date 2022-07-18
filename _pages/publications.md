@@ -60,15 +60,6 @@ Preprints
 
 1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection". **_In Proc. IEEE NICS_**, 2018. [[DOI]](https://ieeexplore.ieee.org/document/8606822), [[PDF]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view), ***[Best Paper Award]***
  
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-
 
 1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "A new windowed graph Fourier transform". **_In Proc. IEEE NICS_**, 2017. [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[PDF]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
 
