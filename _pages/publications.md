@@ -61,7 +61,7 @@ Preprints
 
 1. L.T. Xuyen, **L.T. Thanh**, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. "Deep learning for epileptic spike detection". **_VNU J. Sci._**, 2018. [[DOI]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156), [[PDF]](https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view).
 
-1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection". **_In Proc. IEEE NICS_**, 2018. [[DOI]](https://ieeexplore.ieee.org/document/8606822), [[PDF]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view), **[Best Paper Award]**.
+1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection". **_In Proc. IEEE NICS_**, 2018. [[DOI]](https://ieeexplore.ieee.org/document/8606822), [[PDF]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view), **[Best Paper Award]** <p>Hi here is some text <span>this is red</span>.</p>.
  
 
 1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "A new windowed graph Fourier transform". **_In Proc. IEEE NICS_**, 2017. [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[PDF]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
