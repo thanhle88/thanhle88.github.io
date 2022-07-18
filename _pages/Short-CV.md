@@ -43,6 +43,6 @@ author_profile: true
 *  **Outstanding Student Awards** for undergraduate (2012-2016) and graduate (2016-2018), VNU-UET.
 * **Dean’s list** for 6/8 undergraduate semesters II-VII continuously, VNU-UET.
 * **Best Thesis Award** for “EEG Epileptic Spike Detection using Deep Belief Networks”, VNU-UET.
-* **Competitions**: ***3rd place (bronze medal)*** in the *18th Vietnam National Physics Olympiad*, ***2nd place*** in the *Provincial Physics Competition* (grade 12), and ***3rd place*** in the *Provincial Informatics Competition* (grade 11).
+* **Competitions**: ***3rd place*** (bronze medal) in the *18th Vietnam National Physics Olympiad*, ***2nd place*** in the *Provincial Physics Competition* (grade 12), and ***3rd place*** in the *Provincial Informatics Competition* (grade 11).
 * **Scholarships**: Toshiba (2017), Yamada (2016), Odon Vallet (2015), Tharal-InSEWA (2015), and PonyChung (2014).
 
