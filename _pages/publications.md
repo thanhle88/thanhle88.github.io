@@ -10,9 +10,9 @@ Preprints
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”. *TechRxiv*, 2022.  [[PDF]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[MATLAB]](https://github.com/thanhtbt/Tensor_Tracking).
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Streaming Tensor-Train Decomposition with Missing Data”. TechRxiv, 2022.   [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[MATLAB]](https://github.com/thanhtbt/ATT-miss).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Streaming Tensor-Train Decomposition with Missing Data”. *TechRxiv*, 2022.   [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[MATLAB]](https://github.com/thanhtbt/ATT-miss).
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition”. TechRxiv, 2022. [[PDF]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition”. *TechRxiv*, 2022. [[PDF]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966).
 
 
 2022+
@@ -20,7 +20,7 @@ Preprints
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. "Robust Tensor Tracking With Missing Data Under Tensor-Train Format". *In Proc. 30th EUSIPCO*, 2022. [[MATLAB]](https://github.com/thanhtbt/ROBOT).
 
-1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. "Sparse subspace tracking in high dimensions". In Proc. 47th IEEE ICASSP, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[PDF]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view),[code coming soon].
+1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. "Sparse subspace tracking in high dimensions". *In Proc. 47th IEEE ICASSP*, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[PDF]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view),[code coming soon].
 
 2021
 ----
@@ -70,6 +70,6 @@ Preprints
 Thesis
 =====
 
-1. M.S. "GMNS-based Tensor Decomposition". VNU-UET 2018, [[PDF]](https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view).
+1. M.S. *"GMNS-based Tensor Decomposition"*. VNU-UET 2018, [[PDF]](https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view).
 
-1. B.S. "EEG Epileptic Spike Detection using Deep Belief Networks". VNU-UET 2016, [[PDF]](https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view).
+1. B.S. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET 2016, [[PDF]](https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view).
