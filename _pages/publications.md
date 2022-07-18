@@ -5,8 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 *Note that PDF is for personal use only. Copyrights are reserved by Publishers*
+
+Full list: [Google Scholar](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Le-Trung-Thanh-3).
 
 Preprints
 ----
