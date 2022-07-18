@@ -16,12 +16,13 @@ author_profile: true
 ## Experiences
 
 * *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.centralesupelec.fr/), France  (Nov 2019 - Oct 2022). 
-Supervised by Prof. Karim Abed-Meraim and Prof. Adel Hafiane 
+
+    Supervised by Prof. Karim Abed-Meraim and Prof. Adel Hafiane 
     - Tensor Analysis: Develop fast adaptive tensor algorithms for factorizing streaming data.
     - Subspace Tracking: Develop fast and effective algorithms subspace tracking in high dimensions.
     - System Identification: Investigate performance lower bounds of blind, semi-blind systems identification techniques under model misspecification.
 
-* *Lecturer & Researcher*, [Vietnam National University, Hanoi, VNU-UET](http://uet.vnu.edu.vn/), Vietnam (Dec. 2016 - present). \
+* *Lecturer & Researcher*, [Vietnam National University, Hanoi, VNU-UET](http://uet.vnu.edu.vn/), Vietnam (Dec. 2016 - present). 
     - Teaching:
         - Engineering Mathematics (ELT 2029) 
         - Digital Signal Processing (ELT 3144) 
