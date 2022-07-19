@@ -24,8 +24,8 @@ author_profile: true
 
 * *Lecturer & Researcher*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Dec. 2016 -- present). 
     - Teaching:
-        - Engineering Mathematics (ELT 2029) 
-        - Digital Signal Processing (ELT 3144) 
+        - Engineering Mathematics (ELT 2029).
+        - Digital Signal Processing (ELT 3144).
 
     - Research Projects: 
         - Member, “System identification: From a blind to an informed paradigm” funded by NAFOSTED under grant number 01/2019/TN. 
