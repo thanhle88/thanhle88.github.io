@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education
 
-* *Ph.D. in Signal Processing*, [University of Orleans, INSA CVL, PRISME](https://www.centralesupelec.fr/), France (Nov. 2019 - Oct. 2022).
+* *Ph.D. in Signal Processing*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/en), France (Nov. 2019 - Oct. 2022).
 * *M.Sc. in Telecommunications Engineering*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Dec. 2016 - Dec. 2018). 
 * *B.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 - Jun. 2016). 
 
@@ -15,7 +15,7 @@ author_profile: true
 ---
 ## Experiences
 
-* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.centralesupelec.fr/), France  (Nov 2019 - Oct 2022).
+* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/en), France  (Nov 2019 - Oct 2022).
  
     Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (IEEE Fellow) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en): 
     - Tensor Analysis: Develop fast adaptive tensor algorithms for factorizing streaming data.
