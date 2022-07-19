@@ -7,22 +7,22 @@ author_profile: true
 
 ## Education
 
-* *Ph.D. in Signal Processing*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme), France (Nov. 2019 - Oct. 2022).
-* *M.Sc. in Telecommunications Engineering*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Dec. 2016 - Dec. 2018). 
-* *B.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 - Jun. 2016). 
+* *Ph.D. in Signal Processing*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme), France (Nov. 2019 -- Oct. 2022).
+* *M.Sc. in Telecommunications Engineering*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Dec. 2016 -- Dec. 2018). 
+* *B.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Jun. 2016). 
 
 
 ---
 ## Experiences
 
-* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme), France (Nov 2019 - Oct 2022).
+* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme), France (Nov. 2019 -- Oct. 2022).
  
     Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (IEEE Fellow) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en): 
     - Tensor Analysis: Develop fast adaptive tensor algorithms for factorizing streaming data.
     - Subspace Tracking: Develop fast and effective algorithms subspace tracking in high dimensions.
     - System Identification: Investigate performance lower bounds of blind, semi-blind systems identification techniques under model misspecification.
 
-* *Lecturer & Researcher*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Dec. 2016 - present). 
+* *Lecturer & Researcher*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Dec. 2016 -- present). 
     - Teaching:
         - Engineering Mathematics (ELT 2029) 
         - Digital Signal Processing (ELT 3144) 
