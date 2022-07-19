@@ -15,7 +15,8 @@ author_profile: true
 ---
 ## Experiences
 
-* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme), France  <div style="text-align: right"> (Nov 2019 - Oct 2022) </div>
+* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme), France  
+<div style="text-align: right"> (Nov 2019 - Oct 2022) </div>
  
     Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (IEEE Fellow) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en): 
     - Tensor Analysis: Develop fast adaptive tensor algorithms for factorizing streaming data.
