@@ -51,9 +51,7 @@ Low-sample-size Context”. 2022.
 ----
 
 1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Multi-channel EEG epileptic spike detection by a new method of tensor decomposition". **_IOP J. Neural Eng._**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1741-2552/ab5247" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> 
-[![DOI](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1088/1741-2552/ab5247)
-
+<span class="__dimensions_badge_embed__" data-doi="10.1088/1741-2552/ab5247" data-style="small_rectangle"><span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script> 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". **_In Proc. 28th EUSIPCO_**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[pdf]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[code]](https://github.com/thanhtbt/ATT).
 
