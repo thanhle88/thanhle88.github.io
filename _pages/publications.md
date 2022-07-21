@@ -34,9 +34,12 @@ Low-sample-size Context”. 2022.
 
 2021
 ----
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee". **_IEEE Trans. Signal Process._**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
--
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee". **_IEEE Trans. Signal Process._**, 2021. 
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3066795" data-style="small_rectangle"><span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"><script>
+- 
+ <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3066795" data-style="small_rectangle"><span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"><script>
+-
+ [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
 
 1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification". **_IEEE Trans. Signal Process._**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3111558" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
