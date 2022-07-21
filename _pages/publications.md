@@ -35,11 +35,11 @@ Low-sample-size Context”. 2022.
 2021
 ----
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee". **_IEEE Trans. Signal Process._**, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3066795" data-style="small_rectangle"><span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"><script>
+
 
  
 1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification". **_IEEE Trans. Signal Process._**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3111558" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
  
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey". **_REV J. Elect. Commun._**, 2021. [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[pdf]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view).
  
@@ -54,7 +54,6 @@ Low-sample-size Context”. 2022.
 ----
 
 1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Multi-channel EEG epileptic spike detection by a new method of tensor decomposition". **_IOP J. Neural Eng._**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
-<span class="__dimensions_badge_embed__" data-doi="10.1088/1741-2552/ab5247" data-style="small_rectangle"><span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"><script> 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". **_In Proc. 28th EUSIPCO_**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[pdf]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[code]](https://github.com/thanhtbt/ATT).
 
