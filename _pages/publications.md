@@ -10,7 +10,7 @@ author_profile: true
 
 Full list: [Google Scholar](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en) and [Researchgate](https://www.researchgate.net/profile/Le-Trung-Thanh-3).
 
-Preprints
+Preprints (Working Papers)
 ----
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”. *TechRxiv*, 2022.  [[pdf]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[code]](https://github.com/thanhtbt/Tensor_Tracking).
