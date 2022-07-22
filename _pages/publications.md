@@ -25,6 +25,8 @@ Convergence Analysis”. 2022.
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
 Low-sample-size Context”. 2022.
 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”. 2022.
+
 2022+
 ----
 
