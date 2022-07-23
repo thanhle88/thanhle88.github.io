@@ -1,7 +1,9 @@
 ---
 layout: archive
 title: "Publications & Codes"
-permalink: /Journals/
+permalink: /journals/
+author_profile: true
+
 ---
 
 *Note that PDF is for personal use only. Copyrights are reserved by Publishers.*
