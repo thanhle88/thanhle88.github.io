@@ -64,7 +64,7 @@ Conferences
 
 1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. "EEG source localization: A new multiway temporal-spatial-spectral analysis". **_In Proc. IEEE NICS_**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[pdf]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
 
-1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection". **_In Proc. IEEE NICS_**, 2018. [[IEEExplore]](https://ieeexplore.ieee.org/document/8606822), [[pdf]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view), <span style="color:#B22222">[Best Paper Award]</span>.
+1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection". **_In Proc. IEEE NICS_**, 2018. [[IEEExplore]](https://ieeexplore.ieee.org/document/8606822), <span style="color:#B22222">[[pdf]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view)</span>, <span style="color:#B22222">[**Best Paper Award**]</span>.
  
 
 1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "A new windowed graph Fourier transform". **_In Proc. IEEE NICS_**, 2017. [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[pdf]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
