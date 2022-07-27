@@ -29,11 +29,11 @@ Low-sample-size Context”. 2022.
 Journals
 ----
 
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. <span style="color:#B22222">"**_Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee_**"</span>. **IEEE Trans. Signal Process. (TSP)**, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. <span style="color:#B22222">"*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*"</span>. **IEEE Trans. Signal Process. (TSP)**, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
  
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. <span style="color:#B22222">"**_Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification_**"</span>. **IEEE Trans. Signal Process. (TSP)**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
+1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. <span style="color:#B22222">"*Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification*"</span>. **IEEE Trans. Signal Process. (TSP)**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
 
-1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. <span style="color:#B22222">"**_Multi-channel EEG epileptic spike detection by a new method of tensor decomposition_**"</span>. **IOP J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
+1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. <span style="color:#B22222">"*Multi-channel EEG epileptic spike detection by a new method of tensor decomposition*"</span>. **IOP J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
 
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey". **_REV J. Elect. Commun._**, 2021. [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[pdf]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view).
 
