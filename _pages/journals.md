@@ -35,13 +35,13 @@ Journals
 
 1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. <span style="color:#B22222">"*Multi-channel EEG epileptic spike detection by a new method of tensor decomposition*"</span>. **IOP J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
 
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey". **_REV J. Elect. Commun._**, 2021. [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[pdf]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view).
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. <span style="color:#B22222">"*Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey*"</span>. **REV J. Elect. Commun.**, 2021. [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[pdf]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view).
 
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach". **_REV J. Elec. Commun._**, 2018. [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/196), [[pdf]](https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view).
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. <span style="color:#B22222">"*Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach*"</span>. **REV J. Elec. Commun.**, 2018. [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/196), [[pdf]](https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view).
 
-1. N.T.A. Dao, **L.T. Thanh**, N.V. Dung, N. L. Trung, & L.V. Ha. "New feature selection method for multi-channel EEG epileptic spike detection system". **_VNU J. Sci._**, 2019. [[doi]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230), [[pdf]](https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view).
+1. N.T.A. Dao, **L.T. Thanh**, N.V. Dung, N. L. Trung, & L.V. Ha. <span style="color:#B22222">"*New feature selection method for multi-channel EEG epileptic spike detection system*"</span>. **VNU J. Sci.**, 2019. [[doi]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230), [[pdf]](https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view).
 
-1. L.T. Xuyen, **L.T. Thanh**, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. "Deep learning for epileptic spike detection". **_VNU J. Sci._**, 2018. [[doi]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156), [[pdf]](https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view).
+1. L.T. Xuyen, **L.T. Thanh**, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. <span style="color:#B22222">"*Deep learning for epileptic spike detection*"</span>. **VNU J. Sci.**, 2018. [[doi]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156), [[pdf]](https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view).
 
 
 Conferences
