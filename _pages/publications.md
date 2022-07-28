@@ -19,8 +19,6 @@ In Progress
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition”. *TechRxiv*, 2022. [[pdf]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966).
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and
-Convergence Analysis”. 2022. 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
 Low-sample-size Context”. 2022.
@@ -29,6 +27,9 @@ Low-sample-size Context”. 2022.
 
 2022+
 ----
+
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and
+Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022 <span style="color:#B22222">[Accepted]</span>. 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[code]](https://github.com/thanhtbt/ROBOT).
 
