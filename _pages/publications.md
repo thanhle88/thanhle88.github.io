@@ -56,7 +56,7 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022 <span styl
 2020
 ----
 
-1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Multi-channel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition"*. **IOP J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[full]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
+1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Multi-channel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition"*. **IOP J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[extended cut]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. *"Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors"*. **In Proc. 28th EUSIPCO**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[pdf]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[code]](https://github.com/thanhtbt/ATT).
 
