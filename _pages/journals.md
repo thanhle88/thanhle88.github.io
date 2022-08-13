@@ -25,7 +25,10 @@ Low-sample-size Context”. 2022.
 
 Journals
 ----
-1. **L.T. Thanh**,  N. L. Trung, & K. Abed-Meraim, and A. Hafiane. "*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*". **IEEE Trans. Signal Process. (TSP)**, 2022. 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and
+Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022, [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), [code coming soon]. 
+
+
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*". **IEEE Trans. Signal Process. (TSP)**, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
  
 1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "*Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification*". **IEEE Trans. Signal Process. (TSP)**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
