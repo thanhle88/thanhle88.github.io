@@ -58,38 +58,39 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. <a href="
 2020
 ----
 
-1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Multi-channel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition"*. **IOP J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[extended cut]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
+1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Multi-channel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition"*. **IOP J. Neural Eng. (JNE)**, 2020.  <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: red; text-decoration: underline;">[doi]</a>, <a href="https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view" style="color: red; text-decoration: underline;">[pdf]</a>, <a href="https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view" style="color: red; text-decoration: underline;">[extended cut]</a>.
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. *"Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors"*. **In Proc. 28th EUSIPCO**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[pdf]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[code]](https://github.com/thanhtbt/ATT).
+
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. *"Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors"*. **In Proc. 28th EUSIPCO**, 2020. <a href="https://ieeexplore.ieee.org/document/9287780" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view" style="color: red; text-decoration: underline;">[pdf]</a>, <a href="https://github.com/thanhtbt/ATT" style="color: red; text-decoration: underline;">[code]</a>.
 
 2019
 ----
-1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers via ADMM"*.  **In Proc. 27th EUSIPCO**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/8903031), [[pdf]](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view), [[code]](https://github.com/thanhtbt/RST). 
+1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers via ADMM"*.  **In Proc. 27th EUSIPCO**, 2019. <a href="https://ieeexplore.ieee.org/document/8903031" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view" style="color: red; text-decoration: underline;">[pdf]</a>, <a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: underline;">[code]</a>. 
 
-1. N.T.A. Dao, **L.T. Thanh**, N.V. Dung, N. L. Trung, & L.V. Ha. *"New feature selection method for multi-channel EEG epileptic spike detection system"*. **VNU J. Sci.**, 2019. [[doi]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230), [[pdf]](https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view).
+1. N.T.A. Dao, **L.T. Thanh**, N.V. Dung, N. L. Trung, & L.V. Ha. *"New feature selection method for multi-channel EEG epileptic spike detection system"*. **VNU J. Sci.**, 2019. <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230" style="color: red; text-decoration: underline;">[doi]</a>, <a href="https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view" style="color: red; text-decoration: underline;">[pdf]</a>.
 
-1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. *"EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis"*. **In Proc. IEEE NICS**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[pdf]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
+1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. *"EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis"*. **In Proc. IEEE NICS**, 2019. <a href="https://ieeexplore.ieee.org/document/9023865" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view" style="color: red; text-decoration: underline;">[pdf]</a>.
 
 2018 and before
 ----
 
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach"*. **REV J. Elec. Commun.**, 2018. [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/196), [[pdf]](https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view).
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach"*. **REV J. Elec. Commun.**, 2018.  <a href="https://rev-jec.org/index.php/rev-jec/article/view/196" style="color: red; text-decoration: underline;">[doi]</a>, <a href="https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view" style="color: red; text-decoration: underline;">[pdf]</a>.
 
-1. L.T. Xuyen, **L.T. Thanh**, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. *"Deep learning for epileptic spike detection"*. **VNU J. Sci.**, 2018. [[doi]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156), [[pdf]](https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view).
+1. L.T. Xuyen, **L.T. Thanh**, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. *"Deep learning for epileptic spike detection"*. **VNU J. Sci.**, 2018. <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156" style="color: red; text-decoration: underline;">[doi]</a>, <a href="https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view" style="color: red; text-decoration: underline;">[pdf]</a>. 
 
-1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection"*. **In Proc. IEEE NICS**, 2018. [[IEEExplore]](https://ieeexplore.ieee.org/document/8606822), [[pdf]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view), <span style="color:#B22222">[Best Paper Award]</span>.
+1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection"*. **In Proc. IEEE NICS**, 2018. <a href="https://ieeexplore.ieee.org/document/8606822" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view" style="color: red; text-decoration: underline;">[pdf]</a>, <span style="color:#B22222">[**Best Paper Award**]</span>.
  
 
-1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"A new windowed graph Fourier transform"*. **In Proc. IEEE NICS**, 2017. [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[pdf]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
+1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"A new windowed graph Fourier transform"*. **In Proc. IEEE NICS**, 2017.  <a href="https://ieeexplore.ieee.org/document/8108055" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view" style="color: red; text-decoration: underline;">[pdf]</a>.
 
-1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. *"On the overall ROC of multistage systems"*. **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167623), [[pdf]](https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view), [[code]](https://github.com/thanhtbt/ROC).
+1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. *"On the overall ROC of multistage systems"*. **In Proc. IEEE ATC**, 2017.  <a href="https://ieeexplore.ieee.org/document/8167623" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view" style="color: red; text-decoration: underline;">[pdf]</a>, <a href="https://github.com/thanhtbt/ROC" style="color: red; text-decoration: underline;">[code]</a>.
 
-1. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. *"Multi-source data analysis for bike sharing systems"*. **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167624), [[pdf]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view).
+1. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. *"Multi-source data analysis for bike sharing systems"*. **In Proc. IEEE ATC**, 2017.   <a href="https://ieeexplore.ieee.org/document/8167624" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view" style="color: red; text-decoration: underline;">[pdf]</a>.
 
 
 Thesis
 =====
 
-1. M.S. *"GMNS-based Tensor Decomposition"*. VNU-UET 2018, [[pdf]](https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view).
+1. M.S. *"GMNS-based Tensor Decomposition"*. VNU-UET 2018. <a href="https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view" style="color: red; text-decoration: underline;">[pdf]</a>.
 
-1. B.S. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET 2016, [[pdf]](https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view).
+1. B.S. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET 2016. <a href="https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view" style="color: red; text-decoration: underline;">[pdf]</a>.
