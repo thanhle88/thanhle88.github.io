@@ -49,9 +49,9 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. [[pdf]](h
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *"A Fast Randomized Adaptive CP Decomposition for Streaming Tensors"*. **In Proc. 46th IEEE ICASSP**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9413554), [[pdf]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[code]](https://github.com/thanhtbt/ROLCP). 
 
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error"*. **In Proc. 29th EUSIPCO**, 2021. <a href="https://ieeexplore.ieee.org/document/9615921" style="color: blue; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view" style="color: blue; text-decoration: underline;">[pdf]</a>.
+1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error"*. **In Proc. 29th EUSIPCO**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9615921), [[pdf]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view). 
 
-1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. *"Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems"*. **In Proc. 55th Asilomar**, 2021.  <a href="https://ieeexplore.ieee.org/abstract/document/9723265" style="color: blue; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view" style="color: blue; text-decoration: underline;">[pdf]</a>.
+1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. *"Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems"*. **In Proc. 55th Asilomar**, 2021.   [[IEEExplore]](https://ieeexplore.ieee.org/document/9723265), [[pdf]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view). 
 
 
 2020
