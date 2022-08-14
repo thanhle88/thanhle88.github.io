@@ -42,7 +42,7 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. <a href="
 
 
  
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification"*. **IEEE Trans. Signal Process. (TSP)**, 2021. <a href="https://ieeexplore.ieee.org/document/9537597" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view" style="color: red; text-decoration: underline;">[pdf]</a>.
+1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification"*. **IEEE Trans. Signal Process. (TSP)**, 2021. <a href="https://ieeexplore.ieee.org/document/9537597" style="color: blue; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view" style="color: blue; text-decoration: underline;">[pdf]</a>.
 
  
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey"*. **REV J. Elect. Commun.**, 2021. <a href="https://rev-jec.org/index.php/rev-jec/article/view/270" style="color: red; text-decoration: underline;">[doi]</a>, <a href="https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view" style="color: red; text-decoration: underline;">[pdf]</a>.
