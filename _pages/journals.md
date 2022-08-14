@@ -36,7 +36,7 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022, [[pdf]](h
 1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "*Multi-channel EEG epileptic spike detection by a new method of tensor decomposition*". **J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[extended cut]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view), [SCIE-Q1].
 
 
-International Conferences
+Conferences
 ----
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. "Robust Tensor Tracking With Missing Data Under Tensor-Train Format". **In Proc. 30th EUSIPCO**, 2022. [[code]](https://github.com/thanhtbt/ROBOT).
