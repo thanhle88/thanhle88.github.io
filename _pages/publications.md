@@ -34,7 +34,7 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. <a href="
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022.  <a href="https://thanhtbt.github.io/publications/" style="color: red; text-decoration: underline;">[pdf]</a>, <a href="https://github.com/thanhtbt/ROBOT" style="color: red; text-decoration: underline;">[code]</a>.
 
-1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. **In Proc. 47th IEEE ICASSP**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[pdf]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view), [code coming soon].
+1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. **In Proc. 47th IEEE ICASSP**, 2022. <a href="https://ieeexplore.ieee.org/document/9746546" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view" style="color: red; text-decoration: underline;">[pdf]</a>, [code coming soon].
 
 2021
 ----
