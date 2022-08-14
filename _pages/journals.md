@@ -23,47 +23,47 @@ Low-sample-size Context”. 2022.
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”. 2022.
 
-SCI/SCIE Journals
+Journals
 ----
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and
-Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022, [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), [code coming soon]. 
+Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022, [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), [[proof]](https://drive.google.com/file/d/1u72uF5oA2rPTKPJEdzkljJdkM3p8428Y/view), [code coming soon], [SCIE-Q1]. 
 
 
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*". **IEEE Trans. Signal Process. (TSP)**, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. "*Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee*". **IEEE Trans. Signal Process. (TSP)**, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST), [SCIE-Q1].
  
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "*Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification*". **IEEE Trans. Signal Process. (TSP)**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
+1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "*Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification*". **IEEE Trans. Signal Process. (TSP)**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view), [SCIE-Q1].
 
-1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "*Multi-channel EEG epileptic spike detection by a new method of tensor decomposition*". **J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[extended cut]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).
+1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. "*Multi-channel EEG epileptic spike detection by a new method of tensor decomposition*". **J. Neural Eng. (JNE)**, 2020. [[doi]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[pdf]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view), [[extended cut]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view), [SCIE-Q1].
 
 
 International Conferences
 ----
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. "Robust Tensor Tracking With Missing Data Under Tensor-Train Format". **_In Proc. 30th EUSIPCO_**, 2022. [[code]](https://github.com/thanhtbt/ROBOT).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. "Robust Tensor Tracking With Missing Data Under Tensor-Train Format". **In Proc. 30th EUSIPCO**, 2022. [[code]](https://github.com/thanhtbt/ROBOT).
 
-1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. "Sparse subspace tracking in high dimensions". **_In Proc. 47th IEEE ICASSP_**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[pdf]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view),[code coming soon].
+1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. "Sparse subspace tracking in high dimensions". **In Proc. 47th IEEE ICASSP**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[pdf]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view),[code coming soon].
 
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors". **_In Proc. 46th IEEE ICASSP_**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9413554), [[pdf]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[code]](https://github.com/thanhtbt/ROLCP).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. "A Fast Randomized Adaptive CP Decomposition for Streaming Tensors". **In Proc. 46th IEEE ICASSP**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9413554), [[pdf]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[code]](https://github.com/thanhtbt/ROLCP).
 
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "Performance lower bounds of blind system identification techniques in the presence of channel order estimation error". **_In Proc. 29th EUSIPCO_**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9615921), [[pdf]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view).
+1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. "Performance lower bounds of blind system identification techniques in the presence of channel order estimation error". **In Proc. 29th EUSIPCO**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9615921), [[pdf]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view).
 
-1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. "Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems". **_In Proc. 55th Asilomar_**, 2021.[[IEEExplore]](https://ieeexplore.ieee.org/abstract/document/9723265), [[pdf]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view).
+1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. "Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems". **In Proc. 55th Asilomar**, 2021.[[IEEExplore]](https://ieeexplore.ieee.org/abstract/document/9723265), [[pdf]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view).
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". **_In Proc. 28th EUSIPCO_**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[pdf]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[code]](https://github.com/thanhtbt/ATT).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". **In Proc. 28th EUSIPCO**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[pdf]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[code]](https://github.com/thanhtbt/ATT).
 
-1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim. "Robust Subspace Tracking with Missing Data and Outliers via ADMM".  **_In Proc. 27th EUSIPCO_**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/8903031), [[pdf]](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view), [[code]](https://github.com/thanhtbt/RST). 
+1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim. "Robust Subspace Tracking with Missing Data and Outliers via ADMM".  **In Proc. 27th EUSIPCO**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/8903031), [[pdf]](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view), [[code]](https://github.com/thanhtbt/RST). 
 
-1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. "EEG source localization: A new multiway temporal-spatial-spectral analysis". **_In Proc. IEEE NICS_**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[pdf]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
+1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. "EEG source localization: A new multiway temporal-spatial-spectral analysis". **In Proc. IEEE NICS**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[pdf]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
 
-1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection". **_In Proc. IEEE NICS_**, 2018. [[IEEExplore]](https://ieeexplore.ieee.org/document/8606822), <span style="color:#B22222">[[pdf]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view)</span>, <span style="color:#B22222">[**Best Paper Award**]</span>.
+1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection". **In Proc. IEEE NICS**, 2018. [[IEEExplore]](https://ieeexplore.ieee.org/document/8606822), <span style="color:#B22222">[[pdf]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view)</span>, <span style="color:#B22222">[**Best Paper Award**]</span>.
  
 
-1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "A new windowed graph Fourier transform". **_In Proc. IEEE NICS_**, 2017. [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[pdf]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
+1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. "A new windowed graph Fourier transform". **In Proc. IEEE NICS**, 2017. [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[pdf]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
 
-1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. "On the overall ROC of multistage systems". **_In Proc. IEEE ATC_**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167623), [[pdf]](https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view).
+1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. "On the overall ROC of multistage systems". **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167623), [[pdf]](https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view).
 
-1. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. "Multi-source data analysis for bike sharing systems". **_In Proc. IEEE ATC_**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167624), [[pdf]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view).
+1. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. "Multi-source data analysis for bike sharing systems". **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167624), [[pdf]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view).
 
 
 National Journals
