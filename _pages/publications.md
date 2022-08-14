@@ -38,7 +38,7 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. <a href="
 
 2021
 ----
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee"*. **IEEE Trans. Signal Process. (TSP)**, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST).
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee"*. **IEEE Trans. Signal Process. (TSP)**, 2021.  <a href="https://ieeexplore.ieee.org/document/9381678" style="color: red; text-decoration: underline;">[IEEExplore]</a>, <a href="https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view" style="color: red; text-decoration: underline;">[pdf]</a>, <a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: underline;">[code]</a>.
 
 
  
