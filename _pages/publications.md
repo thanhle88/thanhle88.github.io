@@ -82,7 +82,7 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. [[pdf]](h
 
 1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"A new windowed graph Fourier transform"*. **In Proc. IEEE NICS**, 2017. [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[pdf]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
 
-1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. *"On the overall ROC of multistage systems"*. **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167623), [[pdf]](https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view).
+1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. *"On the overall ROC of multistage systems"*. **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167623), [[pdf]](https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view), [[code]](https://github.com/thanhtbt/ROC).
 
 1. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. *"Multi-source data analysis for bike sharing systems"*. **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167624), [[pdf]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view).
 
