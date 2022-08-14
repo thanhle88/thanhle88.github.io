@@ -29,9 +29,7 @@ Low-sample-size Context”. 2022.
 ----
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and
-Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), 
-[[proof]](https://drive.google.com/file/d/1u72uF5oA2rPTKPJEdzkljJdkM3p8428Y/view?usp=sharing), [code coming soon]. 
-<a href="https://drive.google.com/file/d/1u72uF5oA2rPTKPJEdzkljJdkM3p8428Y/view?usp=sharing" style="color: red; text-decoration: underline;">[proof]</a>
+Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. <a href="https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing" style="color: red; text-decoration: underline;">[pdf]</a>, <a href="https://drive.google.com/file/d/1u72uF5oA2rPTKPJEdzkljJdkM3p8428Y/view?usp=sharing" style="color: red; text-decoration: underline;">[proof]</a>,  [code coming soon].
 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022.  [[pdf]](https://thanhtbt.github.io/publications/), [[code]](https://github.com/thanhtbt/ROBOT).
