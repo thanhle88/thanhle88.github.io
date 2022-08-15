@@ -8,7 +8,7 @@ author_profile: true
 
 *Note that PDF is for personal use only. Copyrights are reserved by Publishers.*
 
-Full list: <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: blue; text-decoration: underline;">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Le-Trung-Thanh-3" style="color: blue; text-decoration: underline;">Researchgate</a>.
+Full list: <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: red; text-decoration: underline;">Google Scholar</a>.
 
 In Progress
 ----
