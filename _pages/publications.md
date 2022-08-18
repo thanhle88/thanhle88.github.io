@@ -8,7 +8,7 @@ author_profile: true
 
 *Note that PDF is for personal use only. Copyrights are reserved by Publishers.*
 
-<a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: red; text-decoration: underline;">Google Scholar</a>.
+<a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: red; text-decoration: underline;">Google Scholar</a>
 
 In Progress
 ----
