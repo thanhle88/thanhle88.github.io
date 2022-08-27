@@ -30,7 +30,7 @@ Low-sample-size Context”. 2022.
 ----
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and
-Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), [[proof]](https://drive.google.com/file/d/1u72uF5oA2rPTKPJEdzkljJdkM3p8428Y/view?usp=sharing), [code coming soon].
+Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), [[proof]](https://drive.google.com/file/d/1u72uF5oA2rPTKPJEdzkljJdkM3p8428Y/view?usp=sharing), [code coming soon].
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[pdf]](https://drive.google.com/file/d/1u72uF5oA2rPT8428Y/view?usp=sharing), [[code]](https://github.com/thanhtbt/ROBOT).
 
