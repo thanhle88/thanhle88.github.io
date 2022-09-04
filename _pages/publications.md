@@ -7,7 +7,7 @@ author_profile: true
 
 Find my Google scholar profile [here](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en).
 
-*Note that PDF is for personal use only and copyrights are reserved by publishers*.
+*Note that PDFs are for personal use only and their copyrights are reserved by publishers*.
 
 ---
 
