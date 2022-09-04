@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-*Note that PDF is for personal use only and copyrights are reserved by publishers* (IEEE & IOP).
+*Note that PDF is for personal use only and copyrights are reserved by publishers*.
 
 Find my Google scholar profile [here]("https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en).
 
