@@ -7,9 +7,9 @@ author_profile: true
 
 Find my Google scholar profile [here]("https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en).
 
----
 *Note that PDF is for personal use only and copyrights are reserved by publishers*.
 
+---
 
 In Progress
 ----
@@ -25,6 +25,8 @@ In Progress
 Low-sample-size Context”. 2022.
 
 1. **L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”. 2022.
+
+---
 
 2022+
 ----
