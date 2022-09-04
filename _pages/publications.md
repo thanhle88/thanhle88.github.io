@@ -5,10 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 *Note that PDF is for personal use only. Copyrights are reserved by Publishers.*
 
-<a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: red; text-decoration: underline;">Google Scholar</a>
+**Full list**: <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: red; text-decoration: underline;">Google Scholar</a>.
 
 In Progress
 ----
@@ -18,7 +17,6 @@ In Progress
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “Streaming Tensor-Train Decomposition with Missing Data”. *TechRxiv*, 2022.  [[pdf]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[code]](https://github.com/thanhtbt/ATT-miss). 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition”. *TechRxiv*, 2022. [[pdf]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966). 
-
 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, and A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
