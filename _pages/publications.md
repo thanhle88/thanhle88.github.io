@@ -64,7 +64,7 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. [[IEEExpl
 
 
 
-2019
+2019 and before
 ----
 1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers via ADMM"*.  **In Proc. 27th EUSIPCO**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/8903031), [[pdf]](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view), [[code]](https://github.com/thanhtbt/RST). 
 
@@ -73,8 +73,6 @@ Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. [[IEEExpl
 
 1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. *"EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis"*. **In Proc. IEEE NICS**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[pdf]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
 
-2018 and before
-----
 
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach"*. **REV J. Elec. Commun.**, 2018.  [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/196), [[pdf]](https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view). 
 
