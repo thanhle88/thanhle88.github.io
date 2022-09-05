@@ -31,9 +31,9 @@ Low-sample-size Context”. 2022.
 2022+
 ----
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE TSP**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), [[supplementary]](https://drive.google.com/file/d/1zf1Z-nXciic4s3l7FInY-ozxfg6C7kpt/view?usp=sharing), [code coming soon]. 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[pdf]](https://drive.google.com/file/d/1SKWg2RzgtlgQ1Wp1ItbjRWXlgqrPvsnJ/view?usp=sharing), [[supplementary]](https://drive.google.com/file/d/1zf1Z-nXciic4s3l7FInY-ozxfg6C7kpt/view?usp=sharing), [code coming soon]. 
 
-1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. <span style="text-decoration:underline"> **IEEE ICASSP**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[pdf]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view), [code coming soon].
+1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. <span style="text-decoration:underline"> **In Proc. 47th IEEE ICASSP**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[pdf]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view), [code coming soon].
 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[pdf]](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing), [[code]](https://github.com/thanhtbt/ROBOT).
@@ -42,18 +42,18 @@ Low-sample-size Context”. 2022.
 
 2021
 ----
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee"*. <span style="text-decoration:underline"> **IEEE TSP**</span>, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST), [[supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing). 
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee"*. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[pdf]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[code]](https://github.com/thanhtbt/RST), [[supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing). 
 
  
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification"*. <span style="text-decoration:underline"> **IEEE TSP**</span>, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
+1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification"*. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2021.  [[IEEExplore]](https://ieeexplore.ieee.org/document/9537597), [[pdf]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
 
  
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey"*. **REV J. Elect. Commun.**, 2021.  [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[pdf]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view).
  
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *"A Fast Randomized Adaptive CP Decomposition for Streaming Tensors"*. <span style="text-decoration:underline"> **IEEE ICASSP**</span>, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9413554), [[pdf]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[code]](https://github.com/thanhtbt/ROLCP). 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *"A Fast Randomized Adaptive CP Decomposition for Streaming Tensors"*. <span style="text-decoration:underline"> **In Proc. 46th IEEE ICASSP**</span>, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9413554), [[pdf]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[code]](https://github.com/thanhtbt/ROLCP). 
 
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error"*. **IEEE EUSIPCO**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9615921), [[pdf]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view). 
+1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error"*. **In Proc. 29th EUSIPCO**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9615921), [[pdf]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view). 
 
 1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. *"Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems"*. **In Proc. 55th Asilomar**, 2021.   [[IEEExplore]](https://ieeexplore.ieee.org/document/9723265), [[pdf]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view). 
 
