@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find my Google scholar profile [here](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en).
+Find a full list of my publications in Google scholar [here](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en) and codes in Github [here](https://github.com/thanhtbt).
 
 *Note that PDFs are for personal use only and their copyrights are reserved by publishers*.
 
