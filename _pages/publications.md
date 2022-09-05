@@ -35,7 +35,7 @@ Low-sample-size Context”. 2022.
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[pdf]](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing), [[code]](https://github.com/thanhtbt/ROBOT).
 
-1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. **In Proc. 47th IEEE ICASSP**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[pdf]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view), [code coming soon].
+1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. <span style="text-decoration:underline"> **In Proc. 47th IEEE ICASSP** </span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[pdf]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view), [code coming soon].
 
 2021
 ----
@@ -48,7 +48,7 @@ Low-sample-size Context”. 2022.
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey"*. **REV J. Elect. Commun.**, 2021.  [[doi]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[pdf]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view).
  
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *"A Fast Randomized Adaptive CP Decomposition for Streaming Tensors"*. **In Proc. 46th IEEE ICASSP**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9413554), [[pdf]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[code]](https://github.com/thanhtbt/ROLCP). 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *"A Fast Randomized Adaptive CP Decomposition for Streaming Tensors"*. <span style="text-decoration:underline"> **In Proc. 46th IEEE ICASSP** </span>, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9413554), [[pdf]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[code]](https://github.com/thanhtbt/ROLCP). 
 
 1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error"*. **In Proc. 29th EUSIPCO**, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9615921), [[pdf]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view). 
 
