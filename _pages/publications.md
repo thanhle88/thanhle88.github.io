@@ -24,7 +24,6 @@ In Progress
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
 Low-sample-size Context”. 2022.
 
-1. **L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”. 2022.
 
 ---
 
@@ -38,6 +37,7 @@ Low-sample-size Context”. 2022.
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[pdf]](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing), [[code]](https://github.com/thanhtbt/ROBOT).
 
+1. **L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”. **In Proc. 14th APISIPA-ASC**, 2022. 
 
 
 2021
