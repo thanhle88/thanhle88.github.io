@@ -80,7 +80,7 @@ Low-sample-size Context”. 2022.
 
 1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach"*. **REV J. Elec. Commun.**, 2018.  [[Link]](https://rev-jec.org/index.php/rev-jec/article/view/196), [[PDF]](https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view). 
 
-1. L.T. Xuyen, <span style="text-decoration:underline">**L.T. Thanh**</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. *"Deep learning for epileptic spike detection"*. **VNU J. Sci.**, 2018. [[Link]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156), [[PDF]](https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view).  
+1. L.T. Xuyen, **L.T. Thanh**, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. *"Deep learning for epileptic spike detection"*. **VNU J. Sci.**, 2018. [[Link]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156), [[PDF]](https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view).  
 
 1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection"*. **In Proc. IEEE NICS**, 2018. [[IEEExplore]](https://ieeexplore.ieee.org/document/8606822), [[PDF]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view), <span style="color:#B22222">[**Best Paper Award**]</span>.
  
