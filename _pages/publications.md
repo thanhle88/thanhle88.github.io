@@ -72,24 +72,24 @@ Low-sample-size Context”. 2022.
 ----
 1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers via ADMM"*.  **In Proc. 27th EUSIPCO**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/8903031), [[PDF]](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view), [[Matlab Codes]](https://github.com/thanhtbt/RST). 
 
+1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach"*. **REV J. Elec. Commun.**, 2018.  [[Link]](https://rev-jec.org/index.php/rev-jec/article/view/196), [[PDF]](https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view). 
+
+1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. *"On the overall ROC of multistage systems"*. **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167623), [[PDF]](https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view), [[Matlab Codes]](https://github.com/thanhtbt/ROC).
+
+
+1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"A new windowed graph Fourier transform"*. **In Proc. IEEE NICS**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[PDF]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
+
 
 1. N.T.A. Dao, **L.T. Thanh**, N.V. Dung, N. L. Trung, & L.V. Ha. *"New feature selection method for multi-channel EEG epileptic spike detection system"*. **VNU J. Sci.**, 2019. [[Link]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230), [[PDF]](https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view).
 
 1. L.T. Xuyen, **L.T. Thanh**, N. L. Trung, T.T.T. Quynh, & N.D. Thuan. *"EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis"*. **In Proc. IEEE NICS**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/9023865), [[PDF]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view).
 
 
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach"*. **REV J. Elec. Commun.**, 2018.  [[Link]](https://rev-jec.org/index.php/rev-jec/article/view/196), [[PDF]](https://drive.google.com/file/d/1ZGGLmtGhVj_OloLK9MRzyCOHaASNoGTD/view). 
-
 1. L.T. Xuyen, **L.T. Thanh**, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan. *"Deep learning for epileptic spike detection"*. **VNU J. Sci.**, 2018. [[Link]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156), [[PDF]](https://drive.google.com/file/d/1WneJlybazBSw69EQQP29Ff31g1Yuueor/view).  
 
 1. N.T.A. Dao, **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection"*. **In Proc. IEEE NICS**, 2018. [[IEEExplore]](https://ieeexplore.ieee.org/document/8606822), [[PDF]](https://drive.google.com/file/d/1dgFTYBNQaNYwyzs_o_9TDs1kt-6Eck_9/view), <span style="color:#B22222">[**Best Paper Award**]</span>.
  
-
-1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"A new windowed graph Fourier transform"*. **In Proc. IEEE NICS**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8108055), [[PDF]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view).
-
-1. **L.T. Thanh**, N.T.A. Dao, N. L. Trung, & L.V. Ha. *"On the overall ROC of multistage systems"*. **In Proc. IEEE ATC**, 2017.  [[IEEExplore]](https://ieeexplore.ieee.org/document/8167623), [[PDF]](https://drive.google.com/file/d/1bY5jYU1Fjj9uaN_iBiFk4ch56sOG2J0e/view), [[Matlab Codes]](https://github.com/thanhtbt/ROC).
-
-3. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. *"Multi-source data analysis for bike sharing systems"*. **In Proc. IEEE ATC**, 2017.   [[IEEExplore]](https://ieeexplore.ieee.org/document/8167624), [[PDF]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view).
+1. N.T.H. Thu, **L.T. Thanh**, C.T. P. Dung, N. L. Trung, & L.V. Ha. *"Multi-source data analysis for bike sharing systems"*. **In Proc. IEEE ATC**, 2017.   [[IEEExplore]](https://ieeexplore.ieee.org/document/8167624), [[PDF]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view).
 
 Thesis
 =====
