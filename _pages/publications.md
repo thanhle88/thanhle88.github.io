@@ -14,7 +14,7 @@ Find a full list of my publications in Google scholar [here](https://scholar.goo
 In Progress
 ----
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”. *TechRxiv*, 2022. [[PDF]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[Matlab Codes]](https://github.com/thanhtbt/Tensor_Tracking).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”. *TechRxiv*, 2022. [[Link]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[PDF]](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/Tensor_Tracking).
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Streaming Tensor-Train Decomposition with Missing Data”. *TechRxiv*, 2022.  [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[Matlab Codes]](https://github.com/thanhtbt/ATT-miss). 
 
@@ -27,7 +27,7 @@ Low-sample-size Context”. 2022.
 
 ---
 
-2022+
+2022
 ----
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[PDF]](https://drive.google.com/file/d/15BkqjmRlVOxOBfgSi5umkhn4SW2abZsk/view?usp=sharing), [[Supplementary]](https://drive.google.com/file/d/1zf1Z-nXciic4s3l7FInY-ozxfg6C7kpt/view?usp=sharing), [Code Coming Soon]. 
