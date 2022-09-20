@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find a full list of my publications in Google scholar [here](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en) and codes in Github [here](https://github.com/thanhtbt).
+Find a full list of my publications in GoogleScholar [here](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en), ResearchGate [here](https://www.researchgate.net/profile/Le-Trung-Thanh-3) and source codes in Github [here](https://github.com/thanhtbt).
 
 *Note that PDFs are for personal use only and their copyrights are reserved by publishers*.
 
