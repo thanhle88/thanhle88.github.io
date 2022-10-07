@@ -14,6 +14,9 @@ Find a full list of my publications in GoogleScholar [here](https://scholar.goog
 Preprints
 ----
 
+1. **L.T. Thanh**, Aref Miri Rekavandi, Abd-Krim Seghouane, K. Abed-Meraim. “Robust Subspace Tracking With Contamination via Alpha-Divergence”. 2022. [Code Comming Soon].
+
+
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”. *TechRxiv*, 2022. [[Link]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[PDF]](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/Tensor_Tracking).
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Streaming Tensor-Train Decomposition with Missing Data”. *TechRxiv*, 2022.  [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[Matlab Codes]](https://github.com/thanhtbt/ATT-miss). 
