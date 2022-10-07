@@ -22,7 +22,7 @@ Preprints
 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
-Low-sample-size Context”. 2022.
+Low-sample-size Context”. 2022. [Code Coming Soon].
 
 
 ---
