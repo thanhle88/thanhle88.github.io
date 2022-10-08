@@ -7,7 +7,7 @@ author_profile: true
 
 *Note that PDF is for personal use only. Copyrights are reserved by Publishers.*
 
-Full list: [Google Scholar](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en)
+Publications: [Google Scholar](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en)
 
 Source Codes: [Github](https://github.com/thanhtbt/)
 
