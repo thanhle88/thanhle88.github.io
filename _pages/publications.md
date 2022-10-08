@@ -14,8 +14,6 @@ Find a full list of my publications in GoogleScholar [here](https://scholar.goog
 Preprints
 ----
 
-1. **L.T. Thanh**, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim. “Robust Subspace Tracking With Contamination via Alpha-Divergence”. 2022. [Code Comming Soon].
-
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”. *TechRxiv*, 2022. [[Link]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[PDF]](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/Tensor_Tracking).
 
@@ -27,13 +25,15 @@ Preprints
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
 Low-sample-size Context”. 2022. [Code Coming Soon].
 
+1. **L.T. Thanh**, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim. “Robust Subspace Tracking With Contamination via Alpha-Divergence”. 2022. [Code Comming Soon].
+
 
 ---
 
 2022
 ----
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[PDF]](https://drive.google.com/file/d/15BkqjmRlVOxOBfgSi5umkhn4SW2abZsk/view?usp=sharing), [[Supplementary]](https://drive.google.com/file/d/1zf1Z-nXciic4s3l7FInY-ozxfg6C7kpt/view?usp=sharing), [Code Coming Soon]. 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[PDF]](https://drive.google.com/file/d/15BkqjmRlVOxOBfgSi5umkhn4SW2abZsk/view?usp=sharing), [[Supplementary]](https://drive.google.com/file/d/1zf1Z-nXciic4s3l7FInY-ozxfg6C7kpt/view?usp=sharing), [Code Coming Soon].
 
 1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. **In Proc. 47th IEEE ICASSP**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[PDF]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view), [Code Coming Soon].
 
