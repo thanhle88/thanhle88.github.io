@@ -52,7 +52,7 @@ Conferences
 
 1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. "Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems". **In Proc. 55th Asilomar**, 2021.[[IEEExplore]](https://ieeexplore.ieee.org/abstract/document/9723265), [[PDF]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view).
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". **In Proc. 28th EUSIPCO**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[PDF]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[code]](https://github.com/thanhtbt/ATT).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. "Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors". **In Proc. 28th EUSIPCO**, 2020. [[IEEExplore]](https://ieeexplore.ieee.org/document/9287780), [[PDF]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view),[[Matlab Codes]](https://github.com/thanhtbt/ATT).
 
 1. **L.T. Thanh**, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim. "Robust Subspace Tracking with Missing Data and Outliers via ADMM".  **In Proc. 27th EUSIPCO**, 2019. [[IEEExplore]](https://ieeexplore.ieee.org/document/8903031), [[PDF]](https://drive.google.com/file/d/1fOfWjUdMgUuOI7yWpouid3BMb29QQzkr/view), [[Matlab Codes]](https://github.com/thanhtbt/RST). 
 
