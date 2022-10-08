@@ -39,7 +39,7 @@ Journals
 Conferences
 ----
 
-**L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *“Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”*. **In Proc. 14th APSIPA-ASC**, 2022. [[PDF]](https://drive.google.com/file/d/1i9J8khoByT-4pGkeNzRidhLJFE2tdZBK/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/ROTDL).
+1. **L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *“Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”*. **In Proc. 14th APSIPA-ASC**, 2022. [[PDF]](https://drive.google.com/file/d/1i9J8khoByT-4pGkeNzRidhLJFE2tdZBK/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/ROTDL).
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[PDF]](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/ROBOT).
 
