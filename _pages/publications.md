@@ -38,7 +38,7 @@ Low-sample-size Context”. 2022. [Code Coming Soon].
 1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. **In Proc. 47th IEEE ICASSP**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), [[PDF]](https://drive.google.com/file/d/1fOSTtaSCNWVRb6xEx5Tk1ThgAJwp1Xe0/view), [Code Coming Soon].
 
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[Link]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0001477.pdf), [[PDF]](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/ROBOT).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[Link]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0000832.pdf), [[PDF]](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/ROBOT).
 
 1. **L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *“Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”*. **In Proc. 14th APSIPA-ASC**, 2022. [[PDF]](https://drive.google.com/file/d/1i9J8khoByT-4pGkeNzRidhLJFE2tdZBK/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/ROTDL).
 
