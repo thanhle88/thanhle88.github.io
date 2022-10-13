@@ -38,9 +38,9 @@ Low-sample-size Context”. 2022. [Code Coming Soon].
 1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. **In Proc. 47th IEEE ICASSP**, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9746546), <a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/SST).
 
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[Link]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0000832.pdf), [[PDF]](https://drive.google.com/file/d/1HgngRD2d_7yYxxP_unwK7wHJNec3vaxY/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/ROBOT).
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung & A. Hafiane. *"Robust Tensor Tracking With Missing Data Under Tensor-Train Format"*. **In Proc. 30th EUSIPCO**, 2022. [[Link]](https://eurasip.org/Proceedings/Eusipco/Eusipco2022/pdfs/0000832.pdf),  <a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ROBOT).
 
-1. **L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *“Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”*. **In Proc. 14th APSIPA-ASC**, 2022. <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"> [PDF]</a> , [[Matlab Codes]](https://github.com/thanhtbt/ROTDL).
+1. **L.T. Thanh**, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *“Robust Online Tucker Dictionary Learning from Multidimensional Data Streams”*. **In Proc. 14th APSIPA-ASC**, 2022. <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ROTDL).
 
 
 2021
