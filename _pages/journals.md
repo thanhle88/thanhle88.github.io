@@ -27,7 +27,7 @@ Low-sample-size Context”. 2022.
 
 Journals
 ----
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[PDF]](https://drive.google.com/file/d/15BkqjmRlVOxOBfgSi5umkhn4SW2abZsk/view?usp=sharing), [[Supplementary]](https://drive.google.com/file/d/1zf1Z-nXciic4s3l7FInY-ozxfg6C7kpt/view?usp=sharing). 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2022. [[IEEExplore]](https://ieeexplore.ieee.org/document/9866940), [[PDF]](https://drive.google.com/file/d/15BkqjmRlVOxOBfgSi5umkhn4SW2abZsk/view?usp=sharing), [[Supplementary]](https://drive.google.com/file/d/1zf1Z-nXciic4s3l7FInY-ozxfg6C7kpt/view?usp=sharing), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [Preprint]</a>. 
 
 1.  **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee"*. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (TSP)**</span>, 2021. [[IEEExplore]](https://ieeexplore.ieee.org/document/9381678), [[PDF]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing). 
  
