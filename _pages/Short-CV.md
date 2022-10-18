@@ -8,9 +8,7 @@ author_profile: true
 ## Education
 
 * *Ph.D. in Signal Processing*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022).
-* *M.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Dec. 2016 -- Dec. 2018). 
-* *B.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Jun. 2016). 
-
+* *B.Sc. & M.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Dec. 2018). 
 
 ---
 ## Experiences
