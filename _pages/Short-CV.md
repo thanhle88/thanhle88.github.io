@@ -15,7 +15,7 @@ author_profile: true
 
 * *Postdoctoral Researcher*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2022 -- now).
  
- Topics: Data science methods for human muscular investigation using multidimensional electromyographic device.
+    Topics: Data science methods for human muscular investigation using multidimensional electromyographic device.
 
 * *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022).
  
