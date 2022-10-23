@@ -25,7 +25,7 @@ Preprints
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
 Low-sample-size Context”. 2022. [Code Coming Soon].
 
-1. **L.T. Thanh**, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim. “Robust Subspace Tracking With Contamination via Alpha-Divergence”. 2022. [PDF]</a>, <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf">, [[Matlab Codes]](https://github.com/thanhtbt/aFAPI). 
+1. **L.T. Thanh**, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim. “Robust Subspace Tracking With Contamination via Alpha-Divergence”. 2022. <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf">[PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/aFAPI). 
 
 
 ---
