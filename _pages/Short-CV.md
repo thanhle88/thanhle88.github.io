@@ -7,17 +7,17 @@ author_profile: true
 
 ## Education
 
-* *Ph.D. in Signal Processing*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022).
+* *Ph.D. in Signal Processing*, [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022).
 * *B.Sc. & M.Sc. in Electronics and Communications*, [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Dec. 2018). 
 
 ---
 ## Experiences
 
-* *Postdoctoral Researcher*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2022 -- now).
+* *Postdoctoral Researcher*, [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2022 -- now).
  
     Topics: Data science methods for human muscular investigation using multidimensional electromyographic device.
 
-* *Ph.D. Candidate*, [University of Orleans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022).
+* *Ph.D. Candidate*, [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022).
  
     Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (Main Supervisor, IEEE Fellow) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en) (Co-Supervisor), and [Prof. Nguyen Linh Trung](https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao) (Co-Encadrant): 
     - Tensor Analysis: Develop fast adaptive tensor algorithms for factorizing streaming data.
