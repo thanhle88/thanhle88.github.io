@@ -15,7 +15,7 @@ Orleans, France
 
 Biography
 -----
-I received my B.Sc. and M.Sc. degrees in Electronics and Communications from VNU University of Engineering and Technology, Hanoi, Vietnam in 2016 and 2018 respectively, and my Ph.D. degree in Signal Processing from the University of Orléans, France in 2022. My research interests include signal processing, subspace tracking, tensor analysis, and system identification.
+I am currently a postdoctoral reseacher at the PRISME Laboratory, University of Orléans/INSA CVL, France. I received my B.Sc. and M.Sc. degrees in Electronics and Communications from VNU University of Engineering and Technology, Hanoi, Vietnam in 2016 and 2018 respectively, and my Ph.D. degree in Signal Processing from the University of Orléans, France. in 2022. My research interests include signal processing and its applications, e.g., subspace analysis/tracking, tensor decomposition/tracking, system identification, and biomedical signal processing.
 
 
 Contact
