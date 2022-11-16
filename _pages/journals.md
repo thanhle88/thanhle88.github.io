@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "Selected Journals"
+title: "Journals"
 permalink: /journals/
 author_profile: true
 ---
+
+
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. **IEEE Trans. Signal Process. (TSP)**, 2022. 
 
