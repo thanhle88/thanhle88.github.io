@@ -96,8 +96,8 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 Thesis
 =====
 
-1. Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans.  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf">[PDF]</a>.
+1. Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, 2022.  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf">[PDF]</a>.
 
-1. M.Sc. *"GMNS-based Tensor Decomposition"*. VNU-UET 2018. [[PDF]](https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view).
+1. M.Sc. *"GMNS-based Tensor Decomposition"*. VNU-UET, 2018. [[PDF]](https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view).
 
-1. B.Sc. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET 2016. [[PDF]](https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view). 
+1. B.Sc. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET, 2016. [[PDF]](https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view). 
