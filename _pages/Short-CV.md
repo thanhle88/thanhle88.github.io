@@ -19,7 +19,7 @@ author_profile: true
 
 * *Ph.D. Candidate*, [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022).
  
-    Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (Main Supervisor, IEEE Fellow) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en) (Co-Supervisor), and [Prof. Nguyen Linh Trung](https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao) (Co-Encadrant): 
+    Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (Main Supervisor, *IEEE Fellow*) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en) (Co-Supervisor), and [Prof. Nguyen Linh Trung](https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao) (Co-Encadrant): 
     - Tensor Analysis: Develop fast adaptive tensor algorithms for factorizing streaming data.
     - Subspace Tracking: Develop fast and effective algorithms subspace tracking in high dimensions.
     - System Identification: Investigate performance lower bounds of blind, semi-blind systems identification techniques under model misspecification.
@@ -41,10 +41,9 @@ author_profile: true
 
 ---
 ## Honors and Awards
-* **Best Paper Award** for *“Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection”* at the conference ***IEEE NICS*** 2018.
+* **Best Paper Award** at ***IEEE NICS*** 2018.
 *  **Outstanding Student Awards** for undergraduate (2012-2016) and graduate (2016-2018) levels, VNU-UET.
-* **Dean’s list** for 6/8 undergraduate semesters II-VII continuously, VNU-UET.
-* **Best Thesis Award** for *“EEG Epileptic Spike Detection using Deep Belief Networks”*, VNU-UET, 2016.
-* **Competitions**: ***3rd place*** (bronze medal) in the *18th Vietnam National Physics Olympiad*, ***2nd place*** in the *Provincial Physics Competition* (grade 12), and ***3rd place*** in the *Provincial Informatics Competition* (grade 11).
+* **Best Undergraduate Thesis Award**, VNU-UET, 2016.
+* **Competitions**: ***3rd place*** (bronze medal) in the *18th Vietnam National Physics Olympiad* (VPhO), ***2nd place*** in the *Provincial Physics Competition* (grade 12), and ***3rd place*** in the *Provincial Informatics Competition* (grade 11).
 * **Scholarships**: Toshiba (2017), Yamada (2016), Odon Vallet (2015), Tharal-InSEWA (2015), and PonyChung (2014).
 
