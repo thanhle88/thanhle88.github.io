@@ -32,7 +32,7 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 2022
 ----
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (IEEE TSP)**</span>, 2022. [[Link]](https://ieeexplore.ieee.org/document/9866940), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [PDF]</a>, <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"> [Supplementary]</a>, [Code Coming Soon]. 
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (IEEE TSP)**</span>, 2022. [[Link]](https://ieeexplore.ieee.org/document/9866940), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [PDF]</a>, <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"> [Supplementary]</a>.
 
 1. **L.T. Thanh**, K. Abed-Meraim, A. Hafiane, & N. L. Trung. *"Sparse Subspace Tracking in High Dimensions"*. **In Proc. 47th IEEE ICASSP**, 2022. [[Link]](https://ieeexplore.ieee.org/document/9746546), <a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/SST).
 
