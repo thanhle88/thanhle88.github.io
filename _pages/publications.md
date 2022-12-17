@@ -33,12 +33,9 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 ----
 
 1. *Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis* 
-
-   **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane
-   
-   **IEEE Trans. Signal Process. (IEEE TSP)**</span>, 2022. 
-   
-   [[Link]](https://ieeexplore.ieee.org/document/9866940), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [PDF]</a>, <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"> [Supplementary]</a>.
+   **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane 
+   **IEEE Trans. Signal Process. (IEEE TSP)**, 2022 
+    [[Link]](https://ieeexplore.ieee.org/document/9866940), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [PDF]</a>, <a   href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"> [Supplementary]</a>.
  
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (IEEE TSP)**</span>, 2022. [[Link]](https://ieeexplore.ieee.org/document/9866940), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [PDF]</a>, <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"> [Supplementary]</a>.
 
