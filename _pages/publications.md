@@ -20,8 +20,6 @@ Preprints
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Streaming Tensor-Train Decomposition with Missing Data”. *TechRxiv*, 2022.  [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[Matlab Codes]](https://github.com/thanhtbt/ATT-miss). 
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition”. *TechRxiv*, 2022. [[PDF]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966). 
-
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
 Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/SST).
@@ -31,6 +29,8 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 
 2022
 ----
+
+1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition*”. <span style="text-decoration:underline"> **IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)**</span>, 2022. [[PDF]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966). 
 
 1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “*Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis*”. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (IEEE TSP)**</span>, 2022.  [[Link]](https://ieeexplore.ieee.org/document/9866940), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [PDF]</a>, <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"> [Supplementary]</a>.
 
