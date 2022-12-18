@@ -14,15 +14,14 @@ Find a full list of my publications in GoogleScholar [here](https://scholar.goog
 Preprints
 ----
 
-1. **L.T. Thanh**, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim. “Robust Subspace Tracking With Contamination via Alpha-Divergence”. TechRxiv, 2022. [[Link]](https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335), <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf">[PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/aFAPI). 
+1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> [[Link]](https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335), <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf">[PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/aFAPI) 
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”. *TechRxiv*, 2022. [[Link]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[PDF]](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/Tensor_Tracking).
+1.  **Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> [[Link]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[PDF]](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/Tensor_Tracking)
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “Streaming Tensor-Train Decomposition with Missing Data”. *TechRxiv*, 2022.  [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[Matlab Codes]](https://github.com/thanhtbt/ATT-miss). 
+1. **Streaming Tensor-Train Decomposition with Missing Data**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[Matlab Codes]](https://github.com/thanhtbt/ATT-miss)
 
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. “OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and
-Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/SST).
+1. **OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> [[Matlab Codes]](https://github.com/thanhtbt/SST)
 
 
 ---
@@ -45,7 +44,7 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 
 2021
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9381678), [[PDF]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing).
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9381678), [[PDF]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing)
 
  
 1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br>[[Link]](https://ieeexplore.ieee.org/document/9537597), [[PDF]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view)
