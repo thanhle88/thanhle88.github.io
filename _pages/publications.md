@@ -44,29 +44,29 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 
 2021
 ----
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee"*. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (IEEE TSP)**</span>, 2021. [[Link]](https://ieeexplore.ieee.org/document/9381678), [[PDF]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing), <a href="https://thanhtbt.github.io/files/2021_PETRELS_ADMM_Full_Report.pdf"> [Extended-Cut PDF]</a>. 
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9381678), [[PDF]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing), <a href="https://thanhtbt.github.io/files/2021_PETRELS_ADMM_Full_Report.pdf"> [Extended-Cut PDF]</a>
 
  
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification"*. <span style="text-decoration:underline"> **IEEE Trans. Signal Process. (IEEE TSP)**</span>, 2021.  [[Link]](https://ieeexplore.ieee.org/document/9537597), [[PDF]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view).
+1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br>[[Link]](https://ieeexplore.ieee.org/document/9537597), [[PDF]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view)
 
  
-1. **L.T. Thanh**, N.V. Dung, N. L. Trung, & K. Abed-Meraim. *"Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey"*. **REV J. Elect. Commun.**, 2021.  [[Link]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[PDF]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view).
+1. **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elect. Commun.***, 2021<br>[[Link]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[PDF]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view)
  
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & A. Hafiane. *"A Fast Randomized Adaptive CP Decomposition for Streaming Tensors"*. **In Proc. 46th IEEE ICASSP**, 2021. [[Link]](https://ieeexplore.ieee.org/document/9413554), [[PDF]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[Matlab Codes]](https://github.com/thanhtbt/ROLCP). 
+1. **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***46th IEEE ICASSP***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9413554), [[PDF]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[Matlab Codes]](https://github.com/thanhtbt/ROLCP) 
 
-1. **L.T. Thanh**, K. Abed-Meraim, & N. L. Trung. *"Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error"*. **In Proc. 29th EUSIPCO**, 2021. [[Link]](https://ieeexplore.ieee.org/document/9615921), [[PDF]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view). 
+1. **Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br> ***29th EUSIPCO***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9615921), [[PDF]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view)
 
-1. O. Rekik, A. Mokraoui, T.T.T Quynh, **L.T. Thanh**, & K. Abed-Meraim. *"Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems"*. **In Proc. 55th Asilomar**, 2021.   [[Link]](https://ieeexplore.ieee.org/document/9723265), [[PDF]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view). 
+1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> ***55th Asilomar***, 2021 <br>   [[Link]](https://ieeexplore.ieee.org/document/9723265), [[PDF]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view). 
 
 
 2020
 ----
 
-1. **L.T. Thanh**, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition"*. <span style="text-decoration:underline"> **J. Neural Eng. (JNE)**</span>, 2020.  [[Link]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[PDF]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view?usp=sharing), [[Extended-Cut PDF]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).   
+1. <span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim. *"Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition"*. <span style="text-decoration:underline"> **J. Neural Eng. (JNE)**</span>, 2020.  [[Link]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[PDF]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view?usp=sharing), [[Extended-Cut PDF]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view).   
 
 
-1. **L.T. Thanh**, K. Abed-Meraim, N. L. Trung, & R. Boyer. *"Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors"*. **In Proc. 28th EUSIPCO**, 2020. [[Link]](https://ieeexplore.ieee.org/document/9287780), [[PDF]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view), [[Matlab Codes]](https://github.com/thanhtbt/ATT). 
+1. <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer. *"Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors"*. **In Proc. 28th EUSIPCO**, 2020. [[Link]](https://ieeexplore.ieee.org/document/9287780), [[PDF]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view), [[Matlab Codes]](https://github.com/thanhtbt/ATT). 
 
 
 
