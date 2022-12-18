@@ -82,7 +82,7 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 1. **A new windowed graph Fourier transform**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  ***IEEE NICS***, 2017<br> [[Link]](https://ieeexplore.ieee.org/document/8108055), [[PDF]](https://drive.google.com/file/d/16FiMg-Yek-ZKN2Jn4_7T_ZQu3nmkUA8g/view)
 
 
-1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha.  ***VNU J. Sci.***, 2019<br> [[Link]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230), [[PDF]](https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view)
+1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci.***, 2019<br> [[Link]](https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230), [[PDF]](https://drive.google.com/file/d/1npc8-DjZYuTKAsAVMu15tq4UjoVgfstP/view)
 
 1. **EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**<br> L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> ***IEEE NICS***, 2019<br> [[Link]](https://ieeexplore.ieee.org/document/9023865), [[PDF]](https://drive.google.com/file/d/1_gtc2ZZrhb5cLq3R3U_LxV-fI_qFir5U/view)
 
