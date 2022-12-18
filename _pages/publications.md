@@ -30,7 +30,7 @@ Low-sample-size Context”. 2022.  [[Matlab Codes]](https://github.com/thanhtbt/
 2022
 ----
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br> (*Accepted*), [[PDF]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966) 
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br> (*Accepted*), [[Link]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966), [[PDF]](https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966)
 
 1. **Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2022<br>[[Link]](https://ieeexplore.ieee.org/document/9866940), <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"> [PDF]</a>, <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"> [Supplementary]</a>
 
