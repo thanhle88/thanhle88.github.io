@@ -39,7 +39,7 @@ Preprints
 
 1. **Robust Tensor Tracking With Missing Data Under Tensor-Train Format**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br>***30th EUSIPCO***, 2022<br> [[Link]](https://ieeexplore.ieee.org/document/9909702),  <a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ROBOT)
 
-1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***14th APSIPA-ASC***, 2022<br><a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ROTDL)
+1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***14th APSIPA-ASC***, 2022<br> [[Link]](https://ieeexplore.ieee.org/document/9980029), <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ROTDL)
 
 
 2021
