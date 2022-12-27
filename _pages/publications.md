@@ -44,7 +44,9 @@ Preprints
 
 2021
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9381678), <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing)
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9381678), <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/RST), <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf"> [Supplementary]</a>  
+
+
 
  
 1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br>[[Link]](https://ieeexplore.ieee.org/document/9537597),  <a href="https://thanhtbt.github.io/files/2021_TSP_MCRB%20(Raw).pdf"> [PDF]</a>
@@ -66,7 +68,7 @@ Preprints
 2020
 ----
 
-1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***J. Neural Eng. (JNE)***, 2020<br> [[Link]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247),  <a  href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"> [PDF]</a>,  <a  href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf"> [PDF]</a>
+1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***J. Neural Eng. (JNE)***, 2020<br> [[Link]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247),  <a  href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"> [PDF]</a>,  <a  href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf"> [Full]</a>
 
 1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***28th EUSIPCO***, 2020<br> [[Link]](https://ieeexplore.ieee.org/document/9287780),  <a  href="https://thanhtbt.github.io/files/2020_EUSIPCO%20-%20Adaptive%20Algorithms%20for%20Tracking%20Tensor-Train%20Decomposition%20of%20Streaming%20Tensors.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ATT)
 
