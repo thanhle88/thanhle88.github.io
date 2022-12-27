@@ -44,20 +44,23 @@ Preprints
 
 2021
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9381678), [[PDF]](https://drive.google.com/file/d/1LqwEKT_6HNw525yVILXikMSR95P8KwB1/view), [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing)
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9381678), <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/RST), [[Supplementary]](https://drive.google.com/file/d/1YnJ8zdwy60vzPHIzhlY08fXYGvFU4k_T/view?usp=sharing)
 
  
-1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br>[[Link]](https://ieeexplore.ieee.org/document/9537597), [[PDF]](https://drive.google.com/file/d/1QeIRxPiVJCJ3WoVv9EPGSIWPthoW1FBi/view)
+1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br>[[Link]](https://ieeexplore.ieee.org/document/9537597),  <a href="https://thanhtbt.github.io/files/2021_TSP_MCRB%20(Raw).pdf"> [PDF]</a>
+
 
  
-1. **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elect. Commun.***, 2021<br>[[Link]](https://rev-jec.org/index.php/rev-jec/article/view/270), [[PDF]](https://drive.google.com/file/d/14XWoITbCiZmQjJBO6hmQvnH_iIuTYz-w/view)
+1. **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elect. Commun.***, 2021<br>[[Link]](https://rev-jec.org/index.php/rev-jec/article/view/270),   <a href="https://thanhtbt.github.io/files/2021_JEC_Robust%20Subspace%20Tracking%20Algorithms%20in%20Signal%20Processing.pdf"> [PDF]</a>
  
 
-1. **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***46th IEEE ICASSP***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9413554), [[PDF]](https://drive.google.com/file/d/1DAUTPryASpIoDxUZlRW_jzMSFeOS5EPm/view), [[Matlab Codes]](https://github.com/thanhtbt/ROLCP) 
+1. **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***46th IEEE ICASSP***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9413554), <a href="https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ROLCP) 
 
-1. **Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br> ***29th EUSIPCO***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9615921), [[PDF]](https://drive.google.com/file/d/1H0w8OBMVRq2rsSNT-QjtcWSBTJ-H1UYd/view)
+1. **Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br> ***29th EUSIPCO***, 2021<br> [[Link]](https://ieeexplore.ieee.org/document/9615921),  <a href="https://thanhtbt.github.io/files/2021_EUSIPCO_Perforamnce%20lower%20bounds%20of%20blind%20system%20identification%20techniques%20in%20the%20presence%20of%20channel%20order%20estimation%20error.pdf"> [PDF]</a>
 
-1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> ***55th Asilomar***, 2021 <br>   [[Link]](https://ieeexplore.ieee.org/document/9723265), [[PDF]](https://drive.google.com/file/d/19GUQ3qFgFpcKL5QaKPrqEw3CCvIF55aw/view)
+1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> ***55th Asilomar***, 2021 <br>   [[Link]](https://ieeexplore.ieee.org/document/9723265),  <a href="https://thanhtbt.github.io/files/2021_Asilomar_Side%20Information%20Effect%20on%20Semi-Blind%20Channel%20Identification%20for%20MIMO-OFDM%20Communications.pdf"> [PDF]</a>
+
+
 
 
 2020
