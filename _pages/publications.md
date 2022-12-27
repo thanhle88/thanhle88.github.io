@@ -66,10 +66,10 @@ Preprints
 2020
 ----
 
-1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***J. Neural Eng. (JNE)***, 2020<br> [[Link]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247), [[PDF]](https://drive.google.com/file/d/152TeB1p8MqDRZaUGkoZS0gieajeQ4sQO/view?usp=sharing), [[Extended-Cut PDF]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view)
+1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***J. Neural Eng. (JNE)***, 2020<br> [[Link]](https://iopscience.iop.org/article/10.1088/1741-2552/ab5247),  <a  href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"> [PDF]</a>, [[Extended-Cut PDF]](https://drive.google.com/file/d/1tmyBUx9CKHekFk5XyDNHN25qSdWUEnEB/view)
 
 
-1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***28th EUSIPCO***, 2020<br> [[Link]](https://ieeexplore.ieee.org/document/9287780), [[PDF]](https://drive.google.com/file/d/1A4lvKG7PMVyTBYyYsA2H9SZpr9hyfhUE/view), [[Matlab Codes]](https://github.com/thanhtbt/ATT)
+1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***28th EUSIPCO***, 2020<br> [[Link]](https://ieeexplore.ieee.org/document/9287780),  <a  href="https://thanhtbt.github.io/files/2020_EUSIPCO%20-%20Adaptive%20Algorithms%20for%20Tracking%20Tensor-Train%20Decomposition%20of%20Streaming%20Tensors.pdf"> [PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/ATT)
 
 
 
