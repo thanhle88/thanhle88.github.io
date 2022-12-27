@@ -44,6 +44,6 @@ author_profile: true
 * **Best Paper Award** at ***IEEE NICS*** 2018.
 *  **Outstanding Student Awards** for undergraduate (2012-2016) and graduate (2016-2018) levels, VNU-UET.
 * **Best Undergraduate Thesis Award**, VNU-UET, 2016.
-* **Competitions**: ***3rd place*** (bronze medal) in the *18th Vietnam National Physics Olympiad* (VPhO), ***2nd place*** in the *Provincial Physics Competition* (grade 12), and ***3rd place*** in the *Provincial Informatics Competition* (grade 11).
+* **Competitions**: ***3rd place*** (bronze medal) in the *Vietnam National Physics Olympiad* (VPhO), ***2nd place*** in the *Provincial Physics Competition* (grade 12), and ***3rd place*** in the *Provincial Informatics Competition* (grade 11).
 * **Scholarships**: Toshiba (2017), Yamada (2016), Odon Vallet (2015), Tharal-InSEWA (2015), and PonyChung (2014).
 
