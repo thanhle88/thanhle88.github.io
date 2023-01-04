@@ -80,7 +80,8 @@ Preprints
 2020
 ----
 
-1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="[https://github.com/thanhtbt/SST](https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf)"><i class="fab fa-fw fa-code zoom"></i></a>[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1088/1741-2552/ab5247)](https://juleskreuer.eu/projekte/citation-badge/)
+1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="[https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf"><i class="fab fa-fw fa-code zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1088/1741-2552/ab5247)](https://juleskreuer.eu/projekte/citation-badge/)
+ 
  
  
 
