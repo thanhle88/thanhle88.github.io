@@ -14,10 +14,10 @@ Find a full list of my publications in GoogleScholar [here](https://scholar.goog
 Preprints
 ----
 
-1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> [[Link]](https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335), <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf">[PDF]</a>, [[Matlab Codes]](https://github.com/thanhtbt/aFAPI) 
+1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> [[Link]](https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335), <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf">[PDF]</a>, <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i></a>
 
 
-<a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i></a>
+
 
 
 1.  **Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> [[Link]](https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034), [[PDF]](https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing), [[Matlab Codes]](https://github.com/thanhtbt/Tensor_Tracking)
