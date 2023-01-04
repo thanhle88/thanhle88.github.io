@@ -21,10 +21,12 @@ Preprints
 <a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/tensor_tracking"><i class="fab fa-fw fa-github zoom"></i></a>
 
 
-1. **Streaming Tensor-Train Decomposition with Missing Data**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  [[PDF]](https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156), [[Matlab Codes]](https://github.com/thanhtbt/ATT-miss)
+1. **Streaming Tensor-Train Decomposition with Missing Data**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
+<a href="https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://github.com/thanhtbt/ATT-miss"><i class="fab fa-fw fa-github zoom"></i></a>
 
 
-1. **OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> [[Matlab Codes]](https://github.com/thanhtbt/SST)
+
+1. **OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i></a> 
 
 
 ---
