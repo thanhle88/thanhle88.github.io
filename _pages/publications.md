@@ -34,9 +34,7 @@ Preprints
 ----
 
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br>  <a href="https://ieeexplore.ieee.org/document/9994046"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TKDE.2022.3230874)](https://juleskreuer.eu/projekte/citation-badge/)
-- 
-<span class="__dimensions_badge_embed__" data-doi="10.1109/TKDE.2022.3230874" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br>  <a href="https://ieeexplore.ieee.org/document/9994046"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TKDE.2022.3230874)](https://juleskreuer.eu/projekte/citation-badge/) <span class="__dimensions_badge_embed__" data-doi="10.1109/TKDE.2022.3230874" data-style="small_rectangle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 
 
@@ -82,7 +80,7 @@ Preprints
 2020
 ----
 
-1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="[https://github.com/thanhtbt/SST](https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf)"><i class="fab fa-fw fa-code zoom"></i></a>
+1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="[https://github.com/thanhtbt/SST](https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf)"><i class="fab fa-fw fa-code zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1088/1741-2552/ab5247)](https://juleskreuer.eu/projekte/citation-badge/)
  
  
 
