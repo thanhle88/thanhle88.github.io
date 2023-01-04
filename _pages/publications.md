@@ -34,13 +34,12 @@ Preprints
 ----
 
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br>  <a href="https://ieeexplore.ieee.org/document/9994046"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TKDE.2022.3230874)](https://juleskreuer.eu/projekte/citation-badge/) <a class="__dimensions_badge_embed__" data-doi="10.1109/TKDE.2022.3230874" data-style="small_rectangle"><a>
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br>  <a href="https://ieeexplore.ieee.org/document/9994046"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a class="__dimensions_badge_embed__" data-doi="10.1109/TKDE.2022.3230874" data-style="small_rectangle"><a>
 
 
 
 
 1. **Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9866940"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i></a>
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TSP.2022.3201640)](https://juleskreuer.eu/projekte/citation-badge/)
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2022.3201640" data-style="small_rectangle">
  
 1. **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>***Proc. 47th IEEE ICASSP***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9746546"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i></a>
@@ -57,13 +56,12 @@ Preprints
 
 2021
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> <a href="https://ieeexplore.ieee.org/document/9381678"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TSP.2021.3066795)](https://juleskreuer.eu/projekte/citation-badge/)
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> <a href="https://ieeexplore.ieee.org/document/9381678"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i></a> 
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3066795" data-style="small_rectangle">
 
 
  
 1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> <a href="https://ieeexplore.ieee.org/document/9537597"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_MCRB%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a>
-[![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TSP.2021.3111558)](https://juleskreuer.eu/projekte/citation-badge/) 
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3111558" data-style="small_rectangle">
 
  
@@ -83,7 +81,7 @@ Preprints
 2020
 ----
 
-1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br>   <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf"><i class="fas fa-fw fa-code zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1088/1741-2552/ab5247)](https://juleskreuer.eu/projekte/citation-badge/)
+1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br>   <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf"><i class="fas fa-fw fa-code zoom"></i></a> 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1741-2552/ab5247" data-style="small_rectangle">
  
  
