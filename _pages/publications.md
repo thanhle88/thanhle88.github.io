@@ -14,7 +14,7 @@ Find a full list of my publications in GoogleScholar [here](https://scholar.goog
 Preprints
 ----
 
-1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> [[Link]](https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335), <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf">[PDF]</a>, <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i></a>
+1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i></a>
 
 
 
