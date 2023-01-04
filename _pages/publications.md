@@ -55,7 +55,7 @@ Preprints
 
 2021
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> <a href="https://ieeexplore.ieee.org/document/9381678"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i></a> 
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> <a href="https://ieeexplore.ieee.org/document/9381678"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i></a> [![Citation Badge](https://api.juleskreuer.eu/citation-badge.php?doi=10.1109/TSP.2021.3066795)](https://juleskreuer.eu/projekte/citation-badge/)
 
 
  
