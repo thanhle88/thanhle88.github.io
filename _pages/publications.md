@@ -114,9 +114,7 @@ Preprints
 1. **Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**<br>  N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> ***Proc. IEEE NICS***, 2018<br> 
  <a href="https://ieeexplore.ieee.org/document/8606822"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://repository.vnu.edu.vn/bitstream/VNU_123/137923/1/2018_KY_Nonnegative_Tensor_Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <span style="color:#B22222">[**Best Paper Award**]</span>
  
-1. **Multi-source data analysis for bike sharing systems**<br>N.T.H. Thu, <span style="text-decoration:underline">L.T. Thanh</span>, C.T. P. Dung, N. L. Trung, & L.V. Ha<br> ***Proc. IEEE ATC***, 2017<br>  [[Link]](https://ieeexplore.ieee.org/document/8167624), [[PDF]](https://drive.google.com/file/d/1NjVyvt8vBpnLQz2VIqXb2VJaxZ4CchCL/view)
-
- <a href="https://ieeexplore.ieee.org/document/8167624"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2596/1/1570380069.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> 
+1. **Multi-source data analysis for bike sharing systems**<br>N.T.H. Thu, <span style="text-decoration:underline">L.T. Thanh</span>, C.T. P. Dung, N. L. Trung, & L.V. Ha<br> ***Proc. IEEE ATC***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8167624"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2596/1/1570380069.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> 
  
  
 
