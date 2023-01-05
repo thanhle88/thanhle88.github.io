@@ -158,12 +158,11 @@ Preprints
 Thesis
 =====
 
-1. Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, 2022.  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf">[PDF]</a>.
+1. Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, 2022.<a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
 
-1. M.Sc. *"GMNS-based Tensor Decomposition"*. VNU-UET, 2018. [[PDF]](https://drive.google.com/file/d/1XVqd0ESbK4vAvaO8jELdOwkXNKBF0sux/view).
 
-1. B.Sc. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET, 2016. [[PDF]](https://drive.google.com/file/d/1XUmCnS4TsY_weq0mm90Bz5YHb4-t6ath/view).
- 
+1. M.Sc. *"GMNS-based Tensor Decomposition"*. VNU-UET, 2018. <a href="http://lib.uet.vnu.edu.vn/bitstream/123456789/950/1/LuanVan_LTThanh.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+1. B.Sc. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET, 2016. <a href="https://thanhtbt.github.io/files/BSc_EEG%20EPILEPTIC%20SPIKE%20DETECTION%20USING%20DEEP%20BELIEF%20NETWORKS.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
  
  <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
  <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
