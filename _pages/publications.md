@@ -36,7 +36,7 @@ Preprints
 
 1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br>  <a href="https://ieeexplore.ieee.org/document/9994046"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> 
 <a class="__dimensions_badge_embed__" data-doi="10.1109/TKDE.2022.3230874" data-style="small_rectangle"><a>
-<span data-badge-popover="right" data-badge-type="2" data-doi="10.1109/TKDE.2022.3230874" data-hide-less-than="5" class="altmetric-embed"></span>
+<span data-badge-popover="right" data-badge-type="2" data-doi="10.1109/TKDE.2022.3230874" class="altmetric-embed"></span>
 
 
 
