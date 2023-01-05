@@ -43,19 +43,22 @@ Preprints
 
 
 
-1. **Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9866940"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i></a>
+1. **Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2022<br> 
+<a href="https://ieeexplore.ieee.org/document/9866940"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+<a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i>Supplementary</a>
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2022.3201640" data-style="small_rectangle"></span>
  
 1. **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>***Proc. 47th IEEE ICASSP***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9746546"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i></a>
 
 
 
-1. **Robust Tensor Tracking With Missing Data Under Tensor-Train Format**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br>***Proc. 30th EUSIPCO***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9909702"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/ROBOT"><i class="fab fa-fw fa-github zoom"></i></a>
+1. **Robust Tensor Tracking With Missing Data Under Tensor-Train Format**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br>***Proc. 30th EUSIPCO***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9909702"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
+<a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROBOT"><i class="fab fa-fw fa-github zoom"></i>Code</a>
 
 
 
 
-1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***Proc. 14th APSIPA-ASC***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9980029"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/ROTDL"><i class="fab fa-fw fa-github zoom"></i></a>
+1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***Proc. 14th APSIPA-ASC***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9980029"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROTDL"><i class="fab fa-fw fa-github zoom"></i>Code</a>
 
 
 2021
