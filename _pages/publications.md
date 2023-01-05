@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find a full list of my publications in Googlescholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en"><i class="fa fa-fw fa-globe-americas"></i></a>  and source codes in Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>.
+Find a full list of my publications in Googlescholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and source codes in Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>.
 
 *Note that PDFs are for personal use only and their copyrights are reserved by publishers*.
 
@@ -34,7 +34,8 @@ Preprints
 ----
 
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br><a href="https://ieeexplore.ieee.org/document/9994046"><i class="fas fa-fw fa-link zoom"></i></a> 
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br>
+<a href="https://ieeexplore.ieee.org/document/9994046"><i class="fas fa-fw fa-link zoom"></i></a> 
 <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a>    
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TKDE.2022.3230874" data-style="small_rectangle">
 </span>
