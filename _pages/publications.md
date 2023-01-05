@@ -14,18 +14,19 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 Preprints
 ----
 
-1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i>Code</a>
+1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 1.  **Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
-<a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/tensor_tracking"><i class="fab fa-fw fa-github zoom"></i></a>
+<a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a>
+<a href="https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/tensor_tracking"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 1. **Streaming Tensor-Train Decomposition with Missing Data**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
-<a href="https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://github.com/thanhtbt/ATT-miss"><i class="fab fa-fw fa-github zoom"></i></a>
+<a href="https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://github.com/thanhtbt/ATT-miss"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
-1. **OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i></a> 
+1. **OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
 
 
 ---
@@ -49,22 +50,26 @@ Preprints
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2022.3201640" data-style="small_rectangle"></span>
  
 1. **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>***Proc. 47th IEEE ICASSP***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9746546"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
-<a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i>Code</a>
+<a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 
 1. **Robust Tensor Tracking With Missing Data Under Tensor-Train Format**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br>***Proc. 30th EUSIPCO***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9909702"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
-<a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROBOT"><i class="fab fa-fw fa-github zoom"></i>Code</a>
+<a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROBOT"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 
 
-1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***Proc. 14th APSIPA-ASC***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9980029"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROTDL"><i class="fab fa-fw fa-github zoom"></i>Code</a>
+1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***Proc. 14th APSIPA-ASC***, 2022<br> <a href="https://ieeexplore.ieee.org/document/9980029"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROTDL"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 2021
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> <a href="https://ieeexplore.ieee.org/document/9381678"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i></a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i></a> 
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2021<br> 
+<a href="https://ieeexplore.ieee.org/document/9381678"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
+<a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+<a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
+<a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
 <span class="__dimensions_badge_embed__" data-doi="10.1109/TSP.2021.3066795" data-style="small_rectangle">
 
 
@@ -82,7 +87,7 @@ Preprints
 
 1. **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***Proc. 46th IEEE ICASSP***, 2021<br> <a href="https://ieeexplore.ieee.org/document/9413554"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>
-<a href="https://github.com/thanhtbt/ROLCP"><i class="fab fa-fw fa-github zoom"></i>Code</a>  
+<a href="https://github.com/thanhtbt/ROLCP"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>  
 
 
 
@@ -99,9 +104,7 @@ Preprints
 2020
 ----
 
-1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br>   
-<a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i>View on IOP</a> 
-<a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf"><i class="fas fa-fw fa-code zoom"></i>Full Report</a> 
+1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng. (JNE)***, 2020, [Q1, IF=5.0] <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247"><i class="fas fa-fw fa-link zoom"></i>View on IOP</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf"><i class="fas fa-fw fa-code zoom"></i>Full Report</a> 
 <span class="__dimensions_badge_embed__" data-doi="10.1088/1741-2552/ab5247" data-style="small_rectangle">
  
  
@@ -118,21 +121,27 @@ Preprints
 
 2019 and before
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers via ADMM**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br>***Proc. 27th EUSIPCO***, 2019<br> <a href="https://ieeexplore.ieee.org/document/8903031"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2019_EUSIPCO%20-%20Robust%20Subspace%20Tracking%20with%20Missing%20Data%20and%20Outliers%20via%20ADMM.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i></a>
+1. **Robust Subspace Tracking with Missing Data and Outliers via ADMM**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br>***Proc. 27th EUSIPCO***, 2019<br> 
+<a href="https://ieeexplore.ieee.org/document/8903031"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
+<a href="https://thanhtbt.github.io/files/2019_EUSIPCO%20-%20Robust%20Subspace%20Tracking%20with%20Missing%20Data%20and%20Outliers%20via%20ADMM.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+<a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
  
  
 
-1. **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elec. Commun.***, 2018<br> <a href="https://rev-jec.org/index.php/rev-jec/article/view/196"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2018%20JEC-Three-Way%20Tensor%20Decompositions%20A%20Generalized%20Minimum%20Noise%20Subspace.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a>  
+1. **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elec. Commun.***, 2018<br>
+<a href="https://rev-jec.org/index.php/rev-jec/article/view/196"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> 
+<a href="https://thanhtbt.github.io/files/2018%20JEC-Three-Way%20Tensor%20Decompositions%20A%20Generalized%20Minimum%20Noise%20Subspace.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
 
-1. **On the overall ROC of multistage systems**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A. Dao, N. L. Trung, & L.V. Ha<br>***Proc. IEEE ATC***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8167623"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2595/1/1570379504.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a> <a href="https://github.com/thanhtbt/ROC"><i class="fab fa-fw fa-github zoom"></i></a>
+1. **On the overall ROC of multistage systems**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A. Dao, N. L. Trung, & L.V. Ha<br>***Proc. IEEE ATC***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8167623"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2595/1/1570379504.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROC"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
-1. **A new windowed graph Fourier transform**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  ***Proc. IEEE NICS***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8108055"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a>  
+1. **A new windowed graph Fourier transform**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  ***Proc. IEEE NICS***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8108055"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
+<a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
  
 
 1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci.***, 2019<br> 
-<a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://thanhtbt.github.io/files/2019%20VNU-JCSCE-New%20feature%20selection%20method%20for%20multi-channel%20EEG%20epileptic%20spike%20detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a>  
+<a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2019%20VNU-JCSCE-New%20feature%20selection%20method%20for%20multi-channel%20EEG%20epileptic%20spike%20detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a>  
 
 
 1. **EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**<br> L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> ***Proc. IEEE NICS***, 2019<br> <a href="https://ieeexplore.ieee.org/document/9023865"><i class="fas fa-fw fa-link zoom"></i></a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3834/1/NICS2019_final_1570595451.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i></a>  
