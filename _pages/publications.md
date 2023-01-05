@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find a full list of my publications in GoogleScholar [here](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en) and source codes in [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/thanhtbt).
+Find a full list of my publications in [GoogleScholar](https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en) and source codes in Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>.
 
 *Note that PDFs are for personal use only and their copyrights are reserved by publishers*.
 
