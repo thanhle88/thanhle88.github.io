@@ -19,7 +19,7 @@ Preprints
 
 1.  **Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
 <a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a>
-<a href="https://drive.google.com/file/d/12OQrkKvKZVU3-4-3fjtLKLQuplNcOhmZ/view?usp=sharing"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/tensor_tracking"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+<a href="https://github.com/thanhtbt/tensor_tracking"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 1. **Streaming Tensor-Train Decomposition with Missing Data**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
