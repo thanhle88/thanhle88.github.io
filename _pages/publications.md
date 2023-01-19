@@ -11,7 +11,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 ---
 
-Preprints
+Working Papers
 ----
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
