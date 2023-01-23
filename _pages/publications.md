@@ -138,7 +138,7 @@ Working Papers
 <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
  
 
-1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci.***, 2019 35(2), pp. 47-59<br> 
+1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci.***, 2019, 35(2), pp. 47-59 <br> 
 <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2019%20VNU-JCSCE-New%20feature%20selection%20method%20for%20multi-channel%20EEG%20epileptic%20spike%20detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
 
