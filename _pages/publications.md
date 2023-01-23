@@ -37,7 +37,7 @@ Working Papers
 ----
 
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022<br>
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022 (early access) <br>
 <a href="https://ieeexplore.ieee.org/document/9994046" text-decoration=none><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
 <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>    
 
