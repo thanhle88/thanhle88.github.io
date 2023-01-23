@@ -110,7 +110,7 @@ Working Papers
  
  
 
-1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***Proc. 28th EUSIPCO***, 2020, 995–999 <br>
+1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***Proc. 28th EUSIPCO***, 2020, pp. 995–999 <br>
 <a href="https://ieeexplore.ieee.org/document/9287780"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
 <a href="https://thanhtbt.github.io/files/2020_EUSIPCO%20-%20Adaptive%20Algorithms%20for%20Tracking%20Tensor-Train%20Decomposition%20of%20Streaming%20Tensors.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>
 <a href="https://github.com/thanhtbt/ATT"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
@@ -119,37 +119,37 @@ Working Papers
 
 2019 and before
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers via ADMM**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br>***Proc. 27th EUSIPCO***, 2019<br> 
+1. **Robust Subspace Tracking with Missing Data and Outliers via ADMM**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br>***Proc. 27th EUSIPCO***, 2019, pp. 1-5 <br> 
 <a href="https://ieeexplore.ieee.org/document/8903031"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
 <a href="https://thanhtbt.github.io/files/2019_EUSIPCO%20-%20Robust%20Subspace%20Tracking%20with%20Missing%20Data%20and%20Outliers%20via%20ADMM.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
 <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
  
  
 
-1. **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elec. Commun.***, 2018<br>
+1. **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elec. Commun.***, 2018, 8 (1-2), 28-45 <br>
 <a href="https://rev-jec.org/index.php/rev-jec/article/view/196"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> 
 <a href="https://thanhtbt.github.io/files/2018%20JEC-Three-Way%20Tensor%20Decompositions%20A%20Generalized%20Minimum%20Noise%20Subspace.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
 
-1. **On the overall ROC of multistage systems**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A. Dao, N. L. Trung, & L.V. Ha<br>***Proc. IEEE ATC***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8167623"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2595/1/1570379504.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROC"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+1. **On the overall ROC of multistage systems**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A. Dao, N. L. Trung, & L.V. Ha<br>***Proc. IEEE ATC***, 2017, pp. 229-234 <br> <a href="https://ieeexplore.ieee.org/document/8167623"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2595/1/1570379504.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/ROC"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
-1. **A new windowed graph Fourier transform**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  ***Proc. IEEE NICS***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8108055"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
+1. **A new windowed graph Fourier transform**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  ***Proc. IEEE NICS***, 2017, pp. 150-155 <br> <a href="https://ieeexplore.ieee.org/document/8108055"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
 <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
  
 
-1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci.***, 2019<br> 
+1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci.***, 2019 35(2), pp. 47-59<br> 
 <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2019%20VNU-JCSCE-New%20feature%20selection%20method%20for%20multi-channel%20EEG%20epileptic%20spike%20detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
 
-1. **EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**<br> L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> ***Proc. IEEE NICS***, 2019<br> <a href="https://ieeexplore.ieee.org/document/9023865"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3834/1/NICS2019_final_1570595451.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
+1. **EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**<br> L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> ***Proc. IEEE NICS***, 2019, pp. 228-233 <br> <a href="https://ieeexplore.ieee.org/document/9023865"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3834/1/NICS2019_final_1570595451.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
-1. **Deep learning for epileptic spike detection**<br>L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>***VNU J. Sci.***, 2018<br> <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
+1. **Deep learning for epileptic spike detection**<br>L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>***VNU J. Sci.***, 2018 33(2), pp. 1-13<br> <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
-1. **Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**<br>  N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> ***Proc. IEEE NICS***, 2018 <span style="color:#B22222">[**Best Paper Award**]</span> <br> 
+1. **Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**<br>  N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> ***Proc. IEEE NICS***, 2018, pp. 194-199 <span style="color:#B22222">[**Best Paper Award**]</span> <br> 
  <a href="https://ieeexplore.ieee.org/document/8606822"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://repository.vnu.edu.vn/bitstream/VNU_123/137923/1/2018_KY_Nonnegative_Tensor_Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
  
-1. **Multi-source data analysis for bike sharing systems**<br>N.T.H. Thu, <span style="text-decoration:underline">L.T. Thanh</span>, C.T. P. Dung, N. L. Trung, & L.V. Ha<br> ***Proc. IEEE ATC***, 2017<br> <a href="https://ieeexplore.ieee.org/document/8167624"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2596/1/1570380069.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+1. **Multi-source data analysis for bike sharing systems**<br>N.T.H. Thu, <span style="text-decoration:underline">L.T. Thanh</span>, C.T. P. Dung, N. L. Trung, & L.V. Ha<br> ***Proc. IEEE ATC***, 2017, pp. 235-240 <br> <a href="https://ieeexplore.ieee.org/document/8167624"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/2596/1/1570380069.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
  
  
 
