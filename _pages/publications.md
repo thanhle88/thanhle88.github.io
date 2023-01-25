@@ -156,7 +156,7 @@ Working Papers
 Thesis
 =====
 
-1. Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, INSA-CVL, PRISME, 2022.<a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>Raw PDF</a>, .<a href="https://thanhtbt.github.io/files/Thesis_LTT_Book.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>Book</a> 
+1. Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, INSA-CVL, PRISME, 2022.<a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>Raw PDF</a>, <a href="https://thanhtbt.github.io/files/Thesis_LTT_Book.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>Book</a> 
 
 1. M.Sc. *"GMNS-based Tensor Decomposition"*. VNU-UET, 2018. <a href="http://lib.uet.vnu.edu.vn/bitstream/123456789/950/1/LuanVan_LTThanh.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
