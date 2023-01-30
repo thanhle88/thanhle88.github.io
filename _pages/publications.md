@@ -28,7 +28,7 @@ Working Papers
 
 1. **OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
 
-1. **A Novel Tensor Tracking Algorithm for Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, Philippe Ravier, Olivier Buttelli, Ales Holobar <br>   
+1. **A Novel Tensor Tracking Algorithm for Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, Philippe Ravier, Olivier Buttelli <br>   
 
 
 ---
