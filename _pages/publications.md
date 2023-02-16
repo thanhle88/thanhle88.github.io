@@ -7,7 +7,7 @@ author_profile: true
 
 Find a full list of my publications in Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and source codes in Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>.
 
-*Note that PDFs are for personal use only and their copyrights are reserved by publishers*.
+*Note that PDFs are for personal use only*.
 
 ---
 
