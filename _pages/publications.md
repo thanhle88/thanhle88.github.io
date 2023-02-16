@@ -14,8 +14,6 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 Working Papers
 ----
 
-1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
-
 
 1.  **Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
 <a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a>
@@ -31,7 +29,14 @@ Working Papers
 1. **A Novel Tensor Tracking Algorithm for Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, Philippe Ravier, Olivier Buttelli <br>   
 
 
----
+2023
+----
+1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
+***Proc. 48th IEEE ICASSP***, 2023, (accepted) <br>
+<a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+
+
+
 
 2022
 ----
