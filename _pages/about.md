@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Ph.D. in Computer Science and Signal Processing \
-[University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme) \
+[University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo) \
 Orleans, France
 
 
