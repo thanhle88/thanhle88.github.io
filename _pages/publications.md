@@ -7,21 +7,6 @@ author_profile: true
 
 Find a full list of my publications in Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and source codes in Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>.
 
----
-
-Working Papers
-----
-
-
-
-1. **Streaming Tensor-Train Decomposition with Missing Data**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
-<a href="https://www.techrxiv.org/articles/preprint/Streaming_Tensor-Train_Decomposition_with_Missing_Data/20141156"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://github.com/thanhtbt/ATT-miss"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
-
-
-1. **OPIT: A Simple and Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
-
-1. **A Novel Tensor Tracking Algorithm for Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, Philippe Ravier, Olivier Buttelli <br>   
-
 
 2023
 ----
