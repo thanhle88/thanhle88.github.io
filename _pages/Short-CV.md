@@ -96,5 +96,5 @@ author_profile: true
 
 * **Scholarships**: Pony Chung (2014), Thakral-InSEWA(2015), Odon Vallet (2015), Yamada (2016), Toshiba (2017).
 
-* **Competitions**: 3rd place of Vietnamese Physics Olympiad (VPhO), 2nd place of Namdinh Provincial Excellent Student Contest in Physics, and 3rd place of Namdinh Provincial Excellent Student Contest in Informatics. 
+* **Competitions**: 3rd place of Vietnamese Physics Olympiad (VPhO), 2nd place of Provincial Excellent Student Contest in Physics, and 3rd place of Provincial Excellent Student Contest in Informatics. 
 
