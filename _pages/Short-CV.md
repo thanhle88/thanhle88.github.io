@@ -74,11 +74,11 @@ author_profile: true
 
 * **Invited Talks/Presentations**
 
-   *“Tracking Dynamic Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”*. In the meeting Statistical Learning with Missing Values, organized by GdR ISIS-CNRS, 2021. [Link](https://www.gdr-isis.fr/index.php/reunion/464/).
+   *“Tracking Dynamic Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”*. In the meeting Statistical Learning with Missing Values, organized by GdR ISIS-CNRS, 2021 [Link](https://www.gdr-isis.fr/index.php/reunion/464/).
 
-   *“Adaptive algorithms for tensor tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021. [Link](https://avitech.uet.vnu.edu.vn/en/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh-2). 
+   *“Adaptive algorithms for tensor tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021 [Link](https://avitech.uet.vnu.edu.vn/en/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh-2). 
 
-   *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018. [Link](https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/).
+   *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018 [Link](https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/).
 
 
 
