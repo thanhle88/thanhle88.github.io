@@ -13,7 +13,7 @@ Some of my software and algorithms are available online at Github <a href="https
 
 * **αFAPI**: A fast algorithm for subspace tracking with data corruption using α-divergence: [Download](https://github.com/thanhtbt/aFAPI)  
 
-* **OPIT**: An effective algorithm for tracking subspaces in high dimensions: [Download](https://github.com/thanhtbt/OPIT)     
+* **OPIT**: An effective algorithm for tracking subspaces in high dimensions: [Download](https://github.com/thanhtbt/SST)     
 
 
 * **PETRELS-ADMM**: A robust effective algorithm for subspace tracking from incomplete observations with outliers: [Download](https://github.com/thanhtbt/RST)     
