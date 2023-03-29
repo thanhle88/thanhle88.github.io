@@ -11,7 +11,7 @@ author_profile: true
 
     **Ph.D.** in Computer Science and Signal Processing
     
-    Thesis: "Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"
+    Thesis: *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*
     
  
 
