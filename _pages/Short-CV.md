@@ -51,20 +51,20 @@ author_profile: true
 
 * **Research Projects**  
 
-   Member, “Multidimensional data analysis and application to Alzheimer’s disease diagnosis” funded by VNU under grant number QG.22.62. (ongoing)
+   *“Multidimensional data analysis and application to Alzheimer’s disease diagnosis”*, member, funded by VNU under grant number QG.22.62. (ongoing)
    
-   Member, “System identification: From a blind to an informed paradigm” funded by NAFOSTED under grant number 01/2019/TN. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/system-identification-from-blind-to-informed-paradigm/).
+   *“System identification: From a blind to an informed paradigm”*, memeber, funded by NAFOSTED under grant number 01/2019/TN. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/system-identification-from-blind-to-informed-paradigm/).
 
-   Member,“Robust structured subspace tracking” funded by NAFOSTED under grant number 102.04-2019.14. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/robust-and-structured-subspace-tracking-2/).
+   *“Robust structured subspace tracking”*, member, funded by NAFOSTED under grant number 102.04-2019.14. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/robust-and-structured-subspace-tracking-2/).
 
-   Member, “Fast tensor decomposition algorithms for big data analysis” funded by NAFOSED under grant number 102.02-2015.32. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/).
+   *“Fast tensor decomposition algorithms for big data analysis”*, member, funded by NAFOSED under grant number 102.02-2015.32. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/).
 
 
 * **Organizing Conferences**
    
-   Track chair of special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”* at IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/SS3.html).
+   Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/SS3.html).
 
-   Co-track chair of regular session *“Signal and Information Processing over Graphs and Networks”* at IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/call4papers.html).
+   Regular session *“Signal and Information Processing over Graphs and Networks”*, co-chair, IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/call4papers.html).
 
 * **Reviewers** 
 
