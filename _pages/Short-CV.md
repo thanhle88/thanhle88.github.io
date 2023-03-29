@@ -44,3 +44,38 @@ author_profile: true
    
     <span style="text-decoration:underline">***Teaching***</span>: Engineering Mathematics (ELT 2029) and  Digital Signal Processing (ELT 3144).
     
+
+
+---
+## Research Activities
+
+* **Research Projects**  
+
+   Member, “Multidimensional data analysis and application to Alzheimer’s disease diagnosis” funded by VNU under grant number QG.22.62. (ongoing)
+   
+   Member, “System identification: From a blind to an informed paradigm” funded by NAFOSTED under grant number 01/2019/TN. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/system-identification-from-blind-to-informed-paradigm/).
+
+   Member,“Robust structured subspace tracking” funded by NAFOSTED under grant number 102.04-2019.14. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/robust-and-structured-subspace-tracking-2/).
+
+   Member, “Fast tensor decomposition algorithms for big data analysis” funded by NAFOSED under grant number 102.02-2015.32. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/).
+
+
+* **Organizing Conferences**
+   
+   Track chair of special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”* at IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/SS3.html).
+
+   Co-track chair of regular session *“Signal and Information Processing over Graphs and Networks”* at IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/call4papers.html).
+
+* **Reviewers** 
+
+   ***Journals***: IEEE Transactions on Signal Processing, IOP Journal of Neural Engineering, IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, REV Journal on Electronics and Communications.
+
+   ***Conferences***: ISCIT, APCCAS, ATC, and SSP.
+
+* **Invited Talks/Presentations**
+
+   *“Tracking Dynamic Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”*. In the meeting Statistical Learning with Missing Values, organized by GdR ISIS-CNRS, 2021. [Link](https://www.gdr-isis.fr/index.php/reunion/464/).
+
+   *“Adaptive algorithms for tensor tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021. [Link](https://avitech.uet.vnu.edu.vn/en/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh-2). 
+
+   *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018. [Link](https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/).
