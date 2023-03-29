@@ -9,7 +9,7 @@ author_profile: true
 
 * [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France  (Nov. 2019 -- Oct. 2022)
 
-    **Ph.D.** in Computer Science and Signal Processing
+    **Ph.D.** degree in Computer Science and Signal Processing
     
     Thesis: *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*
     
@@ -17,7 +17,7 @@ author_profile: true
 
 * [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Dec. 2018)
 
-    **B.Sc. & M.Sc.** in Electronics and Communications 
+    **B.Sc. & M.Sc.** degrees in Electronics and Communications
 
 
 ---
