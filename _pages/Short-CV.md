@@ -29,7 +29,7 @@ author_profile: true
  
 * **Ph.D. Candidate**, [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France (Nov. 2019 -- Oct. 2022)
  
-    Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (Main Supervisor, *IEEE Fellow*) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en) (Co-spervisor), and [Prof. Nguyen Linh Trung](https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao) (Co-ecadrant).
+    Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (Main supervisor, *IEEE Fellow*) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en) (Co-spervisor), and [Prof. Nguyen Linh Trung](https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao) (Co-ecadrant).
     
     <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data. 
     		
