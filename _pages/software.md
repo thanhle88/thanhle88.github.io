@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Software and Algorithms"
-permalink: /Software/
+permalink: /software/
 author_profile: true
 ---
 
