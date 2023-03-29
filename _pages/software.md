@@ -11,11 +11,12 @@ Some of my software and algorithms are available online at Github <a href="https
 
 ### Subspace Tracking Algorithms
 
-* **αFAPI**: A fast algorithm for subspace tracking with data corruption using α-divergence.
+* **αFAPI**: A fast algorithm for subspace tracking with data corruption using α-divergence: <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
-* **OPIT**: An effective algorithm for tracking subspaces in high dimensions.
+* **OPIT**: An effective algorithm for tracking subspaces in high dimensions: <a href="https://github.com/thanhtbt/OPIT"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
-* **PETRELS-ADMM**: A robust effective algorithm for subspace tracking from incomplete observations with outliers.
+
+* **PETRELS-ADMM**: A robust effective algorithm for subspace tracking from incomplete observations with outliers: <a href="https://github.com/thanhtbt/RST"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
 ### Tensor Tracking and Decompositions
 
