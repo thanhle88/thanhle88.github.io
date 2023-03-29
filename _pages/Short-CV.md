@@ -13,7 +13,7 @@ author_profile: true
     
     Thesis: "Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"
     
-    Supervisors: 
+ 
 
 * [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Dec. 2018)
 
