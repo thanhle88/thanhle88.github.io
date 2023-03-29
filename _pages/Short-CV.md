@@ -17,7 +17,7 @@ author_profile: true
 
 * [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Dec. 2018)
 
-    **B.Sc. & M.Sc.** degrees in Electronics and Communications
+    **B.Sc. & M.Sc.** degrees both in Electronics and Communications
 
 
 ---
