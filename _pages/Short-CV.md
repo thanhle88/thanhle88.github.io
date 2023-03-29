@@ -70,7 +70,7 @@ author_profile: true
 
    ***Journals***: IEEE Transactions on Signal Processing, IOP Journal of Neural Engineering, IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, REV Journal on Electronics and Communications.
 
-   ***Conferences***: ISCIT, APCCAS, ATC, and SSP.
+   ***IEEE Conferences***: ISCIT, APCCAS, ATC, and SSP.
 
 * **Invited Talks/Presentations**
 
