@@ -20,15 +20,14 @@ Some of my software and algorithms are available online at Github <a href="https
 
 ### Tensor Tracking and Decompositions
 
-* **ACP & ATD**: Two fast adaptive algorithms for factorizing streaming tensors under CP/PARAFAC
-and Tucker format.
+* **ACP & ATD**: Two fast adaptive algorithms for factorizing streaming tensors under CP/PARAFAC and Tucker format: <a href="https://github.com/thanhtbt/tensor_tracking"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
 * **ROBOT**: An effective algorithm for factorizing streaming tensors with sparse corruptions under
-the tensor-train format.
+the tensor-train format: <a href="https://github.com/thanhtbt/ROBOT"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
-* **ATT**: A scalable adaptive algorithm for streaming tensor-train decompositions with missing data.
+* **ATT**: A scalable adaptive algorithm for streaming tensor-train decompositions with missing data: <a href="https://github.com/thanhtbt/ATT-miss"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
-* **ROLCP**: A fast randomized algorithm for streaming CP/PARAFAC decompositions.
+* **ROLCP**: A fast randomized algorithm for streaming CP/PARAFAC decompositions: <a href="https://github.com/thanhtbt/ROLCP"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
-* **TT-FOA**: An efficient adaptive method for streaming tensor-train decomposition.
+* **TT-FOA**: An efficient adaptive method for streaming tensor-train decomposition: <a href="https://github.com/thanhtbt/ATT"><i class="fab fa-fw fa-github zoom"></i>Download</a>.
 
