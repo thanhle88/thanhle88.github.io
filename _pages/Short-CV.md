@@ -86,15 +86,15 @@ author_profile: true
 ---
 ## Selected Awards
 
-* Best Paper Award at IEEE NICS 2018.
+* **Best Paper Award** at IEEE NICS 2018.
 
-* Outstanding Student Awards for undergraduate (2012-2016) and graduate (2016-2018), VNU-UET.
+* **Outstanding Student Awards** for undergraduate (2012-2016) and graduate (2016-2018), VNU-UET.
 
-* Best Undergraduate Thesis Award, VNU-UET, 2016.
+* **Best Thesis Award**, VNU-UET, 2016.
 
-* Dean’s list for 6/8 undergraduate semesters II-VII continuously, VNU-UET.
+* **Dean’s list** for 6/8 undergraduate semesters II-VII continuously, VNU-UET.
 
-* Scholarships: Pony Chung (2014), Thakral-InSEWA(2015), Odon Vallet (2015), Yamada (2016), Toshiba (2017).
+* **Scholarships**: Pony Chung (2014), Thakral-InSEWA(2015), Odon Vallet (2015), Yamada (2016), Toshiba (2017).
 
-* Competitions: 3rd place of Vietnamese Physics Olympiad (VPhO), 2nd place of Namdinh Provincial Excellent Student Contest in Physics, and 3rd place of Namdinh Provincial Excellent Student Contest in Informatics. 
+* **Competitions**: 3rd place of Vietnamese Physics Olympiad (VPhO), 2nd place of Namdinh Provincial Excellent Student Contest in Physics, and 3rd place of Namdinh Provincial Excellent Student Contest in Informatics. 
 
