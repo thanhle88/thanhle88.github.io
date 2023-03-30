@@ -16,6 +16,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 ***Elsevier Patterns***, 2023, (Cell Press, to appear) <br>
 <a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a>
 <a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+<a href="https://thanhtbt.github.io/files/2023_Patterns_Supplemental_Information.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>Supplementary</a> 
 <a href="https://github.com/thanhtbt/tensor_tracking"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
