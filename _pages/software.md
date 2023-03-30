@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Some of my software and algorithms are available online at Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>
+My software and algorithms are available online at my Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>
 
 
 ### Subspace Tracking Algorithms
