@@ -11,7 +11,7 @@ author_profile: true
 
     **Ph.D.** degree in Computer Science and Signal Processing.
       
- * [Vietnam National University, Hanoi, VNU-UET](https://vnu.edu.vn/eng/), Vietnam (Aug. 2012 -- Dec. 2018)
+ * <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; "></i>Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Aug. 2012 -- Dec. 2018)
 
     **B.Sc. & M.Sc.** degrees both in Electronics and Communications.
 
