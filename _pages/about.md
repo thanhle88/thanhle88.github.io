@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Researcher \
-<a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; "> University of Orléans, INSA CVL, PRISME</a>
-\
+Postdoctoral Researcher<br> 
+<a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline;"> University of Orléans, INSA CVL, PRISME</a>
+<br> 
 Orleans, France
 
 
