@@ -20,13 +20,13 @@ author_profile: true
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- now)
 
-    Work with [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en), [Prof. Philippe Ravier](https://scholar.google.com.vn/citations?user=oFEEdlwAAAAJ&hl=en),  and [A/Prof. Olivier Buttelli](https://www.researchgate.net/profile/O-Buttelli/5).
+    Work with <a href="https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en" style="color: green; text-decoration: underline; ">Prof. Karim Abed-Meraim</a>, <a href="https://scholar.google.com.vn/citations?user=oFEEdlwAAAAJ&hl=en" style="color: green; text-decoration: underline; ">Prof. Philippe Ravier</a>,  and <a href="https://www.researchgate.net/profile/O-Buttelli/5" style="color: green; text-decoration: underline; ">A/Prof. Olivier Buttelli</a>.
     
     <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
  
 * **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
  
-    Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (Main supervisor, *IEEE Fellow*) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en) (Co-spervisor), and [Prof. Nguyen Linh Trung](https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao) (Co-encadrant).
+    Supervised by <a href="https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en" style="color: green; text-decoration: underline; ">Prof. Karim Abed-Meraim</a> (Main supervisor, *IEEE Fellow*) and <a href="https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en" style="color: green; text-decoration: underline; ">Prof. Adel Hafiane</a> (Co-spervisor), and  <a href="https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao" style="color: green; text-decoration: underline; "> Prof. Nguyen Linh Trung</a> (Co-encadrant).
     
     <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data. 
     		
