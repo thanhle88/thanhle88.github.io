@@ -116,7 +116,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
  
 
 
-1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci.***, 2019  <br> 
+1. **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> ***VNU J. Sci. Computer Sci. Commun. Eng.***, 2019  <br> 
 <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2019%20VNU-JCSCE-New%20feature%20selection%20method%20for%20multi-channel%20EEG%20epileptic%20spike%20detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
 
@@ -130,7 +130,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 
 
-1. **Deep learning for epileptic spike detection**<br>L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>***VNU J. Sci.***, 2018 <br> <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
+1. **Deep learning for epileptic spike detection**<br>L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>***VNU J. Sci. Computer Sci. Commun. Eng.***, 2018 <br> <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156"><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>  
 
 
 1. **Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**<br>  N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> ***Proc. IEEE NICS***, 2018  <span style="color:#B22222">[**Best Paper Award**]</span> <br> 
