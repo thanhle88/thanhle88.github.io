@@ -7,8 +7,6 @@ author_profile: true
 
 ## Education
 
-* [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France  (Nov. 2019 -- Oct. 2022)
-
 * <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; "></i>University of Orléans, INSA CVL, PRISME</a>, France  (Nov. 2019 -- Oct. 2022)
 
     **Ph.D.** degree in Computer Science and Signal Processing.
