@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Find a full list of my publications in Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en"><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and source codes in Github <a href="https://github.com/thanhtbt"><i class="fab fa-fw fa-github zoom"></i></a>.
+Find a full list of my publications in Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and source codes in Github <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>.
 
 
 2023
@@ -22,7 +22,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
 ***Proc. 48th IEEE ICASSP***, 2023  <br>
-<a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335"><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+<a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 
@@ -32,19 +32,19 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 
 1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022 <br>
-<a href="https://ieeexplore.ieee.org/document/9994046" text-decoration=none><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
-<a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>    
+<a href="https://ieeexplore.ieee.org/document/9994046" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
+<a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>    
 
 
 
 
 1. **Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>***IEEE Trans. Signal Process. (IEEE TSP)***, 2022 <br> 
-<a href="https://ieeexplore.ieee.org/document/9866940"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
-<a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf"><i class="fas fa-fw fa-code zoom"></i>Supplementary</a>
+<a href="https://ieeexplore.ieee.org/document/9866940" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+<a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a>
 
  
-1. **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>***Proc. 47th IEEE ICASSP***, 2022 <br> <a href="https://ieeexplore.ieee.org/document/9746546"><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
-<a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/SST"><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+1. **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>***Proc. 47th IEEE ICASSP***, 2022 <br> <a href="https://ieeexplore.ieee.org/document/9746546" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a> 
+<a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 
