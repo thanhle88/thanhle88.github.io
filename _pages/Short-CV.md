@@ -9,7 +9,7 @@ author_profile: true
 
 * [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo), France  (Nov. 2019 -- Oct. 2022)
 
-* <a href="[https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo)" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>University of Orléans, INSA CVL, PRISME</a>, France  (Nov. 2019 -- Oct. 2022)
+* <a href="[https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034](https://www.univ-orleans.fr/fr/prisme/presentation/le-labo)" style="color: green; text-decoration: underline; "></i>University of Orléans, INSA CVL, PRISME</a>, France  (Nov. 2019 -- Oct. 2022)
 
     **Ph.D.** degree in Computer Science and Signal Processing.
       
