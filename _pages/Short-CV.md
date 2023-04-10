@@ -48,18 +48,18 @@ author_profile: true
 
    *“Multidimensional data analysis and application to Alzheimer’s disease diagnosis”*, member, funded by VNU under grant number QG.22.62. (ongoing)
    
-   *“System identification: From a blind to an informed paradigm”*, memeber, funded by NAFOSTED under grant number 01/2019/TN. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/system-identification-from-blind-to-informed-paradigm/).
+   *“System identification: From a blind to an informed paradigm”*, memeber, funded by NAFOSTED under grant number 01/2019/TN. (completed) <a href="https://avitech.uet.vnu.edu.vn/en/system-identification-from-blind-to-informed-paradigm/" style="color: green; text-decoration: underline; ">Link</a>
 
-   *“Robust structured subspace tracking”*, member, funded by NAFOSTED under grant number 102.04-2019.14. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/robust-and-structured-subspace-tracking-2/).
+   *“Robust structured subspace tracking”*, member, funded by NAFOSTED under grant number 102.04-2019.14. (completed) <a href="https://avitech.uet.vnu.edu.vn/en/robust-and-structured-subspace-tracking-2/" style="color: green; text-decoration: underline; ">Link</a>
 
-   *“Fast tensor decomposition algorithms for big data analysis”*, member, funded by NAFOSED under grant number 102.02-2015.32. (completed) [Link](https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/).
 
+   *“Fast tensor decomposition algorithms for big data analysis”*, member, funded by NAFOSED under grant number 102.02-2015.32. (completed)  <a href="https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/" style="color: green; text-decoration: underline; ">Link</a>
 
 * **Organizing Conferences**
    
-   Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/SS3.html).
+   Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023   <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: underline; ">Link</a>
 
-   Regular session *“Signal and Information Processing over Graphs and Networks”*, co-chair, IEEE Statistical Signal Processing Workshop (SSP), 2023 [Link](https://www.ssp2023.org/call4papers.html).
+   Regular session *“Signal and Information Processing over Graphs and Networks”*, co-chair, IEEE Statistical Signal Processing Workshop (SSP), 2023  <a href="https://www.ssp2023.org/call4papers.html" style="color: green; text-decoration: underline; ">Link</a>
 
 * **Reviewers** 
 
@@ -69,11 +69,11 @@ author_profile: true
 
 * **Invited Talks/Presentations**
 
-   *“Tracking Dynamic Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”*. In the meeting Statistical Learning with Missing Values, organized by GdR ISIS-CNRS, 2021 [Link](https://www.gdr-isis.fr/index.php/reunion/464/).
+   *“Tracking Dynamic Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”*. In the meeting Statistical Learning with Missing Values, organized by GdR ISIS-CNRS, 2021  <a href="https://www.gdr-isis.fr/index.php/reunion/464/" style="color: green; text-decoration: underline; ">Link</a>
 
-   *“Adaptive algorithms for tensor tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021 [Link](https://avitech.uet.vnu.edu.vn/en/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh-2). 
+   *“Adaptive algorithms for tensor tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021  <a href="https://avitech.uet.vnu.edu.vn/en/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh-2" style="color: green; text-decoration: underline; ">Link</a>
 
-   *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018 [Link](https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/).
+   *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018 <a href="https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/" style="color: green; text-decoration: underline; ">Link</a>
 
 
 
