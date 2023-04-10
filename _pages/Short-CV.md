@@ -11,20 +11,20 @@ author_profile: true
 
     **Ph.D.** degree in Computer Science and Signal Processing.
       
- * <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; "></i>Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Aug. 2012 -- Dec. 2018)
+ * <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Aug. 2012 -- Dec. 2018)
 
     **B.Sc. & M.Sc.** degrees both in Electronics and Communications.
 
 ---
 ## Work Experience
 
-* **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; "></i>University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- now)
+* **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- now)
 
     Work with [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en), [Prof. Philippe Ravier](https://scholar.google.com.vn/citations?user=oFEEdlwAAAAJ&hl=en),  and [A/Prof. Olivier Buttelli](https://www.researchgate.net/profile/O-Buttelli/5).
     
     <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
  
-* **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; "></i>University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
+* **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
  
     Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (Main supervisor, *IEEE Fellow*) and [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en) (Co-spervisor), and [Prof. Nguyen Linh Trung](https://scholar.google.com.vn/citations?user=-MEdhRQAAAAJ&hl=en&oi=ao) (Co-encadrant).
     
@@ -35,7 +35,7 @@ author_profile: true
     <span style="text-decoration:underline">*Subspace Tracking*</span>: Develop fast methods for subspace tracking in high dimensions. 
 
  
-* **Lecturer & Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; "></i>Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Dec. 2016 -- present)
+* **Lecturer & Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Dec. 2016 -- present)
    
     <span style="text-decoration:underline">*Teaching*</span>: Engineering Mathematics (ELT 2029) and  Digital Signal Processing (ELT 3144).
     
