@@ -55,7 +55,7 @@ author_profile: true
 
    *“Fast tensor decomposition algorithms for big data analysis”*, member, funded by NAFOSED under grant number 102.02-2015.32. (completed)  <a href="https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/" style="color: green; text-decoration: underline; ">Link</a>
 
-* **Conferences Organizer**
+* **Conference Organizer**
    
    Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023   <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: underline; ">Link</a>
 
