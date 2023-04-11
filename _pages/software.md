@@ -18,13 +18,13 @@ My software and algorithms are available online at my Github <a href="https://gi
  
 
 
-* **PETRELS-ADMM**: A robust effective algorithm for subspace tracking from incomplete observations with outliers: <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: underline; ">Code</a> 
+* **PETRELS-ADMM**: A robust algorithm for subspace tracking from incomplete observations with outliers: <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: underline; ">Code</a> 
 
 ### Tensor Tracking and Decompositions
 
-* **ACP & ATD**: Two fast adaptive algorithms for factorizing streaming tensors under CP/PARAFAC and Tucker format:  <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: underline; ">Code</a> 
+* **ACP & ATD**: Two fast adaptive algorithms for factorizing streaming tensors under CP and Tucker format:  <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: underline; ">Code</a> 
 
-* **ROBOT**: An effective algorithm for factorizing streaming tensors with sparse corruptions under the tensor-train format: <a href="https://github.com/thanhtbt/ROBOT" style="color: green; text-decoration: underline; ">Code</a>     
+* **ROBOT**: An effective algorithm for factorizing streaming tensors with sparse corruptions under the TT format: <a href="https://github.com/thanhtbt/ROBOT" style="color: green; text-decoration: underline; ">Code</a>     
 
 
 
