@@ -35,3 +35,9 @@ My software and algorithms are available online at my Github <a href="https://gi
 
 * **TT-FOA**: An efficient adaptive method for streaming tensor-train decomposition: <a href="https://github.com/thanhtbt/ATT" style="color: green; text-decoration: underline; ">Code</a>     
 
+
+* **ROTDL**: A robust method for online Tucker dictionary learning from multidimensional data streams: <a href="https://github.com/thanhtbt/ROTDL" style="color: green; text-decoration: underline; ">Code</a>     
+
+
+
+
