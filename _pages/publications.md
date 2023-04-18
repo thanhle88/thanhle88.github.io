@@ -26,7 +26,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 1.  **A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
 ***Proc. 22nd IEEE SSP***, 2023  <br>
-
+<a href="https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>
 
 
 2022
