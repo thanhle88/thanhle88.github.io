@@ -32,6 +32,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. (IEEE TKDE)***, 2022 <br>
 <a href="https://ieeexplore.ieee.org/document/9994046" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
+<a href="https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966" style="color: green; "><i class="fas fa-fw fa-link zoom"></i>Techrxiv</a> 
 <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>    
 
 
