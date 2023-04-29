@@ -14,9 +14,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 1.  **Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
 ***Elsevier Patterns***, 2023 (Cell Press, to appear) <br>
-<a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034" style="color: green; "><i class="fas fa-fw fa-link zoom"></i>Techrxiv</a>
-<a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
-<a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+<a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034" style="color: green; "><i class="fas fa-fw fa-link zoom"></i>Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
