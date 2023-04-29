@@ -15,18 +15,18 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
 ***Elsevier Patterns***, 2023 (Cell Press, to appear) <br>
 <a href="https://www.techrxiv.org/articles/preprint/Tracking_Online_Low-Rank_Approximations_of_Higher-Order_Incomplete_Streaming_Tensors/19704034" style="color: green; "><i class="fas fa-fw fa-link zoom"></i>Techrxiv</a>
-<a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> 
+<a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://thanhtbt.github.io/files/2023_Patterns_Supplemental_Information.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
 <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
 ***Proc. 48th IEEE ICASSP***, 2023  <br>
-<a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>View on Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+<a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green;"><i class="fas fa-fw fa-link zoom"></i>Techrxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 1.  **A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
 ***Proc. 22nd IEEE SSP***, 2023  <br>
-<a href="https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>
+<a href="https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf" style="color: green;"><i class="fas fa-fw fa-file-pdf zoom"></i>View PDF</a>
 
 
 2022
