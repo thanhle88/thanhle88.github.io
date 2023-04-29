@@ -100,7 +100,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
  
 
 1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***Proc. 28th EUSIPCO***, 2020 <br>
-<a href="https://ieeexplore.ieee.org/document/9287780" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>View on IEEE</a>
+<a href="https://ieeexplore.ieee.org/document/9287780" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a>
 <a href="https://thanhtbt.github.io/files/2020_EUSIPCO%20-%20Adaptive%20Algorithms%20for%20Tracking%20Tensor-Train%20Decomposition%20of%20Streaming%20Tensors.pdf" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/thanhtbt/ATT" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
