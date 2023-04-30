@@ -89,7 +89,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 
 1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> ***Proc. 55th Asilomar***, 2021 <br> 
-<a href="https://ieeexplore.ieee.org/document/9723265" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a>
+<a href="https://ieeexplore.ieee.org/document/9723265" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a>
 <a href="https://thanhtbt.github.io/files/2021_Asilomar_Side%20Information%20Effect%20on%20Semi-Blind%20Channel%20Identification%20for%20MIMO-OFDM%20Communications.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
 
