@@ -30,7 +30,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 ----
 
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. ***, 2022 (IEEE TKDE, SJR Q1) <br>
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Trans. Knowl. Data. Eng. ***, 2022 (SJR Q1) <br>
 <a href="https://ieeexplore.ieee.org/document/9994046" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
 <a href="https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>TechRxiv</a> 
 <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>    
@@ -59,7 +59,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 2021
 ----
-1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. ***, 2021  (IEEE TSP, SJR Q1)
+1. **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***IEEE Trans. Signal Process. ***, 2021  (SJR Q1)
 <br> <a href="https://ieeexplore.ieee.org/document/9381678" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a>
 <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
@@ -67,12 +67,12 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 
 
  
-1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. ***, 2021  (IEEE TSP, SJR Q1) <br>
+1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process. ***, 2021  (SJR Q1) <br>
 <a href="https://ieeexplore.ieee.org/document/9537597" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
 <a href="https://thanhtbt.github.io/files/2021_TSP_MCRB%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
  
-1. **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elect. Commun. ***, 2021 (REV JEC) <br> 
+1. **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elect. Commun. ***, 2021 <br> 
 <a href="https://rev-jec.org/index.php/rev-jec/article/view/270" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> 
 <a href="https://thanhtbt.github.io/files/2021_JEC_Robust%20Subspace%20Tracking%20Algorithms%20in%20Signal%20Processing.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
@@ -96,7 +96,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 2020
 ----
 
-1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng.***, 2020 (JNE, SJR Q1) <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IOPscience</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Full Report</a> 
+1. **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>***IOP J. Neural Eng.***, 2020 (SJR Q1) <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IOPscience</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Full Report</a> 
 
  
 
@@ -123,7 +123,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 1. **EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**<br> L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> ***Proc. IEEE NICS***, 2019  <br> <a href="https://ieeexplore.ieee.org/document/9023865" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3834/1/NICS2019_final_1570595451.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
 
-1. **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elec. Commun. ***, 2018 (REV JEC) <br>
+1. **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elec. Commun. ***, 2018 <br>
 <a href="https://rev-jec.org/index.php/rev-jec/article/view/196" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> 
 <a href="https://thanhtbt.github.io/files/2018%20JEC-Three-Way%20Tensor%20Decompositions%20A%20Generalized%20Minimum%20Noise%20Subspace.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
@@ -157,8 +157,4 @@ Thesis
 
 1. B.Sc. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET, 2016. <a href="https://thanhtbt.github.io/files/BSc_EEG%20EPILEPTIC%20SPIKE%20DETECTION%20USING%20DEEP%20BELIEF%20NETWORKS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
  
- <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
- <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
- 
- 
