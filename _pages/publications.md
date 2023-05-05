@@ -112,7 +112,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 1. **Robust Subspace Tracking with Missing Data and Outliers via ADMM**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br>***Proc. 27th EUSIPCO***, 2019 (Qualis Rank A2) <br> 
 <a href="https://ieeexplore.ieee.org/document/8903031" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a>
 <a href="https://thanhtbt.github.io/files/2019_EUSIPCO%20-%20Robust%20Subspace%20Tracking%20with%20Missing%20Data%20and%20Outliers%20via%20ADMM.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
-<a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+<a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
  
 
 
@@ -120,7 +120,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>View via Publisher</a> <a href="https://thanhtbt.github.io/files/2019%20VNU-JCSCE-New%20feature%20selection%20method%20for%20multi-channel%20EEG%20epileptic%20spike%20detection.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
 
-1. **EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**<br> L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> ***Proc. IEEE NICS***, 2019  <br> <a href="https://ieeexplore.ieee.org/document/9023865" style="color: green; text-decoration: underline; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3834/1/NICS2019_final_1570595451.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
+1. **EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**<br> L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> ***Proc. IEEE NICS***, 2019  <br> <a href="https://ieeexplore.ieee.org/document/9023865" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3834/1/NICS2019_final_1570595451.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
 
 1. **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elec. Commun.***, 2018 <br>
