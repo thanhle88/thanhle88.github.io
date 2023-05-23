@@ -8,7 +8,7 @@ author_profile: true
 
 Journal ranking: 
 ---
-Scimago Journal Rank (SJR): [https://www.scimagojr.com](https://www.scimagojr.com/) 
+Scimago Journal Rank (SJR): <a href="[https://github.com/thanhtbt/RST](https://www.scimagojr.com/)" style="color: green; text-decoration: underline; ">https://www.scimagojr.com/</a>    
 
 WoS: [https://mjl.clarivate.com/home](https://mjl.clarivate.com/home)
 
