@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Credits and Sources"
+title: "Useful Sources"
 permalink: /sources/
 author_profile: true
 ---
