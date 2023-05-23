@@ -10,7 +10,7 @@ Journal ranking:
 ---
 Scimago Journal Rank (SJR): [https://www.scimagojr.com](https://www.scimagojr.com/) 
 
-WoS: [https://clarivate.com](https://clarivate.com/)
+WoS: [https://mjl.clarivate.com/home](https://mjl.clarivate.com/home)
 
 Scopus: [https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile](https://www.scopus.com/sources)
 
