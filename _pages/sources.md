@@ -12,6 +12,8 @@ Scimago Journal Rank (SJR): https://www.scimagojr.com/
 
 WoS: https://clarivate.com/
 
+Scopus: https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile
+
 Conference ranking: 
 ---
 Qualis Rank: https://ppgcc.github.io/discentesPPGCC/en/qualis/
