@@ -8,9 +8,9 @@ author_profile: true
 
 Journal ranking: 
 ---
-Scimago Journal Rank (SJR): [https://github.com/thanhtbt/aFAPI](https://www.scimagojr.com/) 
+Scimago Journal Rank (SJR): [https://www.scimagojr.com](https://www.scimagojr.com/) 
 
-WoS: [https://clarivate.com/](https://clarivate.com/)
+WoS: [https://clarivate.com](https://clarivate.com/)
 
 Scopus: [https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile](https://www.scopus.com/sources)
 
