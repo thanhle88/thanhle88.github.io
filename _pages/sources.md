@@ -8,18 +8,19 @@ author_profile: true
 
 Journal ranking: 
 ---
-Scimago Journal Rank (SJR): <a href="[https://github.com/thanhtbt/RST](https://www.scimagojr.com/)" style="color: green; text-decoration: underline; ">https://www.scimagojr.com/</a>    
+Scimago Journal Rank (SJR): <a href="https://www.scimagojr.com" style="color: green; text-decoration: underline; ">https://www.scimagojr.com</a> 
 
-WoS: [https://mjl.clarivate.com/home](https://mjl.clarivate.com/home)
+Scopus:  <a href="https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile" style="color: green; text-decoration: underline; ">https://www.scopus.com/sources</a>   
 
-Scopus: [https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile](https://www.scopus.com/sources)
+WoS:  <a href="https://mjl.clarivate.com/home" style="color: green; text-decoration: underline; ">https://mjl.clarivate.com/home</a>     
+
 
 Conference ranking: 
 ---
-Qualis Rank: [https://ppgcc.github.io/discentesPPGCC/en/qualis](https://ppgcc.github.io/discentesPPGCC/en/qualis/)
+Qualis Rank: <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">https://ppgcc.github.io/discentesPPGCC/en/qualis</a>  
 
-GGS Rank: [https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf](https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf)
+GGS Rank: <a href="https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf" style="color: green; text-decoration: underline; ">https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf</a>   
 
-CORE Rank: [http://portal.core.edu.au/conf-ranks](http://portal.core.edu.au/conf-ranks/) (for CS conferences)
+CORE Rank: <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; ">http://portal.core.edu.au/conf-ranks/</a>  (for CS conferences)
 
-Gooogle Metric: [https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng](https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng)
+Gooogle Metric: <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng</a>   
