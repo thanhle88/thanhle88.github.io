@@ -16,10 +16,10 @@ Scopus: [https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile]
 
 Conference ranking: 
 ---
-Qualis Rank: [https://ppgcc.github.io/discentesPPGCC/en/qualis/](https://ppgcc.github.io/discentesPPGCC/en/qualis)
+Qualis Rank: [https://ppgcc.github.io/discentesPPGCC/en/qualis](https://ppgcc.github.io/discentesPPGCC/en/qualis/)
 
 GGS Rank: [https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf](https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf)
 
-CORE Rank: [http://portal.core.edu.au/conf-ranks/](http://portal.core.edu.au/conf-ranks) (for CS conferences)
+CORE Rank: [http://portal.core.edu.au/conf-ranks](http://portal.core.edu.au/conf-ranks/) (for CS conferences)
 
 Gooogle Metric: [https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng](https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng)
