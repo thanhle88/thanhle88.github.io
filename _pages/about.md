@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "LE Trung Thanh"
+title: "Thanh Trung Le"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -42,7 +42,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v1.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Robust Subspace Tracking With Contamination via Alpha-Divergence </strong>  <br>  L.T. Thanh,  A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim <br>
 <i> <strong>IEEE ICASSP</strong>, 2023 </i> <br>
@@ -65,8 +65,6 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 </table>
 
 
-
-
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TSP_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
@@ -78,6 +76,21 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 </tr>
 </tbody>
 </table>
+
+
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v1.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  Sparse Subspace Tracking in High Dimensions </strong>  <br>  L.T. Thanh,  K. Abed-Meraim, A. Hafiane, N.L. Trung <br>
+<i> <strong>IEEE ICASSP</strong>, 2022 </i> <br>
+<a href="https://ieeexplore.ieee.org/document/9746546" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
+<a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
 
 
 <table >
@@ -110,6 +123,23 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v1.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  A Fast Randomized Adaptive CP Decomposition for Streaming Tensors </strong>  <br>  L.T. Thanh,  K. Abed-Meraim,  N.L. Trung, & A. Hafiane <br>
+<i> <strong>IEEE ICASSP</strong>, 2021 </i> <br>
+<a href="https://ieeexplore.ieee.org/document/9413554" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a>
+<a href="https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<a href="https://github.com/thanhtbt/ROLCP" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>   </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
+
+
+
+<table >
+<tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/JNE.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition </strong>  <br>  L.T. Thanh, N.V. Dung,  N. L. Trung, K. Abed-Meraim <br>
@@ -125,7 +155,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 Contact
 -----
 
-* **LE Trung Thanh** \
+* **Thanh Trung Le** \
 PRISME Laboratory \
 University of Orléans/INSA CVL \
 12 rue de Blois, 45067 Orléans, France 
