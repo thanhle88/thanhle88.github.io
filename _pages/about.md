@@ -51,12 +51,27 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 </tbody>
 </table>
 
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/tkde.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition </strong>  <br>  L.T. Thanh,  K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
+<i> <strong>IEEE Trans. Knowl. Data Eng. </strong>, 2022 </i> <br>
+<a href="https://ieeexplore.ieee.org/document/9994046" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
+<a href="https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>TechRxiv</a> 
+<a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
+
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/TSP.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TSP.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis </strong>  <br>  L.T. Thanh,  K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
+<strong>  Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis </strong>  <br>  L.T. Thanh, K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
 <i> <strong>IEEE Trans. Signal Processing </strong>, 2022 </i> <br>
 <a href="https://ieeexplore.ieee.org/document/9866940" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> </p> </td> 
@@ -64,6 +79,45 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 </tbody>
 </table>
 
+
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TSP.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>  Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification </strong>  <br>  L.T. Thanh,  K. Abed-Meraim, N. L. Trung <br>
+<i> <strong>IEEE Trans. Signal Processing </strong>, 2021 </i> <br>
+<a href="https://ieeexplore.ieee.org/document/9537597" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
+<a href="https://thanhtbt.github.io/files/2021_TSP_MCRB%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TSP.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee </strong>  <br>  L.T. Thanh, N.V. Dung,  N. L. Trung, K. Abed-Meraim <br>
+<i> <strong>IEEE Trans. Signal Processing </strong>, 2021 </i> <br>
+<a href="https://ieeexplore.ieee.org/document/9381678" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a>
+<a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
+<a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/eeg.jpg" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong> Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition </strong>  <br>  L.T. Thanh, N.V. Dung,  N. L. Trung, K. Abed-Meraim <br>
+<i> <strong>J. Neural Eng. </strong>, 2020 </i> <br>
+<a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IOPscience</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Full Report</a>  </p> </td> 
+</tr>
+</tbody>
+</table>
 
 
 
