@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "LE Trung Thanh"
+name                     : &name "Thanh Trung Le"
 description              : &description "personal description"
 url                      : https://thanhtbt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/trung-thanh-le-1b3749216/"
   orcid            : "https://orcid.org/0000-0002-0036-5160"
   pinterest        :
   soundcloud       :
