@@ -142,7 +142,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/JNE.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong> Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung,  N. L. Trung, K. Abed-Meraim <br>
+<strong> Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>, N.T.A. Dao, N.V. Dung,  N. L. Trung, K. Abed-Meraim <br>
 <i> <strong>J. Neural Eng.</strong>, 2020 </i> <br>
 <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IOPscience</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Full Report</a>  </p> </td> 
 </tr>
