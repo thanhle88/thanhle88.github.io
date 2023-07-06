@@ -53,7 +53,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/adaptive_cp.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/adaptive_cp_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>,  K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
 <i> <strong>IEEE Trans. Knowl. Data Eng.</strong>, 2022 </i> <br>
