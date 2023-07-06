@@ -9,11 +9,11 @@ author_profile: true
 
 * <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France  (Nov. 2019 -- Oct. 2022)
 
-    **Ph.D.** degree in Computer Science and Signal Processing.
+    **Ph.D.** in Computer Science and Signal Processing.
       
  * <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Aug. 2012 -- Dec. 2018)
 
-    **B.Sc. & M.Sc.** degrees both in Electronics and Communications.
+    **B.Sc. & M.Sc.** in Electronics and Communications.
 
 ---
 ## Work Experience
