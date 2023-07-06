@@ -53,7 +53,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TKDE.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/adaptive_cp.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>,  K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
 <i> <strong>IEEE Trans. Knowl. Data Eng.</strong>, 2022 </i> <br>
@@ -67,7 +67,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TSP_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/racp.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis </strong>  <br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
 <i> <strong>IEEE Trans. Signal Process.</strong>, 2022 </i> <br>
@@ -108,7 +108,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TSP.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/PETRELS_ADMM.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung,  N. L. Trung, K. Abed-Meraim <br>
 <i> <strong>IEEE Trans. Signal Process.</strong>, 2021 </i> <br>
