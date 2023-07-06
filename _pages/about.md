@@ -42,7 +42,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v1.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/rst.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Robust Subspace Tracking With Contamination via Alpha-Divergence </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>,  A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim <br>
 <i> <strong>IEEE ICASSP</strong>, 2023 </i> <br>
@@ -80,7 +80,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v1.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/sst.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Sparse Subspace Tracking in High Dimensions </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>,  K. Abed-Meraim, A. Hafiane, N.L. Trung <br>
 <i> <strong>IEEE ICASSP</strong>, 2022 </i> <br>
@@ -95,7 +95,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_TSP.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/MCRB.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification </strong>  <br> <span style="text-decoration:underline">L.T. Thanh</span>,  K. Abed-Meraim, N. L. Trung <br>
 <i> <strong>IEEE Trans. Signal Process.</strong>, 2021 </i> <br>
@@ -123,7 +123,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v1.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/rolcp.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>  A Fast Randomized Adaptive CP Decomposition for Streaming Tensors </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>,  K. Abed-Meraim,  N.L. Trung, & A. Hafiane <br>
 <i> <strong>IEEE ICASSP</strong>, 2021 </i> <br>
