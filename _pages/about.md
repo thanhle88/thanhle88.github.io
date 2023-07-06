@@ -82,7 +82,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/IEEE_ICASSP_v1.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
-<strong>  Sparse Subspace Tracking in High Dimensions </strong>  <br>  L.T. Thanh,  K. Abed-Meraim, A. Hafiane, N.L. Trung <br>
+<strong>  Sparse Subspace Tracking in High Dimensions </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>,  K. Abed-Meraim, A. Hafiane, N.L. Trung <br>
 <i> <strong>IEEE ICASSP</strong>, 2022 </i> <br>
 <a href="https://ieeexplore.ieee.org/document/9746546" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
 <a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
