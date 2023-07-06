@@ -69,6 +69,9 @@ author_profile: true
 
 * **Invited Talks/Presentations**
 
+      *“Tensor methods: Concepts, Algorithms & Applications”*. In International Summer School “Multidimensional Bioelectric Processing: From Decomposition to Complexity”, organized by ATHENA European University, 2023 <a href="https://www.lestudium-ias.com/events/multidimensional-bioelectric-processing-decomposition-complexity" style="color: green; text-decoration: underline; ">Link</a>
+
+
    *“Tracking Dynamic Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”*. In the meeting Statistical Learning with Missing Values, organized by GdR ISIS-CNRS, 2021  <a href="https://www.gdr-isis.fr/index.php/reunion/464/" style="color: green; text-decoration: underline; ">Link</a>
 
    *“Adaptive algorithms for tensor tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021  <a href="https://avitech.uet.vnu.edu.vn/en/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh-2" style="color: green; text-decoration: underline; ">Link</a>
