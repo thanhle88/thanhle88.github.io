@@ -140,7 +140,7 @@ Signal processing and its applications: Subspace analysis/tracking, tensor decom
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/JNE.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/eeg.jpg" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition </strong>  <br>  <span style="text-decoration:underline">L.T. Thanh</span>, N.T.A. Dao, N.V. Dung,  N. L. Trung, K. Abed-Meraim <br>
 <i> <strong>J. Neural Eng.</strong>, 2020 </i> <br>
