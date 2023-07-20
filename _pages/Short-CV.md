@@ -54,7 +54,7 @@ author_profile: true
 
    - *“Fast tensor decomposition algorithms for big data analysis”*, member, funded by NAFOSED under grant number 102.02-2015.32. (completed)  <a href="https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/" style="color: green; text-decoration: underline; ">Link</a>
 
-* **Conference Organizer**
+* **Conference Organizers**
    
    - Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023   <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: underline; ">Link</a>
 
@@ -62,9 +62,9 @@ author_profile: true
 
 * **Reviewers** 
 
-   - *Journals*: IEEE Transactions on Signal Processing (IEEE TSP), IOP Journal of Neural Engineering (JNE), IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, REV Journal on Electronics and Communications.
+   - **Journals**: IEEE Transactions on Signal Processing (IEEE TSP), IOP Journal of Neural Engineering (JNE), IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, REV Journal on Electronics and Communications.
 
-   - *IEEE Conferences*: ISCIT, APCCAS, ATC, and SSP.
+   - **IEEE Conferences**: ISCIT, APCCAS, ATC, and SSP.
 
 * **Invited Talks/Presentations**
 
