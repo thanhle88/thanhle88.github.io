@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Useful Sources"
+title: "Useful Links"
 permalink: /sources/
 author_profile: true
 ---
 
 
-Journal ranking: 
+Journal: 
 ---
 
 * Scimago Journal Rank (SJR): <a href="https://www.scimagojr.com" style="color: green; text-decoration: underline; ">https://www.scimagojr.com</a> 
@@ -16,7 +16,7 @@ Journal ranking:
 * WoS:  <a href="https://mjl.clarivate.com/home" style="color: green; text-decoration: underline; ">https://mjl.clarivate.com/home</a>     
 
 
-Conference ranking: 
+Conference: 
 ---
 * Qualis Rank: <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">https://ppgcc.github.io/discentesPPGCC/en/qualis</a>  
 
