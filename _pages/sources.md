@@ -24,4 +24,4 @@ Conference:
 
 * CORE Rank: <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; ">http://portal.core.edu.au/conf-ranks/</a>  (for CS conferences)
 
-* Gooogle Metric: <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng</a>   
+* Google Scholar Metric: <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng</a>   
