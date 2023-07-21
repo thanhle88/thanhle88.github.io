@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Thanh LT"
 title_separator          : "-"
 name                     : &name "Thanh Trung Le"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "Thanh Trung Le"
   avatar           : "DSC_0486.JPG"
   bio              : "Ph.D. in Signal Processing"
-  location         : "Orleans, France"
+  location         : "Orléans, France"
   employer         :
   googlescholar    : "https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en"
   email            :  thanhle88.tbt@gmail.com
-  researchgate     : 
+  researchgate     : "Thanh-Le-104"
   uri              :
   bitbucket        :
   codepen          :
