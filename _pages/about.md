@@ -21,11 +21,14 @@ I am currently a postdoctoral researcher at the University of Orléans, INSA CVL
 
 Research 
 -----
-Signal processing and its applications: Subspace analysis/tracking, tensor decomposition/tracking, system identification, and biomedical signal processing.
+Signal processing and its applications: 
+  * Subspace analysis and tracking
+  * Tensor decomposition and tracking
+  * System identification
+  * Biomedical signal processing.
 
 
 **Select Publications**
-
 
 <table >
 <tbody>
