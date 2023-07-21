@@ -14,7 +14,7 @@ Postdoctoral Researcher<br>
 Orleans, France
 
 
-Biography
+About me
 -----
 I am currently a postdoctoral researcher at the University of Orléans, INSA CVL, PRISME, France. I received my B.Sc. and M.Sc. degrees in Electronics and Communications from Vietnam National University Hanoi, VNU-UET, in 2016 and 2018 respectively, and my Ph.D. degree in Computer Science and Signal Processing from the University of Orléans, INSA CVL, PRISME, France in 2022. 
 
