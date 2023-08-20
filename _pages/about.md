@@ -33,7 +33,7 @@ Signal processing, data science, and their applications:
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/streaming_tensor_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
+<td style= "height=150px; vertical-align: top;"> <p>
 <strong> Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors </strong>  <br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
 <i> <strong>Patterns</strong>, 2023 </i> <br>
 <a href="https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>CellPress</a>
