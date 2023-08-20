@@ -76,21 +76,3 @@ author_profile: true
 
    - *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018 <a href="https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/" style="color: green; text-decoration: underline; ">Link</a>
 
-
-
-
----
-## Selected Awards
-
-* **Best Paper Award** at IEEE NICS 2018.
-
-* **Outstanding Student Awards** for undergraduate (2012-2016) and graduate (2016-2018), VNU-UET.
-
-* **Best Thesis Award**, VNU-UET, 2016.
-
-* **Dean’s list** for 6/8 undergraduate semesters II-VII continuously, VNU-UET.
-
-* **Scholarships**: Pony Chung (2014), Thakral-InSEWA (2015), Odon Vallet (2015), Yamada (2016), Toshiba (2017).
-
-* **Competitions**: 3rd place of Vietnamese Physics Olympiad (VPhO), 2nd place of Provincial Excellent Student Contest in Physics, and 3rd place of Provincial Excellent Student Contest in Informatics. 
-
