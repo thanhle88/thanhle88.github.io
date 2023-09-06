@@ -69,7 +69,7 @@ Find a full list of my publications in Google Scholar <a href="https://scholar.g
 1. **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br>***IEEE Trans. Signal Process.***, 2021  (SJR Q1, IF = 5.4) <br>
 <a href="https://ieeexplore.ieee.org/document/9537597" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-link zoom"></i>IEEE Xplore</a> 
 <a href="https://thanhtbt.github.io/files/2021_TSP_MCRB%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
-<a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
+<a href="https://github.com/DoHaiSon/InSI/tree/master/Algorithms/CRB_Mode/Semi-blind/Misspecified" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
 
  
 1. **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>***REV J. Elect. Commun.***, 2021 <br> 
