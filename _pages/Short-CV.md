@@ -43,17 +43,6 @@ author_profile: true
 ---
 ## Research Activities
 
-* **Research Projects**  
-
-   - *“Multidimensional data analysis and application to Alzheimer’s disease diagnosis”*, member, funded by VNU under grant number QG.22.62. (ongoing)
-   
-   - *“System identification: From a blind to an informed paradigm”*, member, funded by NAFOSTED under grant number 01/2019/TN. (completed) <a href="https://avitech.uet.vnu.edu.vn/en/system-identification-from-blind-to-informed-paradigm/" style="color: green; text-decoration: underline; ">Link</a>
-
-   - *“Robust structured subspace tracking”*, member, funded by NAFOSTED under grant number 102.04-2019.14. (completed) <a href="https://avitech.uet.vnu.edu.vn/en/robust-and-structured-subspace-tracking-2/" style="color: green; text-decoration: underline; ">Link</a>
-
-
-   - *“Fast tensor decomposition algorithms for big data analysis”*, member, funded by NAFOSED under grant number 102.02-2015.32. (completed)  <a href="https://avitech.uet.vnu.edu.vn/en/fast-tensor-decomposition-algorithms-for-big-data-analysis/" style="color: green; text-decoration: underline; ">Link</a>
-
 * **Program Committee**
    
    - Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023   <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: underline; ">Link</a>
@@ -64,7 +53,7 @@ author_profile: true
 
    - **Journals**: IEEE Transactions on Signal Processing (IEEE TSP), IOP Journal of Neural Engineering (JNE), IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, REV Journal on Electronics and Communications.
 
-   - **Conferences**: ISCIT, APCCAS, ATC, and IEEE SSP.
+   - **Conferences**: ISCIT, APCCAS, ATC, IEEE SSP, and IEEE ICASSP.
 
 * **Invited Talks/Presentations**
 
