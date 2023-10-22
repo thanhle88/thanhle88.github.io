@@ -37,7 +37,6 @@ author_profile: true
    - <span style="text-decoration:underline">*Teaching*</span>: Engineering Mathematics (ELT 2029) and  Digital Signal Processing (ELT 3144).
     
 
-
 ---
 ## Research Activities
 
@@ -49,11 +48,11 @@ author_profile: true
 
 * **Reviewers** 
 
-   - **Journals**: IEEE Transactions on Signal Processing (IEEE TSP), IOP Journal of Neural Engineering (JNE), IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, REV Journal on Electronics and Communications.
+   - **Journals**: IEEE Transactions on Signal Processing (IEEE TSP), IOP Journal of Neural Engineering (JNE), IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, and REV Journal on Electronics and Communications.
 
    - **Conferences**: ISCIT, APCCAS, ATC, IEEE SSP, and IEEE ICASSP.
 
-* **Invited Talks/Presentations**
+* **Invited Talks and Presentations**
 
    - *“Tensor Methods: Concepts, Algorithms & Applications”*. In International Summer School “Multidimensional Bioelectric Processing: From Decomposition to Complexity”, organized by ATHENA European University, 2023 <a href="https://www.lestudium-ias.com/events/multidimensional-bioelectric-processing-decomposition-complexity" style="color: green; text-decoration: underline; ">Link</a>
 
