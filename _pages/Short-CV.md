@@ -19,13 +19,11 @@ author_profile: true
 ## Work Experience
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- now)
-   - Work with <a href="https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Karim Abed-Meraim</a>, <a href="https://scholar.google.com.vn/citations?user=oFEEdlwAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Philippe Ravier</a>,  and <a href="https://www.researchgate.net/profile/O-Buttelli/5" style="color: green; text-decoration: none; ">A/Prof. Olivier Buttelli</a>.
-    
-   - <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
+     - <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
  
 * **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
  
-   - Supervised by <a href="https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Karim Abed-Meraim</a> (Main supervisor, *IEEE Fellow*) and <a href="https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Adel Hafiane</a> (Co-supervisor).
+   - Supervised by <a href="https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Karim Abed-Meraim</a> (*IEEE Fellow*) and <a href="https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Adel Hafiane</a>.
     
    - <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data. 
     		
