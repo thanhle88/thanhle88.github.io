@@ -11,7 +11,6 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 
 
 
-
 Journals
 ----
 
@@ -56,7 +55,7 @@ Journals
 
  
 
-International Conferences
+IEEE Conferences
 ----
 
 
