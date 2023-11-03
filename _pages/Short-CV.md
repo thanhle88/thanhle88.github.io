@@ -42,7 +42,7 @@ author_profile: true
 
 * **Program Committee**
    
-   - Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023 <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i> </a>
+   - Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2023 <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
 
    - Regular session *“Signal and Information Processing over Graphs and Networks”*, co-chair, IEEE Statistical Signal Processing Workshop (SSP), 2023  <a href="https://www.ssp2023.org/call4papers.html" style="color: green; text-decoration: underline; ">Link</a>
 
