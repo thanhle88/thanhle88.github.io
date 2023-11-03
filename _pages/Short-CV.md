@@ -60,7 +60,5 @@ author_profile: true
      
    - *“Adaptive Algorithms for Tensor Tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021 
   
-
-
    - *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018  
 
