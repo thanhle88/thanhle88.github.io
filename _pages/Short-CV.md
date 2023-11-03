@@ -61,6 +61,6 @@ author_profile: true
    - *“Tracking Dynamic Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors”*. In the meeting "Statistical Learning with Missing Values", organized by GdR ISIS-CNRS, 2021 <a href="https://www.gdr-isis.fr/index.php/reunion/464/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
      
      
-   - *“Adaptive Algorithms for Tensor Tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021  <a href="https://www.lestudium-ias.com/events/multidimensional-bioelectric-processing-decomposition-complexity" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>  
+   - *“Adaptive Algorithms for Tensor Tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021  <a href="https://avitech.uet.vnu.edu.vn/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>  
   
    - *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018  <a href="https://www.lestudium-ias.com/events/multidimensional-bioelectric-processing-decomposition-complexity" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
