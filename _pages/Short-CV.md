@@ -50,7 +50,9 @@ author_profile: true
 
    - **Journals**: IEEE Transactions on Signal Processing (IEEE TSP), IOP Journal of Neural Engineering (JNE), IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, and REV Journal on Electronics and Communications.
 
-   - **Conferences**: ISCIT, APCCAS, ATC, IEEE SSP, and IEEE ICASSP.
+   - **IEEE Conferences**: ISCIT, APCCAS, ATC, IEEE SSP, and IEEE ICASSP.
+ 
+     
 
 * **Invited Talks and Presentations**
 
