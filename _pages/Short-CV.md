@@ -63,5 +63,5 @@ author_profile: true
      
    - *“Adaptive Algorithms for Tensor Tracking”*. Advanced Institute of Engineering and Technology, VNU-UET, 2021   <a href="https://avitech.uet.vnu.edu.vn/avitech-seminar-series-0330pm-tuesday-march-16-msc-le-trung-thanh/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
   
-   - *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018  
+   - *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018  <a href="https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a> 
 
