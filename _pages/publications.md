@@ -90,7 +90,7 @@ IEEE Conferences
  
 
 
-1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> *Asilomar Conference on Signals, Systems, and Computers*, 2021 <br> 
+1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> *Asilomar Conference on Signals, Systems, and Computers (ACSSC)*, 2021 <br> 
 <a href="https://ieeexplore.ieee.org/document/9723265" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_Asilomar_Side%20Information%20Effect%20on%20Semi-Blind%20Channel%20Identification%20for%20MIMO-OFDM%20Communications.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/DoHaiSon/InSI/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI Toolbox</a>
