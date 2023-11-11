@@ -24,7 +24,7 @@ Journals
 
 1.  **Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
-***Patterns***, 2023 (SJR Q1, IF = 6.5) <br>
+***Cell Patterns***, 2023 (SJR Q1, IF = 6.5) <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S2666389923001046" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Elsevier</a> <a href="https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>CellPress</a> <a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
