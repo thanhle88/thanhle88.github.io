@@ -60,51 +60,51 @@ Conferences
 
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
-***IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)***, 2023 (Flagship, Rank A1 Qualis)  <br>
+*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023    <br>
 <a href="https://ieeexplore.ieee.org/document/10094931" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> 
 
 1.  **A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
-***IEEE Statistical Signal Processing Workshop (SSP)***, 2023  <br>
+*IEEE Statistical Signal Processing Workshop (SSP)*, 2023  <br>
 <a href="https://ieeexplore.ieee.org/document/10208007" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://www.techrxiv.org/articles/preprint/A_novel_tensor_tracking_algorithm_for_block-term_decomposition_of_streaming_tensors/22723453" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> <a href="https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
  
-1. **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>***IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)***, 2022 (Flagship, Rank A1 Qualis)  <br> <a href="https://ieeexplore.ieee.org/document/9746546" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
+1. **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>*IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2022    <br> <a href="https://ieeexplore.ieee.org/document/9746546" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
 <a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
-1. **Robust Tensor Tracking With Missing Data Under Tensor-Train Format**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br>***European Conference on Signal Processing***, 2022 (Rank A2 Qualis)  <br> <a href="https://ieeexplore.ieee.org/document/9909702" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
+1. **Robust Tensor Tracking With Missing Data Under Tensor-Train Format**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br>*European Conference on Signal Processing*, 2022 <br> <a href="https://ieeexplore.ieee.org/document/9909702" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/ROBOT" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
-1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***Proc. 14th APSIPA-ASC***, 2022 <br> <a href="https://ieeexplore.ieee.org/document/9980029" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/ROTDL" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
+1. **Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**<br><span style="text-decoration:underline">L.T. Thanh</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *Asia-Pacific Signal and Information Processing Association (APSIPA-ASC)*, 2022 <br> <a href="https://ieeexplore.ieee.org/document/9980029" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/ROTDL" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
 
-1. **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***Proc. 46th IEEE ICASSP***, 2021 (Flagship, Rank A1 Qualis)  <br> <a href="https://ieeexplore.ieee.org/document/9413554" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
+1. **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2021 <br> <a href="https://ieeexplore.ieee.org/document/9413554" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/thanhtbt/ROLCP" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>  
 
 
 
-1. **Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br> ***Proc. 29th EUSIPCO***, 2021 (Rank A2 Qualis) <br> 
+1. **Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, & N. L. Trung<br> *European Conference on Signal Processing*, 2021 <br> 
 <a href="https://ieeexplore.ieee.org/document/9615921" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
 <a href="https://thanhtbt.github.io/files/2021_EUSIPCO_Perforamnce%20lower%20bounds%20of%20blind%20system%20identification%20techniques%20in%20the%20presence%20of%20channel%20order%20estimation%20error.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/InSI/blob/master/Algorithms/CRB_Mode/Semi-blind/Misspecified/SB_Misspecified.m" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 <a href="https://github.com/DoHaiSon/InSI/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI Toolbox</a>
  
 
 
-1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> ***Proc. 55th Asilomar***, 2021 <br> 
+1. **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">L.T. Thanh</span>, & K. Abed-Meraim.  <br> *Asilomar Conference on Signals, Systems, and Computers*, 2021 <br> 
 <a href="https://ieeexplore.ieee.org/document/9723265" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_Asilomar_Side%20Information%20Effect%20on%20Semi-Blind%20Channel%20Identification%20for%20MIMO-OFDM%20Communications.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/DoHaiSon/InSI/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI Toolbox</a>
  
 
 
-1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***Proc. 28th EUSIPCO***, 2020  (Rank A2 Qualis) <br>
+1. **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> *European Conference on Signal Processing*, 2020  <br>
 <a href="https://ieeexplore.ieee.org/document/9287780" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2020_EUSIPCO%20-%20Adaptive%20Algorithms%20for%20Tracking%20Tensor-Train%20Decomposition%20of%20Streaming%20Tensors.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/thanhtbt/ATT" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
 
  
-1. **Robust Subspace Tracking with Missing Data and Outliers via ADMM**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br>***Proc. 27th EUSIPCO***, 2019  (Rank A2 Qualis) <br> 
+1. **Robust Subspace Tracking with Missing Data and Outliers via ADMM**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br> *European Conference on Signal Processing*, 2019 <br> 
 <a href="https://ieeexplore.ieee.org/document/8903031" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2019_EUSIPCO%20-%20Robust%20Subspace%20Tracking%20with%20Missing%20Data%20and%20Outliers%20via%20ADMM.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a>
