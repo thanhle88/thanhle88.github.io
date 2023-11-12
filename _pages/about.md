@@ -35,7 +35,7 @@ Signal processing, data science, and their applications:
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/streaming_tensor_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors </strong>  <br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
-<i> Cell Patterns, 2023 </i> <br>
+<i> <strong>Cell Patterns</strong>, 2023 </i> <br>
 <a href="https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>CellPress</a>
 <a href="https://www.sciencedirect.com/science/article/pii/S2666389923001046" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Elsevier</a> <a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
 </tr>
