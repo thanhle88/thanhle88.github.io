@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Lecturer <br> 
-<a href="https://uet.vnu.edu.vn/" style="color: green; text-decoration: underline;"> Vietnam National University Hanoi, VNU-UET </a>
+Lecturer <a href="https://uet.vnu.edu.vn/" style="color: green; text-decoration: underline;"> Vietnam National University Hanoi, VNU-UET </a>
 <br> 
 Hanoi, Vietnam
 
