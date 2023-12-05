@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Researcher<br> 
-<a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline;"> University of Orléans, INSA CVL, PRISME</a>
+Lecturer <br> 
+<a href="https://uet.vnu.edu.vn/" style="color: green; text-decoration: underline;"> Vietnam National University Hanoi, VNU-UET </a>
 <br> 
-Orleans, France
+Hanoi, Vietnam
 
 
 About me
 -----
-I am currently a postdoctoral researcher at the University of Orléans, INSA CVL, PRISME, France. I received my B.Sc. and M.Sc. degrees in Electronics and Communications from Vietnam National University Hanoi, VNU-UET, in 2016 and 2018 respectively, and my Ph.D. degree in Computer Science and Signal Processing from the University of Orléans, INSA CVL, PRISME, France in 2022. 
+I am currently a lecturer at Vietnam National University Hanoi, VNU-UET. I received my B.Sc. and M.Sc. degrees in Electronics and Communications from Vietnam National University Hanoi, VNU-UET, in 2016 and 2018 respectively; and my Ph.D. degree in Informatique (Major Signal Processing) from the University of Orléans, INSA CVL, PRISME, France in 2022. I was a postdoctoral researcher at the University of Orléans, INSA CVL, PRISME, France. 
 
 
 Research 
