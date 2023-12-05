@@ -161,8 +161,9 @@ Contact
 -----
 
 * **Thanh Trung Le** \
-PRISME Laboratory \
-University of Orléans/INSA CVL \
-12 rue de Blois, 45067 Orléans, France 
-* **Emails**: *trung-thanh.le@univ-orleans.fr* (working)  or  *thanhle88.tbt@gmail.com* (personal)
+AVITECH Institute \
+VNU University of Engineering and Technology\
+Vietnam National University, Hanoi\
+144 Xuan Thuy,  Hanoi, Vietnam 
+* **Emails**: *thanhletrung@vnu.edu.vn* (working)  or  *thanhle88.tbt@gmail.com* (personal)
 
