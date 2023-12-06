@@ -18,7 +18,10 @@ author_profile: true
 ---
 ## Work Experience
 
-* **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- now)
+* **Lecturer & Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Dec. 2023 -- present)
+   
+
+* **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- Sep. 2023)
      - <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
  
 * **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
@@ -30,12 +33,7 @@ author_profile: true
    - <span style="text-decoration:underline">*System Identification*</span>: Investigate performance lower bounds of blind, semi-blind systems identification techniques under model misspecification.
   
    - <span style="text-decoration:underline">*Subspace Tracking*</span>: Develop fast methods for subspace tracking in high dimensions. 
-
  
-* **Lecturer & Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Dec. 2016 -- present)
-   
-   - <span style="text-decoration:underline">*Teaching*</span>: Engineering Mathematics (ELT 2029) and  Digital Signal Processing (ELT 3144).
-    
 
 ---
 ## Research Activities
