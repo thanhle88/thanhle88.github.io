@@ -20,7 +20,7 @@ Journals
 
 
 1.  **A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *Signal Processing*, 2023 (SJR Q1, IF = 4.4) <br>
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *Signal Processing*, 2024 (SJR Q1, IF = 4.4) <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0165168423003717" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>
 <a href="https://thanhtbt.github.io/files/2023_SP_ATT.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
@@ -32,7 +32,7 @@ Journals
 <a href="https://www.sciencedirect.com/science/article/pii/S2666389923001046" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Elsevier</a> <a href="https://www.cell.com/patterns/fulltext/S2666-3899(23)00104-6" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Cell</a> <a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Knowledge and Data Engineering*, 2022 (SJR Q1, IF = 8.9) <br>
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Knowledge and Data Engineering*, 2023 (SJR Q1, IF = 8.9) <br>
 <a href="https://ieeexplore.ieee.org/document/9994046" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
 <a href="https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> 
 <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://github.com/thanhtbt/tensor_tracking_survey" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
