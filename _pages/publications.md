@@ -67,6 +67,12 @@ Journals
 IEEE Conferences
 ----
 
+1.  **Tensorial Convolutive Blind Source Separation**<br> 
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 (accepted)
+ 
+1.  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 (accepted)
+
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023    <br>
