@@ -15,7 +15,7 @@ Journals
 ----
 
 1.  **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Signal Processing* (accepted)  <br>
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Signal Processing*  <span style="color:red">*(Accepted)*</span> <br>
 <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
 
@@ -68,10 +68,10 @@ IEEE Conferences
 ----
 
 1.  **Tensorial Convolutive Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 (accepted)
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span>
  
 1.  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 (accepted)
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span>
 
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
