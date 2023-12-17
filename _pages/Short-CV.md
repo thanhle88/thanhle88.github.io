@@ -18,7 +18,7 @@ author_profile: true
 ---
 ## Work Experience
 
-* **Lecturer & Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Dec. 2023 -- present)
+* **Lecturer & Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
    
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- Sep. 2023)
