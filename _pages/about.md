@@ -160,9 +160,8 @@ Contact
 -----
 
 * **Thanh Trung Le** \
-AVITECH Institute \
 VNU University of Engineering and Technology\
 Vietnam National University, Hanoi\
-144 Xuan Thuy,  Hanoi, Vietnam 
+144 Xuan Thuy, Cau Giay, Hanoi, Vietnam 
 * **Emails**: *thanhletrung@vnu.edu.vn* (working)  or  *thanhle88.tbt@gmail.com* (personal)
 
