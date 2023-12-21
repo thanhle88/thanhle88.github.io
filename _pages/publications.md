@@ -26,7 +26,7 @@ Journals
 <a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
 
-1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Knowledge and Data Engineering*, 2023 (SJR Q1, IF = 8.9) <br>
+1. **A Contemporary and Comprehensive Survey on Streaming Tensor Decomposition**<br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Knowledge and Data Engineering*, 2023 (SJR Q1) <br>
 <a href="https://ieeexplore.ieee.org/document/9994046" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
 <a href="https://www.techrxiv.org/articles/preprint/A_Contemporary_and_Comprehensive_Survey_on_Streaming_Tensor_Decomposition/20105966" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> 
 <a href="https://thanhtbt.github.io/files/2022_TKDE_A%20Contemporary%20and%20Comprehensive%20Survey%20on%20Streaming%20Tensor%20Decomposition.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://github.com/thanhtbt/tensor_tracking_survey" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
