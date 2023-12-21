@@ -66,7 +66,7 @@ IEEE Conferences
 ----
 
 1.  **Tensorial Convolutive Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span>
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/><span style="color:red">*(Accepted)*</span>
  
 1.  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span>
