@@ -15,7 +15,7 @@ Hanoi, Vietnam
 
 About me
 -----
-I received my B.Sc. and M.Sc. degrees both in Electronics and Communications from Vietnam National University Hanoi, VNU-UET, in 2016 and 2018 respectively, and my Ph.D. degree in Computer Science and Signal Processing from the University of Orléans, INSA CVL, PRISME, France in 2022. I was a postdoctoral researcher at the University of Orléans, INSA CVL, PRISME, France from 2022 to 2023. Currently, I am a lecturer at Vietnam National University Hanoi, VNU-UET. 
+I received my B.Sc. and M.Sc. degrees both in Electronics and Communications from Vietnam National University Hanoi, VNU-UET, in 2016 and 2018 respectively, and my Ph.D. degree in Computer Science and Signal Processing from the University of Orléans, INSA CVL, PRISME in 2022. I was a postdoctoral researcher at the University of Orléans from 2022 to 2023. Currently, I am a lecturer at Vietnam National University Hanoi, VNU-UET. 
 
 
 Research Interests
