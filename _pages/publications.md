@@ -15,8 +15,9 @@ Journals
 ----
 
 1.  **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Signal Processing (TSP)*, 2024 <br>
-<span style="color:red">*(Accepted)*</span>  <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Signal Processing (TSP)*, 2024 <br> 
+<span style="color:red">*(Accepted)*</span>  <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_manuscript.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
+<a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
 
 1.  **A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations**<br> 
