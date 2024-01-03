@@ -12,6 +12,8 @@ My software and algorithms are available online at my Github <a href="https://gi
 
 ### Subspace Tracking Algorithms
 
+* **OPIT**: An effective sparse subspace tracking in high dimension: <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> 
+
 * **αFAPI**: A fast algorithm for subspace tracking with data corruption using α-divergence: <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>
 
 * **OPIT**: An effective algorithm for tracking subspaces in high dimensions: <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>
