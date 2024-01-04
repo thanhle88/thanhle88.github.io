@@ -44,7 +44,7 @@ Signal processing, data science, and their applications:
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/ATT.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/ATT_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations</strong>  <br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
 <i> <strong>Elsevier Signal Process.</strong>, 2024 </i> <br>
