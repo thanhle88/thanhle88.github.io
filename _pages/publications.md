@@ -14,6 +14,11 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 Journals
 ----
 
+
+1.  **Tensor Decomposition Meets  Blind Source Separation**<br> 
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Elsevier Signal Processing (SP)*, 2024 <br/><span style="color:red">*(Accepted)*</span>
+
+
 1.  **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Signal Processing (TSP)*, 2024 <br> 
 <a href="https://ieeexplore.ieee.org/document/10379829" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>   <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_manuscript.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
