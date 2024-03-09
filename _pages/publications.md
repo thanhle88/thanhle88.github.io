@@ -71,11 +71,10 @@ IEEE Conferences
 ----
 
 1.  **Tensorial Convolutive Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
  
 1.  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
-
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
 1.  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">L.T. Thanh</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
 *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2023    <br>
