@@ -16,7 +16,7 @@ Journals
 
 
 1.  **Tensor Decomposition Meets  Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Signal Processing*, 2024  (SJR Q1) <br/><span style="color:red">*(Accepted)*</span>
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Signal Processing*, 2024  (SJR Q1) <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
 
 1.  **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
