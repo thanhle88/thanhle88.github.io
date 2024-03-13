@@ -18,6 +18,13 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 1.  **Tensor Decomposition Meets  Blind Source Separation**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Signal Processing*, 2024  (SJR Q1) <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
+1.  **Tensorial Convolutive Blind Source Separation**<br> 
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proceeding of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+ 
+1.  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
+<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proceeding of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+
+
 
 1.  **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Signal Processing*, 2024  (SJR Q1) <br> 
@@ -31,11 +38,6 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 <a href="https://thanhtbt.github.io/files/2023_SP_ATT.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
-1.  **Tensorial Convolutive Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proceeding of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
- 
-1.  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proceeding of IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 
 
