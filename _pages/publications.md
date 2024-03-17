@@ -17,7 +17,7 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 
 
 *  **Tensor Decomposition Meets  Blind Source Separation**<br> 
-<span style="text-decoration: underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: blue; text-decoration: none">*Signal Processing*</span>, 2024  (SJR Q1) <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<span style="text-decoration: underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: blue; text-decoration: none">*Elsevier Signal Processing*</span>, 2024  (SJR Q1) <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
 *  **Tensorial Convolutive Blind Source Separation**<br> 
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
@@ -28,13 +28,13 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 
 
 *  **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *IEEE Transactions on Signal Processing*, 2024  (SJR Q1) <br> 
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: blue; text-decoration: none">*IEEE Transactions on Signal Processing*</span>, 2024  (SJR Q1) <br> 
 <a href="https://ieeexplore.ieee.org/document/10379829" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>   <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_manuscript.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
 <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
 
 *  **A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *Signal Processing*, 2024   (SJR Q1)  <br>
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: blue; text-decoration: none">*Elsevier Signal Processing*</span>, 2024   (SJR Q1)  <br>
 <a href="https://www.sciencedirect.com/science/article/pii/S0165168423003717" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>
 <a href="https://thanhtbt.github.io/files/2023_SP_ATT.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
