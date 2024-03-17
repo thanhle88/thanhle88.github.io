@@ -22,7 +22,7 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
  
 *  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
-<span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024  <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 
 
