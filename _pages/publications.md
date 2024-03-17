@@ -156,22 +156,18 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 National (Vietnamese) Journals
 ----
 
-* **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications*, 2021 <br> 
+* **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications*, 2021 <br> 
 <a href="https://rev-jec.org/index.php/rev-jec/article/view/270" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Publisher</a> 
 <a href="https://thanhtbt.github.io/files/2021_JEC_Robust%20Subspace%20Tracking%20Algorithms%20in%20Signal%20Processing.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
-* **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications*, 2018 <br>
+* **Three-Way Tensor Decompositions: A Generalized Minimum Noise Subspace Based Approach**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications*, 2018 <br>
 <a href="https://rev-jec.org/index.php/rev-jec/article/view/196" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Publisher</a> 
 <a href="https://thanhtbt.github.io/files/2018%20JEC-Three-Way%20Tensor%20Decompositions%20A%20Generalized%20Minimum%20Noise%20Subspace.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
-* **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">L.T. Thanh</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> *VNU Journal of Science: Computer Science and Communication Engineering*, 2019  <br> 
+* **New feature selection method for multi-channel EEG epileptic spike detection system**<br>N.T.A. Dao, <span style="text-decoration:underline">**L.T. Thanh**</span>, N.V. Dung, N. L. Trung, & L.V. Ha<br> *VNU Journal of Science: Computer Science and Communication Engineering*, 2019  <br> 
 <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/230" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Publisher</a> <a href="https://thanhtbt.github.io/files/2019%20VNU-JCSCE-New%20feature%20selection%20method%20for%20multi-channel%20EEG%20epileptic%20spike%20detection.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
-* **Deep learning for epileptic spike detection**<br>L.T. Xuyen, <span style="text-decoration:underline">L.T. Thanh</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>*VNU Journal of Science: Computer Science and Communication Engineering*, 2018 <br> <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Publisher</a> <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
-
-
-
-
+* **Deep learning for epileptic spike detection**<br>L.T. Xuyen, <span style="text-decoration:underline">**L.T. Thanh**</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>*VNU Journal of Science: Computer Science and Communication Engineering*, 2018 <br> <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Publisher</a> <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
 
 Thesis
