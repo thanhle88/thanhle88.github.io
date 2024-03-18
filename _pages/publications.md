@@ -14,7 +14,8 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 2024
 ----
 
-> **alert#9a6700;Warning**
+> **alert#9a0000**
+> 
 > This is a warning
 
 
