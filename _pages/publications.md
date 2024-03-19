@@ -10,6 +10,9 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 *Note*: PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
 
 2024
 ----
