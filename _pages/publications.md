@@ -10,7 +10,7 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 Note: PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 <blockquote>
-<p><span class="color-fg-attention"><svg>...</svg>Warning</span><br>
+<p> 
 This is a warning</p>
 </blockquote>
 
