@@ -7,11 +7,8 @@ author_profile: true
 
 All my publications can be found in my Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and their source codes in my Github <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>.
 
-*Note*: PDFs are for personal use only and their copyrights are reserved by Publishers.
-
-
 > [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+> PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 
 2024
