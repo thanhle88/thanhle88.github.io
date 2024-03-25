@@ -13,7 +13,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 ----
 
 *  **Tensor Decomposition Meets  Blind Source Separation**<br> 
-<span style="text-decoration: underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: blue; text-decoration: none">*Elsevier Signal Processing*</span>, 2024  (SJR Q1) <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<span style="text-decoration: underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: blue; text-decoration: none">***Elsevier Signal Processing***</span>, 2024  (SJR Q1) <br/><span style="color:red">*(Accepted)*</span> <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
 *  **Tensorial Convolutive Blind Source Separation**<br> 
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*, 2024 <br/> <a href="https://ieeexplore.ieee.org/document/10447269" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
