@@ -67,7 +67,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 2022
 ---
 
-* **Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<be> <span style="color: blue; text-decoration: none">*IEEE Transactions on Signal Processing*</span>, 2022   (SJR Q1) <br> 
+* **Robust Tensor Tracking with Missing Data and Outliers: Novel Adaptive CP Decomposition and Convergence Analysis**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: blue; text-decoration: none">*IEEE Transactions on Signal Processing*</span>, 2022   (SJR Q1) <br> 
 <a href="https://ieeexplore.ieee.org/document/9866940" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2022_TSP_RACP%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a>
 
@@ -118,7 +118,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 2020
 ----
 
-* **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<be>  <span style="color: blue; text-decoration: none">*IOP Journal of Neural Engineering*</span>, 2020  (SJR Q1) <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IOP Publishing</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
+* **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  <span style="color: blue; text-decoration: none">*IOP Journal of Neural Engineering*</span>, 2020  (SJR Q1) <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IOP Publishing</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
 
  
 * **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> *Proc. European Signal Processing Conference (EUSIPCO)*, 2020  <br>
