@@ -32,10 +32,10 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 
 
 *  **Tensorial Convolutive Blind Source Separation**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2024 <br/> <a href="https://ieeexplore.ieee.org/document/10447269" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2024 (Flagship, Qualis A1) <br/> <a href="https://ieeexplore.ieee.org/document/10447269" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
  
 *  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2024  <br/>   <a href="https://ieeexplore.ieee.org/document/10447387" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2024 (Flagship, Qualis A1)  <br/>   <a href="https://ieeexplore.ieee.org/document/10447387" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 
 
@@ -57,7 +57,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 
 
 *  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">**L.T. Thanh**</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
-*Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2023    <br>
+*Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2023 (Flagship, Qualis A1)    <br>
 <a href="https://ieeexplore.ieee.org/document/10094931" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> 
 
 *  **A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
@@ -74,7 +74,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 <a href="https://thanhtbt.github.io/files/2022_TSP_RACP_Supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a>
 
 
-* **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>*Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2022    <br> <a href="https://ieeexplore.ieee.org/document/9746546" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
+* **Sparse Subspace Tracking in High Dimensions**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, A. Hafiane, & N. L. Trung<br>*Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2022  (Flagship, Qualis A1)  <br> <a href="https://ieeexplore.ieee.org/document/9746546" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
 <a href="https://thanhtbt.github.io/files/2022_ICASSP%20-%20Sparse%20Subspace%20Tracking%20in%20High%20Dimensions.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
 
@@ -98,7 +98,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 <a href="https://avitech-vnu.github.io/InSI/#/algorithms/CRB_Mode/SB/CRB_SB_MISSPECIFIED" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>
 
 
-* **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2021 <br> <a href="https://ieeexplore.ieee.org/document/9413554" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
+* **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2021 (Flagship, Qualis A1) <br> <a href="https://ieeexplore.ieee.org/document/9413554" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/thanhtbt/ROLCP" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>  
 
