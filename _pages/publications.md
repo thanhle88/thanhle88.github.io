@@ -57,7 +57,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 
 
 *  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">**L.T. Thanh**</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
-*Proc. IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**)*, 2023 (Flagship, Qualis A1)    <br>
+*In **ICASSP**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2023 (Flagship, Qualis A1)    <br>
 <a href="https://ieeexplore.ieee.org/document/10094931" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> 
 
 *  **A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
