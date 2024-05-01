@@ -32,10 +32,10 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 
 
 *  **Tensorial Convolutive Blind Source Separation**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *In **ICASSP**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2024 (Flagship, Qualis A1) <br/> <a href="https://ieeexplore.ieee.org/document/10447269" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> ***ICASSP**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2024 (Flagship, Qualis A1) <br/> <a href="https://ieeexplore.ieee.org/document/10447269" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_TCBSS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
  
 *  **Joint INDSCAL Decomposition Meets Blind Source Separation**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> *In **ICASSP**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2024 (Flagship, Qualis A1)  <br/>   <a href="https://ieeexplore.ieee.org/document/10447387" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> ***ICASSP**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2024 (Flagship, Qualis A1)  <br/>   <a href="https://ieeexplore.ieee.org/document/10447387" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 
 
@@ -57,11 +57,11 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 
 
 *  **Robust Subspace Tracking With Contamination via Alpha-Divergence**<br> <span style="text-decoration:underline">**L.T. Thanh**</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
-*In **ICASSP**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2023 (Flagship, Qualis A1)    <br>
+***ICASSP**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2023 (Flagship, Qualis A1)    <br>
 <a href="https://ieeexplore.ieee.org/document/10094931" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> 
 
 *  **A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**<br> <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
-*In **SSP**: Proc. IEEE Statistical Signal Processing Workshop*, 2023  <br>
+***SSP**: Proc. IEEE Statistical Signal Processing Workshop*, 2023  <br>
 <a href="https://ieeexplore.ieee.org/document/10208007" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://www.techrxiv.org/articles/preprint/A_novel_tensor_tracking_algorithm_for_block-term_decomposition_of_streaming_tensors/22723453" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-external-link-square-alt zoom"></i>TechRxiv</a> <a href="https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf" style="color: green; text-decoration: none;"><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 
