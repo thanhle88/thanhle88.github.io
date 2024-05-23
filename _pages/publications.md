@@ -35,8 +35,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> ***ICASSP'24**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2024 (Flagship, Qualis A1)  <br/>   <a href="https://ieeexplore.ieee.org/document/10447387" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 *  **Higher-Order Singular Spectrum Analysis For Multichannel Biomedical Signal Analysis**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N.L. Trung<br>  ***EUSIPCO'24**: Proc. European Signal Processing Conference*, 2024 (Qualis A2)  <br/>  
-<span style="color: red; text-decoration: none">Accepted</span>
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N.L. Trung<br>  ***EUSIPCO'24**: Proc. European Signal Processing Conference*, 2024 (Qualis A2) <br/> <span style="color: red; text-decoration: none">Accepted</span>
 
 2023
 ----
