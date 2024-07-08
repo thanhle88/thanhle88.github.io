@@ -35,7 +35,11 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> ***ICASSP'24**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2024 (Flagship, Qualis A1)  <br/>   <a href="https://ieeexplore.ieee.org/document/10447387" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://thanhtbt.github.io/files/2024_ICASSP_SOFO.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 *  **Higher-Order Singular Spectrum Analysis For Multichannel Biomedical Signal Analysis**<br> 
-<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N.L. Trung<br>  ***EUSIPCO'24**: Proc. European Signal Processing Conference*, 2024 (Qualis A2) <br/> <span style="color: red; text-decoration: none">*Accepted*</span> <a href="https://thanhle88.github.io/files/2024_EUSIPCO_HOMSSA.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N.L. Trung<br>  ***EUSIPCO'24**: Proc. European Signal Processing Conference*, 2024 (Qualis A2) <br/> <span style="color: red; text-decoration: none">*Accepted*</span> <a href="https://thanhle88.github.io/files/2024_EUSIPCO_HOMSSA.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+
+*  **Tensor Kernel Learning for Classification of Alzheimer’s Conditions using Multimodal Data**<br> V.D. Thanh,
+<span style="text-decoration:underline">**L.T. Thanh**</span>, P.M. Tuan, N.L. Trung, K. Abed-Meraim, M. Adel, N.V. Dung, N.T. Trung, D.D. Long, O. Chen <br>  ***MAPR'24**: Proc.  International Conference on Multimedia Analysis and Pattern Recognition*, 2024 <br/> <span style="color: red; text-decoration: none">*Accepted*</span> <a href="https://thanhle88.github.io/files/xxx" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+
 
 2023
 ----
