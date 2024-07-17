@@ -30,7 +30,7 @@ My software and algorithms are available online at my Github <a href="https://gi
 
 * **ROTDL**: A robust method for online Tucker dictionary learning from multidimensional data streams: <a href="https://github.com/thanhtbt/ROTDL" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>
 
-* **TKL**: Tensor Kernel Learning <a href="https://github.com/thanhvd18/Tensor-Kernel-Learning-matlab" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>  
+* **TKL**: Tensor Kernel Learning: <a href="https://github.com/thanhvd18/Tensor-Kernel-Learning-matlab" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>  
 
 
 
