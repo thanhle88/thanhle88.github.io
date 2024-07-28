@@ -31,6 +31,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 <a href="https://www.sciencedirect.com/science/article/pii/S0165168423003717" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>
 <a href="https://thanhtbt.github.io/files/2023_SP_ATT.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 <a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
+ <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:s85pQhAUCrAC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
 *  **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: black; text-decoration: none">***IEEE Transactions on Signal Processing***</span>, 2024  (SJR/Scopus Q1) <br> 
