@@ -97,44 +97,46 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 
  
 * **Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>  <span style="color: black; text-decoration: none">***IEEE Transactions on Signal Processing***</span>, 2021  (SJR/Scopus Q1) <br> <a href="https://ieeexplore.ieee.org/document/9381678" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
-<a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> 
+<a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>  <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:HGTzPopzzJcC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
+
+
 
 * **Misspecified Cramer-Rao Bounds for Blind Channel Estimation under Channel Order Misspecification**<br> <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, & N. L. Trung<br>  <span style="color: black; text-decoration: none">***IEEE Transactions on Signal Processing***</span>, 2021   (SJR/Scopus Q1)  <br>
 <a href="https://ieeexplore.ieee.org/document/9537597" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
 <a href="https://thanhtbt.github.io/files/2021_TSP_MCRB%20(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/DoHaiSon/InSI/blob/master/Algorithms/CRB_Mode/Semi-blind/Misspecified/SB_Misspecified.m" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
-<a href="https://avitech-vnu.github.io/InSI/#/algorithms/CRB_Mode/SB/CRB_SB_MISSPECIFIED" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>
+<a href="https://avitech-vnu.github.io/InSI/#/algorithms/CRB_Mode/SB/CRB_SB_MISSPECIFIED" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>  <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:eGYfIraVYiQC
+" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
 
 * **A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***ICASSP'21**: Proc. IEEE International Conference on Acoustics, Speech and Signal Processing*, 2021 (Flagship, Qualis A1) <br> <a href="https://ieeexplore.ieee.org/document/9413554" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
-<a href="https://github.com/thanhtbt/ROLCP" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>  
+<a href="https://github.com/thanhtbt/ROLCP" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>    <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:QsaTk4IG4EwC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
 
 
 * **Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, & N. L. Trung<br> ***EUSIPCO'21**: Proc. European Signal Processing Conference*, 2021  (Qualis A2) <br> 
 <a href="https://ieeexplore.ieee.org/document/9615921" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
 <a href="https://thanhtbt.github.io/files/2021_EUSIPCO_Perforamnce%20lower%20bounds%20of%20blind%20system%20identification%20techniques%20in%20the%20presence%20of%20channel%20order%20estimation%20error.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/InSI/blob/master/Algorithms/CRB_Mode/Semi-blind/Misspecified/SB_Misspecified.m" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
-<a href="https://avitech-vnu.github.io/InSI/#/algorithms/CRB_Mode/SB/CRB_SB_MISSPECIFIED" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>
+<a href="https://avitech-vnu.github.io/InSI/#/algorithms/CRB_Mode/SB/CRB_SB_MISSPECIFIED" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>  <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:2v_ZtQDX9iAC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
  
 
 
 * **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">**L.T. Thanh**</span>, & K. Abed-Meraim.  <br> ***ACSSC'21**: Proc. Asilomar Conference on Signals, Systems, and Computers*, 2021 <br> 
 <a href="https://ieeexplore.ieee.org/document/9723265" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_Asilomar_Side%20Information%20Effect%20on%20Semi-Blind%20Channel%20Identification%20for%20MIMO-OFDM%20Communications.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
-<a href="https://avitech-vnu.github.io/InSI/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>
+<a href="https://avitech-vnu.github.io/InSI/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:kVjdVfd2voEC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
  
 
 2020
 ----
 
-* **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  <span style="color: black; text-decoration: none">***Journal of Neural Engineering***</span>, 2020  (SJR/Scopus Q1) <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IOP Publishing</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
-
+* **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  <span style="color: black; text-decoration: none">***Journal of Neural Engineering***</span>, 2020  (SJR/Scopus Q1) <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IOP Publishing</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a>   <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:BrOSOlqYqPUC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
  
 * **Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> ***EUSIPCO'20**: Proc. European Signal Processing Conference*, 2020 (Qualis A2) <br>
 <a href="https://ieeexplore.ieee.org/document/9287780" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2020_EUSIPCO%20-%20Adaptive%20Algorithms%20for%20Tracking%20Tensor-Train%20Decomposition%20of%20Streaming%20Tensors.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
-<a href="https://github.com/thanhtbt/ATT" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
+<a href="https://github.com/thanhtbt/ATT" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>  <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:PyEswDtIyv0C" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
 
 2019 and before
