@@ -28,13 +28,13 @@ author_profile: true
   
      - <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
        
-     - <span style="text-decoration:underline">*Results*</span>: Two new tensor-based blind source separation algorithms capable of extracting the underlying sources from EMG signals. See publications [ICASSP 2024](https://ieeexplore.ieee.org/document/10447387),  [ICASSP 2024](https://ieeexplore.ieee.org/document/10447269), and [Signal Processing 2024](https://doi.org/10.1016/j.sigpro.2024.109483).
+     - <span style="text-decoration:underline">*Results*</span>: Two new tensor-based blind source separation algorithms capable of extracting the underlying sources from EMG signals. See publications [ICASSP 2024](https://ieeexplore.ieee.org/document/10447387),  [ICASSP 2024](https://ieeexplore.ieee.org/document/10447269), and [SP 2024](https://doi.org/10.1016/j.sigpro.2024.109483).
  
 * **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
  
    - Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (*IEEE Fellow*) and  [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en).
     
-   - <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data. 
+   - <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data.  See publications [IEEE TSP 2022](https://ieeexplore.ieee.org/document/9866940), [Patterns 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [SP 2024](https://www.sciencedirect.com/science/article/pii/S0165168423003717)
     		
    - <span style="text-decoration:underline">*System Identification*</span>: Investigate performance lower bounds of blind, semi-blind systems identification techniques under model misspecification.
   
