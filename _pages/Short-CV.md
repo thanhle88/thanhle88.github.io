@@ -26,6 +26,7 @@ author_profile: true
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- Sep. 2023)
      - <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
+     - Results: Two tensor-based blind source separation algorithms capable of extracting the underlying sources from EMG signals. See [ICASSP 2024](https://ieeexplore.ieee.org/document/10447387),  [ICASSP 2024](https://ieeexplore.ieee.org/document/10447269), and [Signal Processing 2024](https://doi.org/10.1016/j.sigpro.2024.109483)
  
 * **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
  
