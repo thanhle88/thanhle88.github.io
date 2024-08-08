@@ -52,7 +52,7 @@ author_profile: true
  
 * **Reviewers** 
 
-   - **Journals**: I
+   - **Journals**: 
       - IEEE Transactions on Signal Processing 
       - IOP Journal of Neural Engineering  
       - IOP Physiological Measurement
