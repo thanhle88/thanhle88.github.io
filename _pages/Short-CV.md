@@ -18,8 +18,8 @@ author_profile: true
 ---
 ## Work Experience
 
-* **Lecturer**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
-     - Teaching:
+* **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
+     - Undergraduate cources:
           - Mathematics for Artificial Intelligence (AIT2001)
           - Probability and Statistics (MAT1101)
           - Digital Signal Processing (ELT3144)
