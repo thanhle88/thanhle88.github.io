@@ -19,7 +19,10 @@ author_profile: true
 ## Work Experience
 
 * **Lecturer**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
-     - Teaching: Mathematics for Artificial Intelligence (AIT2001), Probability and Statistics (MAT1101)  and Digital Signal Processing (ELT3144)
+     - Teaching:
+          - Mathematics for Artificial Intelligence (AIT2001)
+          - Probability and Statistics (MAT1101)
+          - Digital Signal Processing (ELT3144)
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- Sep. 2023)
      - <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
@@ -46,7 +49,12 @@ author_profile: true
  
 * **Reviewers** 
 
-   - **Journals**: IEEE Transactions on Signal Processing (IEEE TSP), IOP Journal of Neural Engineering (JNE), IOP Physiological Measurement, Elsevier Computer Methods and Programs in Biomedicine, and REV Journal on Electronics and Communications.
+   - **Journals**: I
+      - IEEE Transactions on Signal Processing 
+      - IOP Journal of Neural Engineering  
+      - IOP Physiological Measurement
+      - Elsevier Computer Methods and Programs in Biomedicine
+      - REV Journal on Electronics and Communications
 
    - **IEEE Conferences**: ISCIT, APCCAS, ATC, IEEE SSP, and IEEE ICASSP.
  
