@@ -19,7 +19,7 @@ author_profile: true
 ## Work Experience
 
 * **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
-     - Undergraduate cources:
+     - Teaching undergraduate cources:
           - Mathematics for Artificial Intelligence (AIT2001)
           - Probability and Statistics (MAT1101)
           - Digital Signal Processing (ELT3144)
@@ -32,7 +32,7 @@ author_profile: true
  
 * **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
  
-   - Supervised by <a href="https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Karim Abed-Meraim</a> (*IEEE Fellow*) and <a href="https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Adel Hafiane</a>.
+   - Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (*IEEE Fellow*) and  [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en).
     
    - <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data. 
     		
