@@ -36,7 +36,7 @@ author_profile: true
     
    - <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data.  See publications [IEEE TSP 2022](https://ieeexplore.ieee.org/document/9866940), [Patterns 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [SP 2024](https://www.sciencedirect.com/science/article/pii/S0165168423003717)
     		
-   - <span style="text-decoration:underline">*System Identification*</span>: Investigate performance lower bounds of blind, semi-blind systems identification techniques under model misspecification.  See publications [EUSIPCO 2021](https://ieeexplore.ieee.org/document/9615921), [IEEE TSP 2021](https://ieeexplore.ieee.org/document/9537597)
+   - <span style="text-decoration:underline">*System Identification*</span>: Investigate performance lower bounds of blind, semi-blind systems identification techniques under model misspecification.  See publications [EUSIPCO 2021](https://ieeexplore.ieee.org/document/9615921), [IEEE TSP 2021](https://ieeexplore.ieee.org/document/9537597), [ACSSC 2021](https://ieeexplore.ieee.org/document/9723265)
   
    - <span style="text-decoration:underline">*Subspace Tracking*</span>: Develop fast methods for subspace tracking in high dimensions. See publications [IEEE TSP 2021](https://ieeexplore.ieee.org/document/9381678), [ICASSP 2023](https://ieeexplore.ieee.org/document/10094931), [IEEE TSP 2024](https://ieeexplore.ieee.org/document/10379829).
  
