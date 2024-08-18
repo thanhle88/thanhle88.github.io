@@ -24,7 +24,7 @@ author_profile: true
           - Probability and Statistics (MAT1101)
           - Digital Signal Processing (ELT3144)
 
-      - Research: See  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
+     - Research topics: See  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
  
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- Sep. 2023)
