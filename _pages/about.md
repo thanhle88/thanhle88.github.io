@@ -27,9 +27,6 @@ Signal processing, data science, and their applications:
   * System identification
   * Biomedical signal processing
 
- <span style="color: red; text-decoration: none">**Self-motivated students are welcome.  Please feel free to contact me.**</span> 
-
-
 **Select Publications**
 
 <table >
@@ -192,6 +189,9 @@ VNU University of Engineering and Technology\
 Vietnam National University, Hanoi\
 144 Xuan Thuy, Cau Giay, Hanoi, Vietnam 
 * **Emails**: *thanhletrung@vnu.edu.vn* (working)  or  *thanhle88.tbt@gmail.com* (personal)
+
+  
+<span style="color: red; text-decoration: none">**Self-motivated students are welcome.  Please feel free to contact me.**</span> 
 
 
 
