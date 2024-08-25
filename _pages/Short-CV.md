@@ -56,15 +56,20 @@ author_profile: true
 * **Reviewers** 
 
    - **Journals**: 
-      - IEEE Transactions on Signal Processing 
-      - IOP Journal of Neural Engineering  
-      - IOP Physiological Measurement
+      - IEEE Transactions on Signal Processing
+      - Journal of Super Computing
+      - Journal of Neural Engineering  
+      - Physiological Measurement
       - Elsevier Computer Methods and Programs in Biomedicine
       - REV Journal on Electronics and Communications
 
-   - **IEEE Conferences**: ISCIT, APCCAS, ATC, IEEE SSP, and IEEE ICASSP.
- 
-     
+   - **IEEE Conferences**:
+      -  IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+      -  IEEE Statistical Signal Processing Workshop (SSP)
+      -  IEEE International Symposium on Communications and Information Technologies (ISCIT)
+      -  IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
+      -  IEEE International Conference on Advanced Technologies for Communications (ATC) 
+
 
 * **Invited Talks and Presentations**
 
