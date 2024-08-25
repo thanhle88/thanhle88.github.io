@@ -27,8 +27,8 @@ Signal processing, data science, and their applications:
   * System identification
   * Biomedical signal processing
 
+ <span style="color: red; text-decoration: none">**Self-motivated students are welcome.  Please feel free to contact me.**</span> 
 
- 
 
 **Select Publications**
 
@@ -152,7 +152,7 @@ Signal processing, data science, and their applications:
 </tbody>
 </table>
 
-
+---
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/rolcp2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
@@ -165,7 +165,7 @@ Signal processing, data science, and their applications:
 </tr>
 </tbody>
 </table>
-
+---
 
 
 
@@ -193,7 +193,6 @@ Vietnam National University, Hanoi\
 144 Xuan Thuy, Cau Giay, Hanoi, Vietnam 
 * **Emails**: *thanhletrung@vnu.edu.vn* (working)  or  *thanhle88.tbt@gmail.com* (personal)
 
-**Self-motivated students are welcome to join me.  Please feel free to contact me.**
 
 
 
