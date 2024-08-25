@@ -149,7 +149,7 @@ Signal processing, data science, and their applications:
 </tbody>
 </table>
 
----
+
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/rolcp2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
@@ -162,7 +162,7 @@ Signal processing, data science, and their applications:
 </tr>
 </tbody>
 </table>
----
+
 
 
 
