@@ -22,6 +22,10 @@ Conference:
 
 * GGS Rank: <a href="https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf" style="color: green; text-decoration: underline; ">https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf</a>   
 
+* Google Scholar Metric: <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng</a>
+
 * CORE Rank: <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; ">http://portal.core.edu.au/conf-ranks/</a>  (for CS conferences)
 
-* Google Scholar Metric: <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng</a>   
+
+* CS ranking:   <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">https://csrankings.org/</a>  
+
