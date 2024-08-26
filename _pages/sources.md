@@ -26,6 +26,5 @@ Conference:
 
 * CORE Rank: <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; ">http://portal.core.edu.au/conf-ranks/</a>  (for CS conferences)
 
-
-* CS ranking:   <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">https://csrankings.org/</a>  
+* CS Ranking:   <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">https://csrankings.org/</a>  
 
