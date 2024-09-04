@@ -68,8 +68,8 @@ author_profile: true
       -  IEEE Statistical Signal Processing Workshop (SSP)
       -  IEEE International Symposium on Communications and Information Technologies (ISCIT)
       -  IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
-      -  IEEE International Conference on Advanced Technologies for Communications (ATC)
       -  IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
+      -  IEEE International Conference on Advanced Technologies for Communications (ATC)
 
 
 * **Invited Talks and Presentations**
