@@ -21,7 +21,8 @@ I am currently a lecturer at the VNU University of Engineering and Technology, V
 
 Research Interests
 -----
-Signal processing, data science, and their applications: 
+Optimization, signal processing, data science, and their applications: 
+  * Online and adaptive optimization methods 
   * Subspace estimation and tracking
   * Tensor decomposition and tracking
   * System identification
