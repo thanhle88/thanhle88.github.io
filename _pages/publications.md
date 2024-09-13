@@ -62,7 +62,7 @@ Journal Articles
 Conference Papers
 ----
 *  **Semi-Blind Tensor-Based Channel Estimation For Double RIS MIMO Systems**<br> 
-Kabiru Nasiru Aliyu, <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, Azzedine Zerguine<br>  ***IEEE MECOM'24**: Proc. IEEE Middle East Conference on Communications and Networking*, 2024 <br/> <span style="color: red; text-decoration: none">*Accepted*</span>
+Kabiru Nasiru Aliyu, <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, Azzedine Zerguine<br>  ***IEEE MECOM'24**: Proc. IEEE Middle East Conference on Communications and Networking*, 2024 <br/> <span style="color: red; text-decoration: none">*Accepted*</span>   <a href="https://thanhle88.github.io/files/2024_MECOM_Semi_Blind_Channel_Estimation_for_D_RIS_MIMO_Systems.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
 *  **Higher-Order Singular Spectrum Analysis For Multichannel Biomedical Signal Analysis**<br> 
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N.L. Trung<br>  ***EUSIPCO'24**: Proc. European Signal Processing Conference*, 2024 (Rank A2 Qualis) <br/>  <a href="https://eurasip.org/Proceedings/Eusipco/Eusipco2024/pdfs/0001337.pdf
