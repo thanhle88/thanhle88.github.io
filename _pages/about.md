@@ -165,7 +165,7 @@ Contact
 VNU University of Engineering and Technology\
 Vietnam National University, Hanoi\
 144 Xuan Thuy, Cau Giay, Hanoi, Vietnam 
-* **Emails**: *thanhletrung@vnu.edu.vn* 
+* **Email**: *thanhletrung@vnu.edu.vn* 
   
 <span style="color: red; text-decoration: none">**Self-motivated students are always welcome.  Please feel free to contact me.**</span> 
 
