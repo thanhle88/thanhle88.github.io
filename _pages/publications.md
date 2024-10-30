@@ -12,13 +12,13 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 Journal Articles
 ----
 
-> **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
+> [J9] **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
 <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: black; text-decoration: none">***IEEE Transactions on Signal Processing***</span>, 2024  (SJR/Scopus Q1) <br> 
 <a href="https://ieeexplore.ieee.org/document/10379829" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>   <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_manuscript.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
 <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
  <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:z8nqeaKD1nsC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
-1.  **Tensor Decomposition Meets  Blind Source Separation**<br> 
+>  **Tensor Decomposition Meets  Blind Source Separation**<br> 
 <span style="text-decoration: underline">**L.T. Thanh**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none">***Signal Processing***</span>, 2024  (SJR/Scopus Q1) <br/> <a href="https://doi.org/10.1016/j.sigpro.2024.109483" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>  <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:jmjb1lOE9QIC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
  
 
