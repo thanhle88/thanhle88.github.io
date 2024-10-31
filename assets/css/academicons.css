@@ -5,11 +5,7 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 
-blockquote{
-  margin: 20px 0;
-  padding-left: 1.5rem;
-  border-left: 3px solid #014a01; /* Just change the color value and that's it*/
-}
+
 
 @font-face {
     font-family: 'Academicons';
