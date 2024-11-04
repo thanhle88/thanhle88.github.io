@@ -162,12 +162,12 @@ National (Vietnamese) Journals
 Thesis
 =====
 
-* Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, INSA-CVL, PRISME, 2022.   <a href="https://theses.hal.science/tel-04065865" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Hal Theses</a>  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Raw PDF</a> <a href="https://thanhtbt.github.io/files/Thesis_LTT_Book.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Book</a> 
+> Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, INSA-CVL, PRISME, 2022.   <a href="https://theses.hal.science/tel-04065865" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Hal Theses</a>  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Raw PDF</a> <a href="https://thanhtbt.github.io/files/Thesis_LTT_Book.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Book</a> 
 
 
-* M.Sc. *"GMNS-based Tensor Decomposition"*. VNU-UET, 2018. <a href="http://lib.uet.vnu.edu.vn/bitstream/123456789/950/1/LuanVan_LTThanh.pdf" style="color: green; text-decoration: none; " ><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+> M.Sc. *"GMNS-based Tensor Decomposition"*. VNU-UET, 2018. <a href="http://lib.uet.vnu.edu.vn/bitstream/123456789/950/1/LuanVan_LTThanh.pdf" style="color: green; text-decoration: none; " ><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
 
  
-* B.Sc. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET, 2016. <a href="https://thanhtbt.github.io/files/BSc_EEG%20EPILEPTIC%20SPIKE%20DETECTION%20USING%20DEEP%20BELIEF%20NETWORKS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> (Best Thesis Award)
+> B.Sc. *"EEG Epileptic Spike Detection using Deep Belief Networks"*. VNU-UET, 2016. <a href="https://thanhtbt.github.io/files/BSc_EEG%20EPILEPTIC%20SPIKE%20DETECTION%20USING%20DEEP%20BELIEF%20NETWORKS.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> (Best Thesis Award)
  
 
