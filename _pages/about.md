@@ -28,7 +28,7 @@ Optimization, signal processing, data science, and their applications:
   * System identification
   * Biomedical signal processing
 
-**Select Publications**
+**Select Publications:**
 
 <table >
 <tbody>
@@ -36,8 +36,7 @@ Optimization, signal processing, data science, and their applications:
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> Tensor Decomposition Meets Blind Source Separation</strong>  <br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O Buttelli & A. Hobolar <br>
 <i> <strong>Signal Process.</strong>, 2024 </i> <br>
-<a href="https://www.sciencedirect.com/science/article/pii/S0165168424001026" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Elsevier</a>
-<a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  </p> </td> 
+ <a href="https://doi.org/10.1016/j.sigpro.2024.109483" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>  <a href="https://thanhtbt.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/tenBSS" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:jmjb1lOE9QIC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>  </p> </td> 
 </tr>
 </tbody>
 </table>
