@@ -48,8 +48,9 @@ Optimization, signal processing, data science, and their applications:
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong> OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context </strong>  <br> <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
 <i> <strong>IEEE Trans. Signal Process.</strong>, 2024 </i> <br>
-<a href="https://ieeexplore.ieee.org/document/10379829" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
-<a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_manuscript.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Matlab Code</a> </p> </td> 
+ <a href="https://ieeexplore.ieee.org/document/10379829" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>   <a href="https://thanhle88.github.io/files/2024_TSP_OPIT_A_Simple_but_Effective_Method_for_Sparse_Subspace_Tracking_in_High-Dimension_and_Low-Sample-Size_Context.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
+<a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
+ <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:z8nqeaKD1nsC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> </p> </td> 
 </tr>
 </tbody>
 </table>
