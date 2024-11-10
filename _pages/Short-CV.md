@@ -57,6 +57,7 @@ author_profile: true
 
    - **Journals**: 
       - IEEE Transactions on Signal Processing
+      - Signal Processing
       - Signal, Image, and Video Processing
       - Journal of Super Computing
       - Journal of Neural Engineering  
