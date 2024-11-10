@@ -92,7 +92,6 @@ Contact
 -----
 
 * **Thanh Trung Le** \
-Signals and Systems Laboratory\
 VNU University of Engineering and Technology\
 Vietnam National University, Hanoi\
 144 Xuan Thuy, Cau Giay, Hanoi, Vietnam 
