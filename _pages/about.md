@@ -23,7 +23,7 @@ Research Interests
 -----
 Optimization, signal processing, data science, and their applications: 
   * Online and adaptive optimization methods 
-  * Subspace estimation and tracking
+  * Matrix/subspace estimation and tracking
   * Tensor decomposition and tracking
   * System identification
   * Biomedical signal processing
