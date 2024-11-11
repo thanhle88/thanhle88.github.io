@@ -21,7 +21,7 @@ author_profile: true
 * **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
      - Current undergraduate cources at IAI and FET:
           - Mathematics for Artificial Intelligence (AIT2001): Fall 2024, Spring 2024
-          - Probability and Statistics (MAT1101):  Summer 2024, Spring 2024
+          - Probability and Statistics (MAT1101):  Fall 2024, Summer 2024 
           - Digital Signal Processing (ELT3144):  Fall 2024, Summer 2024, Spring 2024
 
      - Research topics: See  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
