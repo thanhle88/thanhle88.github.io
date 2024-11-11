@@ -94,4 +94,4 @@ author_profile: true
   - Outstanding Graduate Awards for undergraduate and graduate students, VNU-UET.
   - Best Undergraduate Thesis Award, VNU-UET.
   - Best Paper Award at IEEE NICS 2018.
-  - 3rd place (bronze medal) at the Vietnamese National Physics Olympiad (VPhO), 2nd place at the NamDinh Provincial Excellent Student Contest in Physics, and 3rd place at the NamDinh Provincial Excellent Student Contest in Informatics. 
+  - 3rd place (bronze medal) at the Vietnamese National Physics Olympiad (VPhO), 2nd place at the NamDinh Provincial Excellent Student Contest in Physics. 
