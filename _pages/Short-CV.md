@@ -49,11 +49,11 @@ author_profile: true
 
 * **Program Committee**
 
-  - TPC member, IEEE Statistical Signal Processing Workshop (SSP), 8-11 June 2025, Edinburgh, Great Britain <a href="https://www.ssp2025.org/SS5.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>(comming)</a>
+  - TPC member, IEEE Statistical Signal Processing Workshop (SSP 2025), 8-11 June 2025, Edinburgh, Great Britain <a href="https://www.ssp2025.org/SS5.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>(comming)</a>
   
-   - Special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*, track chair, IEEE Statistical Signal Processing Workshop (SSP), 2-5 July 2023, Hanoi, Vietnam <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
+   - Track chair for special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*,  IEEE Statistical Signal Processing Workshop (SSP), 2-5 July 2023, Hanoi, Vietnam <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
 
-   - Regular session *“Signal and Information Processing over Graphs and Networks”*, co-chair, IEEE Statistical Signal Processing Workshop (SSP), 2-5 July 2023, Hanoi, Vietnam  <a href="https://www.ssp2023.org/call4papers.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
+   - Co-chair for regular session *“Signal and Information Processing over Graphs and Networks”*,  IEEE Statistical Signal Processing Workshop (SSP), 2-5 July 2023, Hanoi, Vietnam  <a href="https://www.ssp2023.org/call4papers.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
  
 * **Reviewers** 
 
