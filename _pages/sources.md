@@ -5,6 +5,11 @@ permalink: /sources/
 author_profile: true
 ---
 
+Online Magazines/News
+---
+* Signal Processing Magazine: <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">https://read.nxtbook.com/ieee/signal_processing/</a>
+
+* SIAM News: <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">https://www.siam.org/publications/siam-news/</a>
 
 Journal: 
 ---
