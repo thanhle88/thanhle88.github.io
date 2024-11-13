@@ -90,8 +90,8 @@ author_profile: true
 
 ## Selected Awards
 
-- VNU Outstanding Scientist Award, Vietnam National University Hanoi (VNU), 2022, 2024.
-- Outstanding Graduate Awards for undergraduate and graduate students, VNU-UET.
-- Best Undergraduate Thesis Award, VNU-UET.
-- Best Paper Award at IEEE NICS 2018.
-- 3rd place at the Vietnamese National Physics Olympiad (VPhO), 2nd place at the NamDinh Provincial Excellent Student Contest in Physics. 
+   - VNU Outstanding Scientist Award, Vietnam National University Hanoi (VNU), 2022, 2024.
+   - Outstanding Graduate Awards for undergraduate and graduate students, VNU-UET.
+   - Best Undergraduate Thesis Award, VNU-UET.
+   - Best Paper Award at IEEE NICS 2018.
+   - 3rd place at the Vietnamese National Physics Olympiad (VPhO) & 2nd place at the NamDinh Provincial Excellent Student Contest in Physics. 
