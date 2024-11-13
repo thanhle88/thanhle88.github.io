@@ -16,22 +16,22 @@ Online Magazines/News
 Journal: 
 ---
 
-* Scimago Journal Rank (SJR): <a href="https://www.scimagojr.com" style="color: green; text-decoration: underline; ">https://www.scimagojr.com</a> 
+* <a href="https://www.scimagojr.com" style="color: green; text-decoration: underline; ">Scimago Journal Rank (SJR)</a> 
 
-* Scopus:  <a href="https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile" style="color: green; text-decoration: underline; ">https://www.scopus.com/sources</a>   
+* <a href="https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile" style="color: green; text-decoration: underline; ">Scopus</a>   
 
-* WoS:  <a href="https://mjl.clarivate.com/home" style="color: green; text-decoration: underline; ">https://mjl.clarivate.com/home</a>     
+* <a href="https://mjl.clarivate.com/home" style="color: green; text-decoration: underline; ">WoS</a>     
 
 
-Conference: 
+Conference Ranking: 
 ---
-* Qualis Rank: <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">https://ppgcc.github.io/discentesPPGCC/en/qualis</a>  
+* <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">Qualis Rank</a>  
 
-* GGS Rank: <a href="https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf" style="color: green; text-decoration: underline; ">https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf</a>   
+* <a href="https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf" style="color: green; text-decoration: underline; "> GGS Rank</a>   
 
-* Google Scholar Metric: <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng</a>
+* <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">Google Scholar Metric</a>
 
-* CORE Rank: <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; ">http://portal.core.edu.au/conf-ranks/</a>  (for CS conferences)
+* CORE Rank: <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; "> CORE Rank</a>  (for CS conferences)
 
-* CS Ranking:   <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">https://csrankings.org/</a>  
+* <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">CS Ranking</a>  
 
