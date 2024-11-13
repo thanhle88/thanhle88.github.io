@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My software and algorithms are available online at my Github <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a>
+My software and algorithms are available online at my <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
 
 * **OPIT**: An effective sparse subspace tracking in high dimension: <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a> 
