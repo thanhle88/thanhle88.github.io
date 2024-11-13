@@ -11,6 +11,8 @@ Online Magazines/News
 
 * SIAM News: <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">https://www.siam.org/publications/siam-news/</a>
 
+* Forum of Mathematics, Sigma: <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">https://www.cambridge.org/core/journals/forum-of-mathematics-sigma</a>
+
 Journal: 
 ---
 
