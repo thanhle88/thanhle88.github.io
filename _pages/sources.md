@@ -25,7 +25,7 @@ Journals
 
 * <a href="https://www.scopus.com/sources.uri?zone=TopNavBar&origin=AuthorProfile" style="color: green; text-decoration: underline; ">Scopus</a>   
 
-* <a href="https://mjl.clarivate.com/home" style="color: green; text-decoration: underline; ">WoS</a>     
+* <a href="https://mjl.clarivate.com/home" style="color: green; text-decoration: underline; ">Web of Science (WoS)</a>     
 
 
 Conference Ranking
