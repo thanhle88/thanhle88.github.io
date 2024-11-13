@@ -15,6 +15,11 @@ Online Magazines/News
 
 * <a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma" style="color: green; text-decoration: underline; ">Forum of Mathematics, Sigma</a>
 
+* <a href="https://www.cambridge.org/core/journals/forum-of-mathematics-pi
+" style="color: green; text-decoration: underline; ">Forum of Mathematics, Pi</a>
+
+
+
 Journals
 ---
 
