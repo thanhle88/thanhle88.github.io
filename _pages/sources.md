@@ -9,6 +9,8 @@ Online Magazines/News
 ---
 * <a href="https://read.nxtbook.com/ieee/signal_processing/" style="color: green; text-decoration: underline; ">Signal Processing Magazine</a>
 
+*  <a href="https://read.nxtbook.com/ieee/spectrum_int/" style="color: green; text-decoration: underline; ">IEEE Spectrum</a>
+  
 * <a href="https://www.siam.org/publications/siam-news/" style="color: green; text-decoration: underline; ">SIAM News</a>
 
 * <a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma" style="color: green; text-decoration: underline; ">Forum of Mathematics, Sigma</a>
