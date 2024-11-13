@@ -15,7 +15,7 @@ Online Magazines/News
 
 * <a href="https://www.cambridge.org/core/journals/forum-of-mathematics-sigma" style="color: green; text-decoration: underline; ">Forum of Mathematics, Sigma</a>
 
-Journal: 
+Journals
 ---
 
 * <a href="https://www.scimagojr.com" style="color: green; text-decoration: underline; ">Scimago Journal Rank (SJR)</a> 
@@ -25,7 +25,7 @@ Journal:
 * <a href="https://mjl.clarivate.com/home" style="color: green; text-decoration: underline; ">WoS</a>     
 
 
-Conference Ranking: 
+Conference Ranking
 ---
 * <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">Qualis Rank</a>  
 
