@@ -31,7 +31,7 @@ Conference Ranking:
 
 * <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">Google Scholar Metric</a>
 
-* CORE Rank: <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; "> CORE Rank</a>  (for CS conferences)
+* <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; "> CORE Rank</a>  (for CS conferences)
 
 * <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">CS Ranking</a>  
 
