@@ -1,16 +1,20 @@
 ---
 layout: archive
-title: "Publications & Codes"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-All my publications can be found in my Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and their source codes in my Github <a href="https://github.com/thanhle88" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> or <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> (old).
+All my publications can be found in my Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and source codes in my Github <a href="https://github.com/thanhle88" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> or <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> (old).
 
 <span style="color: red;">&gt;</span>  PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 
-Journal Articles
+## 📊 Overview
+
+
+
+📝 Journal Articles
 ----
 
 1. **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
@@ -59,7 +63,7 @@ Journal Articles
 
 1.   **Multichannel EEG Epileptic Spike Detection by a New Method of Tensor Decomposition**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.T.A Dao, V.D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  <span style="color: black; text-decoration: none">***Journal of Neural Engineering***</span>, 2020  (SJR/Scopus Q1) <br> <a href="https://iopscience.iop.org/article/10.1088/1741-2552/ab5247" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IOP Publishing</a>  <a href="https://thanhtbt.github.io/files/2020_JNE(Raw).pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/EEG_Ten_Technical_Report_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a>   <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:BrOSOlqYqPUC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
-Conference Papers
+📘  Conference Papers (Peer-Reviewed, WoS/Scopus Indexed)
 ----
 1.   **Semi-Blind Tensor-Based Channel Estimation For Double RIS MIMO Systems**<br> 
 Kabiru Nasiru Aliyu, <span style="text-decoration:underline">**L.T. Thanh**</span>, K. Abed-Meraim, Azzedine Zerguine<br>  ***IEEE MECOM'24**: Proc. IEEE Middle East Conference on Communications and Networking*, 2024 <br/> <span style="color: red; text-decoration: none">*Accepted*</span>   <a href="https://thanhle88.github.io/files/2024_MECOM_Semi_Blind_Channel_Estimation_for_D_RIS_MIMO_Systems.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
