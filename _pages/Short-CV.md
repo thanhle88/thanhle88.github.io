@@ -5,7 +5,7 @@ permalink: /vitae/
 author_profile: true
 ---
 
-## Education
+## 📊 Education
 
 * <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France, 2022
 
@@ -16,7 +16,7 @@ author_profile: true
     **B.Sc. & M.Sc.** in Electronics and Communications.
 
 ---
-## Work Experience
+## 💼 Work Experience
 
 * **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
      - Current undergraduate cources at IAI and FET:
@@ -45,7 +45,7 @@ author_profile: true
  
 
 ---
-## Research Activities
+## 📊  Research Activities
 
 * **Program Committee**
 
@@ -88,7 +88,7 @@ author_profile: true
    - *“Robust Subspace Tracking (Robust PCA) for Missing Data with Outliers”*. Advanced Institute of Engineering and Technology, VNU-UET, 2018  <a href="https://avitech.uet.vnu.edu.vn/en/october-23-2018-mr-le-trung-thanh-robust-subspace-tracking-for-incomplete-data-with-outliers/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
 
 
-## Selected Awards
+## 🏆 Selected Awards
 
    - VNU Outstanding Scientist Award, Vietnam National University Hanoi (VNU), 2022, 2024.
    - Outstanding Graduate Awards for undergraduate and graduate students, VNU-UET.
