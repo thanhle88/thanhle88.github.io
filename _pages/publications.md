@@ -8,7 +8,7 @@ author_profile: true
 
 ## 📊 Overview
 
-**Publications:** 33 peer-reviewed publications, 09 Q1 journal articles and 20 IEEE conference publications.
+**Publications:** 33 peer-reviewed publications, 09 Q1 journal articles (e.g., IEEE Transactions) and 20 IEEE conference publications.
 
 **Google Scholar Metrics:**  <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
 - Citations: 350+  
