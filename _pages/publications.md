@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Activities"
+title: "Publications and Codes"
 permalink: /publications/
 author_profile: true
 ---
