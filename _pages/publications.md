@@ -154,7 +154,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">**L.T. Thanh**</spa
 <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
  
 
-National (Vietnamese) Journals
+🖊️ National (Vietnamese) Journals
 ----
 
 1.  **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications*, 2021 <br> 
@@ -171,7 +171,7 @@ National (Vietnamese) Journals
 1.  **Deep learning for epileptic spike detection**<br>L.T. Xuyen, <span style="text-decoration:underline">**L.T. Thanh**</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>*VNU Journal of Science: Computer Science and Communication Engineering*, 2018 <br> <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/156" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Publisher</a> <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
 
 
-Thesis
+📚  Theses  and Dissertations 
 =====
 
 1. Ph.D. *"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"*. University of Orleans, INSA-CVL, PRISME, 2022. <br>
