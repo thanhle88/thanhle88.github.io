@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Activities"
 permalink: /publications/
 author_profile: true
 ---
@@ -10,12 +10,10 @@ author_profile: true
 
 **Publications:** 33 peer-reviewed publications, 09 Q1 journal articles and 20 IEEE conference publications.
 
-**Google Scholar Metrics:**  
+**Google Scholar Metrics:**  <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
 - Citations: 350+  
 - H-index: 11 
 - i10-index: 11  
-- My Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>
-- My Github <a href="https://github.com/thanhle88" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> or <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> (old).
 
 >  PDFs are for personal use only and their copyrights are reserved by Publishers.
 
