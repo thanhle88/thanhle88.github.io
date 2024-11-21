@@ -15,9 +15,7 @@ author_profile: true
 - H-index: 11 
 - i10-index: 11  
 
->  PDFs are for personal use only and their copyrights are reserved by Publishers.
-
-
+Note: PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 
 📝 Journal Articles
