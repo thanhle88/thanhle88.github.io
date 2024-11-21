@@ -8,7 +8,7 @@ author_profile: true
 
 ## 📊 Overview
 
-**Publications:** 33 peer-reviewed publications: 09 Q1 journal articles and 20 IEEE conference publications
+**Publications:** 33 peer-reviewed publications, 09 Q1 journal articles and 20 IEEE conference publications
 
 **Google Scholar Metrics:**  
 - Citations: 350+  
