@@ -12,6 +12,12 @@ All my publications can be found in my Google Scholar <a href="https://scholar.g
 
 ## 📊 Overview
 
+**Publications:** 33 peer-reviewed publications: 09 Q1 journal articles and 20 IEEE conference publications
+
+**Google Scholar Metrics:**  
+- Citations: 350+  
+- H-index: 11 
+- i10-index: 11  
 
 
 📝 Journal Articles
