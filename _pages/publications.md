@@ -17,7 +17,7 @@ author_profile: true
 
 All my publications can be found in my Google Scholar <a href="https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en" style="color: green; text-decoration: underline; "><i class="fa fa-fw fa-graduation-cap" aria-hidden="true"></i></a>  and source codes in my Github <a href="https://github.com/thanhle88" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> or <a href="https://github.com/thanhtbt" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i></a> (old).
 
-<span style="color: red;">&gt;</span>  PDFs are for personal use only and their copyrights are reserved by Publishers.
+>  PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 
 
