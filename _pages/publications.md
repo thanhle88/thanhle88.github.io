@@ -154,7 +154,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">**L.T. Thanh**</spa
 <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
  
 
-🖊️ National (Vietnamese) Journals
+📑 National (Vietnamese) Journals
 ----
 
 1.  **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<br><span style="text-decoration:underline">**L.T. Thanh**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications*, 2021 <br> 
