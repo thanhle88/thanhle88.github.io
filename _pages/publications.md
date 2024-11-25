@@ -170,7 +170,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">L.T. Thanh</span>, 
 📚  Theses  and Dissertations 
 =====
 
-1. Ph.D. **"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"**. University of Orleans, INSA-CVL, PRISME, 2022. <br>
+1. Ph.D. **"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"**. University of Orleans, INSA-CVL, PRISME, 2022.  
 <a href="https://theses.fr/2022ORLE1044" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Theses</a> <a href="https://theses.hal.science/tel-04065865" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Hal Theses</a>  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Raw PDF</a> <a href="https://thanhtbt.github.io/files/Thesis_LTT_Book.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Book</a> 
 
 
