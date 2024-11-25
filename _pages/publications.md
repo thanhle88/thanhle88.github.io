@@ -171,7 +171,10 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">L.T. Thanh</span>, 
 =====
 
 1. Ph.D. **"Signal and Image Data Stream Analytics: From Subspace to Tensor Tracking"**. University of Orleans, INSA-CVL, PRISME, 2022. <br>
-<a href="https://theses.hal.science/tel-04065865" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Hal Theses</a>  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Raw PDF</a> <a href="https://thanhtbt.github.io/files/Thesis_LTT_Book.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Book</a> 
+<a href="https://theses.fr/2022ORLE1044" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Theses</a> <a href="https://theses.hal.science/tel-04065865" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Hal Theses</a>  <a href="https://thanhtbt.github.io/files/Thesis_LTThanh_10pt.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Raw PDF</a> <a href="https://thanhtbt.github.io/files/Thesis_LTT_Book.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>Book</a> 
+
+
+
 
 
 2. M.Sc. **"GMNS-based Tensor Decomposition"**. VNU-UET, 2018.  <a href="https://repository.vnu.edu.vn/handle/VNU_123/69892" style="color: green; text-decoration: none; " ><i class="fas fa-fw fa-external-link-square-alt zoom"></i>VNU Library</a>  <a href="https://thanhle88.github.io/files/MSc_GMNS-based%20Tensor%20Decomposition.pdf
