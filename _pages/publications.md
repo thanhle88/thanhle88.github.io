@@ -14,7 +14,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
 </a> 
 <a href="https://dblp.uni-trier.de/pid/36/10443.html">
-    <img src="https://img.shields.io/badge/dblp-004F9F?logo=dblp&logoColor=fff&style=flat-square&logo=dblp&logoColor=white" alt="" />
+    <img src="https://img.shields.io/badge/dblp-004F9F?logo=dblp&logoColor=fff&style=flat&logo=dblp&logoColor=white" alt="" />
 </a>
 <a href="https://orcid.org/0000-0002-0036-5160">
     <img src="https://img.shields.io/badge/ORCID-0000--0002--0036--5150-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
