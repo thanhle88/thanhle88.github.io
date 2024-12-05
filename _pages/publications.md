@@ -10,11 +10,11 @@ author_profile: true
 
 **Publications:** 33 peer-reviewed publications, 09 Q1 journal articles (e.g., IEEE TSP, IEEE TKDE, SP) and 20 IEEE conference publications (e.g., ICASSP and EUSIPCO).
 
-**<a href="https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en">
+<a href="https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
 </a> <a href="https://orcid.org/0000-0002-0036-5160">
     <img src="https://img.shields.io/badge/ORCID-0000--0002--0036--5150-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
-</a> **
+</a>
 - Citations: 350+  
 - H-index: 11 
 - i10-index: 11  
