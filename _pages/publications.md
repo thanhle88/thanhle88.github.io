@@ -19,7 +19,6 @@ author_profile: true
 <a href="https://orcid.org/0000-0002-0036-5160">
     <img src="https://img.shields.io/badge/ORCID-0000--0002--0036--5150-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
 </a>
-
 <a href="https://github.com/thanhtbt">
        <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
 </a>
