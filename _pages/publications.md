@@ -20,9 +20,10 @@ author_profile: true
     <img src="https://img.shields.io/badge/ORCID-0000--0002--0036--5150-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
 </a>
 
-- Citations: 350+  
+- Google Citations: 350+  
 - H-index: 11 
-- i10-index: 11  
+- i10-index: 11
+- ![](https://github.com/thanhtbt/GitHub-Star-Counter/raw/master/assets/pic1.svg?sanitize=true)
 
 Note: PDFs are for personal use only and their copyrights are reserved by Publishers.
 
