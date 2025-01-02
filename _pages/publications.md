@@ -23,7 +23,7 @@ author_profile: true
 - Google Citations: 350+  
 - H-index: 11 
 - i10-index: 11
-- ![](https://github.com/thanhtbt/GitHub-Star-Counter/raw/master/assets/pic1.svg?sanitize=true)
+- ![](https://github.com/thanhtbt/raw/master/assets/pic1.svg?sanitize=true)
 
 Note: PDFs are for personal use only and their copyrights are reserved by Publishers.
 
