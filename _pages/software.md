@@ -15,31 +15,31 @@ My software and algorithms are available online at my <a href="https://github.co
 * **OPIT**: An effective sparse subspace tracking in high dimension: <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/SST">
        <img src="https://img.shields.io/github/stars/thanhtbt/SST?style=flat" alt="GitHub Repo stars">
 
-* **αFAPI**: A fast algorithm for subspace tracking with data corruption using α-divergence: <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/aFAPI">
+* **αFAPI**: A fast algorithm for subspace tracking with data corruption using α-divergence: <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/aFAPI">
        <img src="https://img.shields.io/github/stars/thanhtbt/aFAPI?style=flat" alt="GitHub Repo stars">
 
-* **PETRELS-ADMM**: A robust algorithm for subspace tracking from incomplete observations with outliers: <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/RST">
+* **PETRELS-ADMM**: A robust algorithm for subspace tracking from incomplete observations with outliers: <a href="https://github.com/thanhtbt/RST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/RST">
        <img src="https://img.shields.io/github/stars/thanhtbt/RST?style=flat" alt="GitHub Repo stars">
 
-* **ACP & ATD**: Two fast adaptive algorithms for factorizing streaming tensors under CP and Tucker format:  <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/tensor_tracking">
+* **ACP & ATD**: Two fast adaptive algorithms for factorizing streaming tensors under CP and Tucker format:  <a href="https://github.com/thanhtbt/tensor_tracking" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/tensor_tracking">
        <img src="https://img.shields.io/github/stars/thanhtbt/tensor_tracking?style=flat" alt="GitHub Repo stars">
 
-* **ROBOT**: An effective algorithm for factorizing streaming tensors with sparse corruptions under the TT format: <a href="https://github.com/thanhtbt/ROBOT" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a>  <a href="https://github.com/thanhtbt/ROBOT">
+* **ROBOT**: An effective algorithm for factorizing streaming tensors with sparse corruptions under the TT format: <a href="https://github.com/thanhtbt/ROBOT" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>  <a href="https://github.com/thanhtbt/ROBOT">
        <img src="https://img.shields.io/github/stars/thanhtbt/ROBOT?style=flat" alt="GitHub Repo stars">
 
 
-* **ATT**: A scalable adaptive algorithm for streaming tensor-train decompositions with missing data: <a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/ATT-miss">
+* **ATT**: A scalable adaptive algorithm for streaming tensor-train decompositions with missing data: <a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/ATT-miss">
        <img src="https://img.shields.io/github/stars/thanhtbt/ATT-miss?style=flat" alt="GitHub Repo stars">
 
 
-* **ROLCP**: A fast randomized algorithm for streaming CP/PARAFAC decompositions:  <a href="https://github.com/thanhtbt/ROLCP" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a>     <a href="https://github.com/thanhtbt/ROLCP">
+* **ROLCP**: A fast randomized algorithm for streaming CP/PARAFAC decompositions:  <a href="https://github.com/thanhtbt/ROLCP" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>     <a href="https://github.com/thanhtbt/ROLCP">
        <img src="https://img.shields.io/github/stars/thanhtbt/ROLCP?style=flat" alt="GitHub Repo stars">
 
-* **TT-FOA**: An efficient adaptive method for streaming tensor-train decomposition: <a href="https://github.com/thanhtbt/ATT" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a>    <a href="https://github.com/thanhtbt/ATT">
+* **TT-FOA**: An efficient adaptive method for streaming tensor-train decomposition: <a href="https://github.com/thanhtbt/ATT" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>    <a href="https://github.com/thanhtbt/ATT">
        <img src="https://img.shields.io/github/stars/thanhtbt/ATT?style=flat" alt="GitHub Repo stars"> 
 
 
-* **ROTDL**: A robust method for online Tucker dictionary learning from multidimensional data streams: <a href="https://github.com/thanhtbt/ROTDL" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/ROTDL">
+* **ROTDL**: A robust method for online Tucker dictionary learning from multidimensional data streams: <a href="https://github.com/thanhtbt/ROTDL" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/ROTDL">
        <img src="https://img.shields.io/github/stars/thanhtbt/ROTDL?style=flat" alt="GitHub Repo stars">
 
  
