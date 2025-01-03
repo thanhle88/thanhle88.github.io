@@ -13,7 +13,7 @@ My software and algorithms are available online at my <a href="https://github.co
 
 
 * **OPIT**: An effective sparse subspace tracking in high dimension: <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt/SST">
-       <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
+       <img src="https://img.shields.io/github/stars/thanhtbt/SST?style=flat" alt="GitHub Repo stars">
 
 * **αFAPI**: A fast algorithm for subspace tracking with data corruption using α-divergence: <a href="https://github.com/thanhtbt/aFAPI" style="color: green; text-decoration: underline; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
 
