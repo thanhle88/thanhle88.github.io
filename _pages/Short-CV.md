@@ -90,7 +90,7 @@ author_profile: true
 
 ## 🏆 Selected Awards
 
-   - VNU Outstanding Scientist Award, Vietnam National University Hanoi (VNU), 2022, 2024.
+   - VNU Outstanding Scientist Awards of Vietnam National University Hanoi (VNU): 2022, 2024.
    - Best Paper Award at IEEE NICS 2018.
    - Outstanding Graduate Awards for undergraduate (class of 2012) and graduate students (class of 2016), VNU-UET.
    - Best Undergraduate Thesis Award, VNU-UET, 2016.
