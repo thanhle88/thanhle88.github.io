@@ -11,7 +11,7 @@ author_profile: true
 
     **Ph.D.** in Computer Science and Signal Processing.
       
- * <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam, 2018 
+ * <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET </a>, Vietnam, 2018 
 
     **B.Sc. & M.Sc.** in Electronics and Communications.
 
