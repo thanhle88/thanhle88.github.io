@@ -60,6 +60,7 @@ author_profile: true
    - **International Journals**: 
       - IEEE Transactions on Signal Processing
       - Signal Processing
+      - Digital Signal Processing
       - Signal, Image, and Video Processing
       - Journal of Super Computing
       - Journal of Neural Engineering  
