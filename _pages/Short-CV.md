@@ -19,7 +19,7 @@ author_profile: true
 ## 💼 Work Experience
 
 * **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
-     - Current undergraduate cources at Faculty of Electronics and Telecummincations (FET) and Institute for Artificial Intelligence (IAI):
+     - Undergraduate cources at Faculty of Electronics and Telecummincations (FET) and Institute for Artificial Intelligence (IAI):
           - Mathematics for Artificial Intelligence (AIT2001):  Spring 2024, Fall 2024
           - Probability and Statistics (MAT1101):   Summer 2024, Fall 2024
           - Digital Signal Processing (ELT3144): Spring  2024, Summer 2024, Fall 2024
