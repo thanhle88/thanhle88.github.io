@@ -23,12 +23,6 @@ author_profile: true
        <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
 </a>
 
-
-
-- Citations: 360+  
-- H-index: 11 
-- i10-index: 11
- 
 Note: PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 
