@@ -18,22 +18,24 @@ author_profile: true
 ---
 ## 💼 Work Experience
 
-* **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (Nov. 2023 -- present)
+* **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (2023 -- present)
      - Undergraduate cources at Faculty of Electronics and Telecummincations (FET) and Institute for Artificial Intelligence (IAI):
+          - Digital Signal Processing (ELT3144): Spring  2024, Summer 2024, Fall 2024, Spring 2025
+          - Signals and Systems (ELT 2035): Spring 2025
           - Mathematics for Artificial Intelligence (AIT2001):  Spring 2024, Fall 2024
-          - Probability and Statistics (MAT1101):   Summer 2024, Fall 2024
-          - Digital Signal Processing (ELT3144): Spring  2024, Summer 2024, Fall 2024
+          - Probability and Statistics (MAT1101):  Summer 2024, Fall 2024
+         
 
      - Research interests: Tensor decompositions and their applications. See  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
  
 
-* **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2022 -- Sep. 2023)
+* **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (2022 -- 2023)
   
      - <span style="text-decoration:underline">*Research Project*</span>: Develop data science methods for human muscular investigation using multidimensional electromyographic device.
        
      - <span style="text-decoration:underline">*Results*</span>: Two new tensor-based blind source separation algorithms capable of extracting the underlying sources from EMG signals. See publications [ICASSP 2024](https://ieeexplore.ieee.org/document/10447387),  [ICASSP 2024](https://ieeexplore.ieee.org/document/10447269), and [SP 2024](https://doi.org/10.1016/j.sigpro.2024.109483).
  
-* **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (Nov. 2019 -- Oct. 2022)
+* **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (2019 -- 2022)
  
    - Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (*IEEE Fellow*) and  [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en).
     
@@ -49,7 +51,7 @@ author_profile: true
 
 * **Program Committee**
 
-  - TPC member, IEEE Statistical Signal Processing Workshop (SSP 2025), 8-11 June 2025, Edinburgh, Great Britain <a href="https://www.ssp2025.org/SS5.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>(comming)</a>
+  - TPC member, IEEE Statistical Signal Processing Workshop (SSP 2025), 8-11 June 2025, Edinburgh, Great Britain <a href="https://www.ssp2025.org" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>(comming)</a>
   
    - Track chair for special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*,  IEEE Statistical Signal Processing Workshop (SSP 2023), 2-5 July 2023, Hanoi, Vietnam <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
 
