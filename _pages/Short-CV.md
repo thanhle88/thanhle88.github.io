@@ -67,7 +67,6 @@ author_profile: true
       - Journal of Super Computing
       - Journal of Neural Engineering  
       - Physiological Measurement
-      - Elsevier Computer Methods and Programs in Biomedicine
       - REV Journal on Electronics and Communications
 
    - **IEEE Conferences**:
