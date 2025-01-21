@@ -22,8 +22,8 @@ author_profile: true
      - Undergraduate cources at Faculty of Electronics and Telecummincations (FET) and Institute for Artificial Intelligence (IAI):
           - Digital Signal Processing (ELT3144): Spring  2024, Summer 2024, Fall 2024, Spring 2025
           - Signals and Systems (ELT 2035): Spring 2025
+          - Probability and Statistics (MAT1101):  Summer 2024, Fall 2024, Spring 2025
           - Mathematics for Artificial Intelligence (AIT2001):  Spring 2024, Fall 2024
-          - Probability and Statistics (MAT1101):  Summer 2024, Fall 2024
          
 
      - Research interests: Tensor decompositions and their applications. See  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
