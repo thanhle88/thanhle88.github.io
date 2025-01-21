@@ -26,8 +26,12 @@ author_profile: true
           - Mathematics for Artificial Intelligence (AIT2001):  Spring 2024, Fall 2024
          
 
-     - Research interests: Tensor decompositions and their applications. See  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
- 
+     - Research interests: Optimization, signal processing, data science, and their applications, see  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
+          - Online and adaptive optimization methods
+          - Matrix/subspace estimation and tracking
+          - Tensor decomposition and tracking
+          - System identification
+          - Biomedical signal processing
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (2022 -- 2023)
   
