@@ -43,6 +43,7 @@ My software and algorithms are available online at my <a href="https://github.co
        <img src="https://img.shields.io/github/stars/thanhtbt/ROTDL?style=flat" alt="GitHub Repo stars">
 
  
-
+* **Tensor-based BSS**: Two blind source separation using tensor analysis:  <a href="https://github.com/thanhle88/tenBSS" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhle88/tenBSS">
+       <img src="https://img.shields.io/github/stars/thanhle88/tenBSS?style=flat" alt="GitHub Repo stars">
 
 
