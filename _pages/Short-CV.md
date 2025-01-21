@@ -59,7 +59,7 @@ author_profile: true
  
 * **Reviewers** 
 
-   - **International Journals**: 
+   - **Journals**: 
       - IEEE Transactions on Signal Processing
       - Signal Processing
       - Digital Signal Processing
@@ -69,7 +69,7 @@ author_profile: true
       - Physiological Measurement
       - REV Journal on Electronics and Communications
 
-   - **IEEE Conferences**:
+   - **Conferences**:
       -  IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
       -  IEEE Statistical Signal Processing Workshop (SSP)
       -  IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
