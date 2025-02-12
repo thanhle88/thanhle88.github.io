@@ -32,7 +32,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 📝 Journal Articles
 ----
 
-1. **Online Triple Tensor Decomposition of Streaming Tensor**<br>
+1. **Online Triple Tensor Decomposition of Streaming Tensors**<br>
    <span style="text-decoration:underline">L.T. Thanh</span> (Submitted)
 
 2. **Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**<br>
