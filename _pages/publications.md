@@ -26,9 +26,18 @@ author_profile: true
 Note: PDFs are for personal use only and their copyrights are reserved by Publishers.
 
 
+
+
+
 📝 Journal Articles
 ----
 
+1. **Online Triple Tensor Decomposition of Streaming Tensor**<br>
+   <span style="text-decoration:underline">L.T. Thanh</span> (Submitted)
+
+2. **Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**<br>
+    <span style="text-decoration: underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar (Submitted) <br> 
+    
 1. **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: black; text-decoration: none">***TSP'24***: *IEEE Transactions on Signal Processing*</span>, 2024  (SJR/Scopus Q1) <br> 
 <a href="https://ieeexplore.ieee.org/document/10379829" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>   <a href="https://thanhle88.github.io/files/2024_TSP_OPIT_A_Simple_but_Effective_Method_for_Sparse_Subspace_Tracking_in_High-Dimension_and_Low-Sample-Size_Context.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> 
