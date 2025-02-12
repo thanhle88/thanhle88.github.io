@@ -36,7 +36,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
    <span style="text-decoration:underline">L.T. Thanh</span> (Submitted)
 
 2. **Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**<br>
-    <span style="text-decoration: underline">L.T. Thanh</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar (Submitted) <br> 
+    <span style="text-decoration: underline">L.T. Thanh</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar (Submitted) <br> 
     
 1. **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: black; text-decoration: none">***TSP'24***: *IEEE Transactions on Signal Processing*</span>, 2024  (SJR/Scopus Q1) <br> 
