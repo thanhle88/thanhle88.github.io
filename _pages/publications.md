@@ -23,20 +23,27 @@ author_profile: true
        <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
 </a>
 
-Note: PDFs are for personal use only and their copyrights are reserved by Publishers.
+Note: PDFs are for personal use only and their copyrights are reserved by Publishers. *: students under my supervision.
 
 
 
+Submitted Papers
+----
+
+1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
+ V. T. Lam*, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">L.T. Thanh</span> (Submitted)
+   
+1. **Online Triple Tensor Decomposition of Streaming Tensors**<br>
+   <span style="text-decoration:underline">L.T. Thanh</span> (Submitted)
+
+1. **Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**<br>
+    <span style="text-decoration: underline">L.T. Thanh</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar (Submitted) <br>
 
 
 📝 Journal Articles
 ----
 
-1. **Online Triple Tensor Decomposition of Streaming Tensors**<br>
-   <span style="text-decoration:underline">L.T. Thanh</span> (Submitted)
 
-2. **Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**<br>
-    <span style="text-decoration: underline">L.T. Thanh</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar (Submitted) <br> 
     
 1. **OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**<br> 
 <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> <span style="color: black; text-decoration: none">***TSP'24***: *IEEE Transactions on Signal Processing*</span>, 2024  (SJR/Scopus Q1) <br> 
