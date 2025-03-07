@@ -4,12 +4,12 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "Software & Algorithms"
+  - title: "Codes"
     url: /software/  
     
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /vitae/
     
-  - title: "Sources"
+  - title: "Others"
     url: /sources/
 
