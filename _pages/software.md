@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-My software and algorithms are available online at my <a href="https://github.com/thanhtbt" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt">
+Software and algorithms in my publications are available online at my <a href="https://github.com/thanhtbt" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt">
        <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
 </a>
 
@@ -46,4 +46,5 @@ My software and algorithms are available online at my <a href="https://github.co
 * **Tensor-based BSS**: Two blind source separation using tensor analysis:  <a href="https://github.com/thanhle88/tenBSS" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhle88/tenBSS">
        <img src="https://img.shields.io/github/stars/thanhle88/tenBSS?style=flat" alt="GitHub Repo stars">
 
-
+* **RACNN**: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications: <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/DoHaiSon/RACNN">
+       <img src="https://img.shields.io/github/stars/DoHaiSon/RACNN?style=flat" alt="GitHub Repo stars">
