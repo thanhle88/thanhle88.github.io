@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Software and algorithms in my publications are available online at my <a href="https://github.com/thanhtbt" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt">
+Software and algorithms in my publications are available online at <a href="https://github.com/thanhtbt" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhtbt">
        <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
 </a>
 
