@@ -23,7 +23,9 @@ author_profile: true
        <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
 </a>
 
-Note: PDFs are for personal use only and their copyrights are reserved by Publishers. *: students under my supervision.
+Note: PDFs are for personal use only and their copyrights are reserved by Publishers. 
+
+*: students under my supervision.
 
 
 
