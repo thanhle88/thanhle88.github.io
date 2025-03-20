@@ -20,7 +20,7 @@ author_profile: true
     <img src="https://img.shields.io/badge/ORCID-0000--0002--0036--5150-green.svg?&style=flat-square&logo=orcid&logoColor=white" alt="" />
 </a>
 <a href="https://github.com/thanhtbt">
-       <img src="https://img.shields.io/github/stars/thanhtbt?style=flat" alt="GitHub Repo stars">
+       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="">
 </a>
 
 Note: PDFs are for personal use only and their copyrights are reserved by Publishers. 
