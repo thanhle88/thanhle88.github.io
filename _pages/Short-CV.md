@@ -55,7 +55,7 @@ author_profile: true
 
 * **Program Committee**
 
-  - TPC member, IEEE Statistical Signal Processing Workshop (SSP 2025), 8-11 June 2025, Edinburgh, Great Britain <a href="https://www.ssp2025.org" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>(comming)</a>
+  - Program Committee, International Conference on Multimedia Analysis and Pattern Recognition (MAPR), 14-15 August 2025, Vietnam <a href="https://mapr.uit.edu.vn/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i></a>
   
    - Track chair for special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*,  IEEE Statistical Signal Processing Workshop (SSP 2023), 2-5 July 2023, Hanoi, Vietnam <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
 
