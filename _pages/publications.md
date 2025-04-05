@@ -31,9 +31,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 Submitted Papers
 ----
 
-1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
- V. T. Lam*, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">L.T. Thanh</span> (Submitted) <br>
- <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
+
 
  1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
  A. Lawal, K. Abed-Meriam, A. Zerguine, <span style="text-decoration:underline">L.T. Thanh</span> (Submitted) <br>
@@ -97,6 +95,13 @@ Submitted Papers
 
 📘  Conference Papers (WoS/Scopus Indexed)
 ----
+
+1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
+ V. T. Lam*, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">L.T. Thanh</span>  <br>
+ ***CITA'25**: Proc. 14th Conference on Information Technology and its Applications*, 2025 <br/>
+ <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
+
+
 1.   **Semi-Blind Tensor-Based Channel Estimation For Double RIS MIMO Systems**<br> 
 Kabiru Nasiru Aliyu, <span style="text-decoration:underline">L.T. Thanh</span>, K. Abed-Meraim, Azzedine Zerguine<br>  ***IEEE MECOM'24**: Proc. IEEE Middle East Conference on Communications and Networking*, 2024 <br/>
 <a href="https://ieeexplore.ieee.org/document/10881352" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>   <a href="https://thanhle88.github.io/files/2024_MECOM_Semi_Blind_Channel_Estimation_for_D_RIS_MIMO_Systems.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
