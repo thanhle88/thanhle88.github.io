@@ -83,7 +83,10 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
 V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">L.T. Thanh</span><br>
 ***CITA'25**: Proc. 14th Conference on Information Technology and its Applications*, 2025 <br/>
- <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
+ <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RACNN%3A+Residual+Attention+Convolutional+Neural+Network+for+Near-Field+Channel+Estimation+in+6G+Wireless+Communications&btnG=
+" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
+
+
 
 
 1.   **Semi-Blind Tensor-Based Channel Estimation For Double RIS MIMO Systems**<br> 
