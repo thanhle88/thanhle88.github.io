@@ -33,5 +33,5 @@ author_profile: true
  
 * **Tensor-based BSS**: Two blind source separation using tensor analysis:  <a href="https://github.com/thanhle88/tenBSS" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/thanhle88/tenBSS">
  
-* **RACNN**: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications: <a href="https://github.com/thanhtbt/SST" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/DoHaiSon/RACNN">
+* **RACNN**: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications: <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://github.com/DoHaiSon/RACNN">
  
