@@ -180,8 +180,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">L.T. Thanh</span>, 
 <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:lg2tdxc6qMwC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
  
 1.  **A new windowed graph Fourier transform**<br><span style="text-decoration:underline">L.T. Thanh</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br>  ***NICS'17**: Proc. NAFOSTED Conference on Information and Computer Science*, 2017  <br> <a href="https://ieeexplore.ieee.org/document/8108055" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a> 
-<a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
-  <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:N4u4nq0IxgcC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
+<a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3034/1/1570395521%20%281%29.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:N4u4nq0IxgcC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
   
 
