@@ -87,7 +87,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">L.T. Thanh</span><br>
 ***EUSIPCO'25**: Proc. 33rd European Signal Processing Conference*, 2025 (Qualis Rank A2) <br/>
-<span style="color: red; text-decoration: none">(Accepted)</span>
+<span style="color: red; text-decoration: none">(Accepted)</span>  <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: green; text-decoration: none; ">
 
 
 1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
