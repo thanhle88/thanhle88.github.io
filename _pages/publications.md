@@ -8,7 +8,7 @@ author_profile: true
 
 ## 📊 Overview
 
-**Publications:** 35 peer-reviewed publications, including prestigious journal articles (e.g., IEEE TSP, IEEE TKDE, SP) and IEEE conference publications (e.g., ICASSP and EUSIPCO).
+**Publications:** 36 peer-reviewed publications, including prestigious journal articles (e.g., IEEE TSP, IEEE TKDE, SP) and IEEE conference publications (e.g., ICASSP and EUSIPCO).
 
 <a href="https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
@@ -87,7 +87,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">L.T. Thanh</span><br>
 ***EUSIPCO'25**: Proc. 33rd European Signal Processing Conference*, 2025 (Qualis Rank A2) <br/>
-<span style="color: red; text-decoration: none">(Accepted)</span>  <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: green; text-decoration: none; "></a>
+<span style="color: red; text-decoration: none">(Accepted)</span>  <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 
 1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
