@@ -33,7 +33,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 ----
 
 1. **Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**<br> 
-<span style="text-decoration: underline">L.T. Thanh</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none">***SP'25***: *Elsevier Signal Processing*</span>, 2025 (SJR/Scopus Q1) <br/> <span style="color: red; text-decoration: none">(Accepted)</span> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>ScienceDirect</a>  <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:H7nrzBkawXsC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
+<span style="text-decoration: underline">L.T. Thanh</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none">***SP'25***: *Elsevier Signal Processing*</span>, 2025 (SJR/Scopus Q1) <br/> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>ScienceDirect</a>  <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:H7nrzBkawXsC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
 
     
@@ -88,12 +88,12 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">L.T. Thanh</span><br>
 ***EUSIPCO'25**: Proc. 33rd European Signal Processing Conference*, 2025 (Qualis Rank A2) <br/>
-<span style="color: red; text-decoration: none">(Accepted)</span>  <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 
 1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
 V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">L.T. Thanh</span><br>
-***CITA'25**: Proc. 14th Conference on Information Technology and its Applications*, 2025 <br/> <span style="color: red; text-decoration: none">(Accepted)</span>
+***CITA'25**: Proc. 14th Conference on Information Technology and its Applications*, 2025 <br/> 
  <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RACNN%3A+Residual+Attention+Convolutional+Neural+Network+for+Near-Field+Channel+Estimation+in+6G+Wireless+Communications&btnG=
 " style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
