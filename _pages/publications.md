@@ -8,7 +8,7 @@ author_profile: true
 
 ## 📊 Overview
 
-**Publications:** 36 peer-reviewed publications indexed in WoS/Scopus, including prestigious journal articles (e.g., IEEE TSP, IEEE TKDE, SP) and IEEE conference publications (e.g., ICASSP and EUSIPCO).
+**Publications:** 32 peer-reviewed publications indexed in WoS/Scopus, including prestigious journal articles (e.g., IEEE TSP, IEEE TKDE, SP) and IEEE conference publications (e.g., ICASSP and EUSIPCO).
 
 <a href="https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
