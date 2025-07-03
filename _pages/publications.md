@@ -27,7 +27,13 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 
 #: students under my supervision.
 
+📝 Working Papers
+----
+1. **Robust Sparse Subspace Tracking from  Corrupted Data Observations**<br>
+T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">L.T. Thanh</span> (Submitted) <br>
 
+1. **Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**<br>
+<span style="text-decoration: underline">L.T. Thanh</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, N.L. Trung, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli (Submitted) <br>
 
 📝 Journal Articles
 ----
