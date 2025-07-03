@@ -35,6 +35,10 @@ T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.
 1. **Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**<br>
 <span style="text-decoration: underline">L.T. Thanh</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, N.L. Trung, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli (Submitted) <br>
 
+1. **Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation** <br>
+N.Q. Dang, <span style="text-decoration: underline">L.T. Thanh</span>, N.L. Trung, K. Abed-Meraim  <br>
+   
+
 📝 Journal Articles
 ----
 
