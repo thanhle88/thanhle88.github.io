@@ -8,8 +8,6 @@ author_profile: true
 
 ## 📊 Overview
 
-**Publications:** 
-
 <a href="https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
 </a> 
