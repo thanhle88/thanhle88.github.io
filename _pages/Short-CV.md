@@ -68,6 +68,7 @@ author_profile: true
       - Signal Processing
       - Digital Signal Processing
       - Signal, Image, and Video Processing
+      - Machine Learning (Springer)
       - Journal of Super Computing
       - Journal of Neural Engineering  
       - Physiological Measurement
@@ -100,4 +101,4 @@ author_profile: true
    - Best Paper Award at IEEE NICS 2018.
    - Outstanding Graduate Awards for undergraduate (class of 2012) and graduate students (class of 2016), VNU-UET.
    - Best Undergraduate Thesis Award, VNU-UET, 2016.
-   - 3rd place at the 18th National Physics Olympiad in Vietnam (VPhO) & 2nd place at the NamDinh Provincial Excellent Student Contest in Physics, 2012. 
+   - 3rd place at the 18th National Physics Olympiad in Vietnam (VPhO) & 2nd place at the Provincial Excellent Student Contest in Physics, 2012. 
