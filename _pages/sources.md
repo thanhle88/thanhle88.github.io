@@ -8,12 +8,12 @@ author_profile: true
 
 📚 Top Publication Venues in Signal Processing
 ---
-* **Magazine**: IEEE Signal Processing Magazine (**SPM**)
+* **Magazine**: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79" style="color: green; text-decoration: underline; ">IEEE Signal Processing Magazine (**SPM**)</a>  
 * **Journals**:
-    - IEEE Transactions on Signal Processing (**TSP**)
-    - IEEE Journal of Selected Topics in Signal Processing (**JSTSP**)
-    - IEEE Transactions on Signal and Information Processing over Networks (**TSIPN**)
-    - Elservier Signal Processing (**SP**)
+    - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" style="color: green; text-decoration: underline; ">IEEE Transactions on Signal Processing (**TSP**)</a> 
+    - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" style="color: green; text-decoration: underline; ">IEEE Journal of Selected Topics in Signal Processing (**JSTSP**)</a> 
+    - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6884276" style="color: green; text-decoration: underline; ">IEEE Transactions on Signal and Information Processing over Networks (**TSIPN**)</a> 
+    - <a href="https://www.sciencedirect.com/journal/signal-processing" style="color: green; text-decoration: underline; ">Elservier Signal Processing (**SP**) (**TSIPN**)</a>  
 * **Conferences**:
     - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)
     - European Signal Processing Conference (**EUSIPCO**)
