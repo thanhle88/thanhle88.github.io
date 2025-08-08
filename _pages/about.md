@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<a href="https://avitech.uet.vnu.edu.vn/en/phd-le-trung-thanh/" style="color: black;">Lecturer</a>, <a href="https://uet.vnu.edu.vn/" style="color: green; text-decoration: underline;"> Vietnam National University Hanoi, VNU University of Engineering and Technology (UET) </a>
+<a href="https://avitech.uet.vnu.edu.vn/en/phd-le-trung-thanh/" style="color: black;">Lecturer</a>, <a href="https://uet.vnu.edu.vn/" style="color: green; text-decoration: underline;"> Vietnam National University Hanoi, VNU-UET </a>
 <br> 
 Hanoi, Vietnam
 
