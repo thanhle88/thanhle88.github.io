@@ -5,6 +5,14 @@ permalink: /sources/
 author_profile: true
 ---
 
+
+Top Publication Venues in Signal Processing
+---
+* **Magazine**: *IEEE Signal Processing Magazine* (**SPM**)
+* **Journals**: *IEEE Transactions on Signal Processing* (**TSP**), *IEEE Journal of Selected Topics in Signal Processing* (**JSTSP**), *IEEE Transactions on Signal and Information Processing over Networks* (**TSIPN**), *Elservier Signal Processing* (**SP**)
+* **Conferences**: **ICASSP** and **EUSIPCO**
+
+  
 Online Magazines/News
 ---
 * <a href="https://read.nxtbook.com/ieee/signal_processing/" style="color: green; text-decoration: underline; ">Signal Processing Magazine</a>
@@ -40,11 +48,7 @@ Conference Ranking
 * <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">CS Ranking</a>  
 
 
-Top Publication Venues in Signal Processing
----
-* **Magazine**: IEEE Signal Processing Magazine (**SPM**)
-* **Journals**: IEEE Transactions on Signal Processing (**TSP**), IEEE Journal of Selected Topics in Signal Processing (**JSTSP**), IEEE Transactions on Signal and Information Processing over Networks (**TSIPN**), Elservier Signal Processing (**SP**)
-* **Conferences**: **ICASSP** and **EUSIPCO**
+
 
 
 
