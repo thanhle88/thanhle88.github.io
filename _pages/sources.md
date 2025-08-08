@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Useful Sources"
 permalink: /sources/
 author_profile: true
 ---
