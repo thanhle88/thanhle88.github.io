@@ -39,3 +39,11 @@ Conference Ranking
 
 * <a href="https://csrankings.org/" style="color: green; text-decoration: underline; ">CS Ranking</a>  
 
+
+Top Publication Venues in Signal Processing
+---
+* Journals: IEEE Transactions on Signal Processing, IEEE Journal of Selected Topics in Signal Processing, IEEE Transactions on Signal and Information Processing over Networks, Elservier Signal Processing
+* Conferences: ICASSP and EUSIPCO
+
+
+
