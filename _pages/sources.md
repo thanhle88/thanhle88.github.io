@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Top Publication Venues in Signal Processing
+📚 Top Publication Venues in Signal Processing
 ---
 * **Magazine**: IEEE Signal Processing Magazine (**SPM**)
 * **Journals**:
@@ -19,7 +19,7 @@ Top Publication Venues in Signal Processing
     - European Signal Processing Conference (**EUSIPCO**)
 
   
-Online Magazines/News
+📚 Online Magazines/News
 ---
 * <a href="https://read.nxtbook.com/ieee/signal_processing/" style="color: green; text-decoration: underline; ">Signal Processing Magazine</a>
  
@@ -32,7 +32,7 @@ Online Magazines/News
 
 
 
-Journal Ranking
+📚 Journal Ranking
 ---
 
 * <a href="https://www.scimagojr.com" style="color: green; text-decoration: underline; ">Scimago Journal Rank (SJR)</a>
@@ -41,7 +41,7 @@ Journal Ranking
 
 
 
-Conference Ranking
+📚 Conference Ranking
 ---
 * <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">Qualis Rank</a>  
 
