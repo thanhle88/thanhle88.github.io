@@ -18,7 +18,7 @@ Online Magazines/News
 
 
 
-Journals
+Journal Ranking
 ---
 
 * <a href="https://www.scimagojr.com" style="color: green; text-decoration: underline; ">Scimago Journal Rank (SJR)</a>
