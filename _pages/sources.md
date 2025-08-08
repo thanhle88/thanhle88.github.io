@@ -14,7 +14,9 @@ Top Publication Venues in Signal Processing
     - IEEE Journal of Selected Topics in Signal Processing (**JSTSP**)
     - IEEE Transactions on Signal and Information Processing over Networks (**TSIPN**)
     - Elservier Signal Processing (**SP**)
-* **Conferences**: **ICASSP** and **EUSIPCO**
+* **Conferences**:
+    - IEEE International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**)
+    - European Signal Processing Conference (**EUSIPCO**)
 
   
 Online Magazines/News
