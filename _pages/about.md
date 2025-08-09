@@ -21,12 +21,12 @@ I am currently a university lecturer (equiv. assistant professor) at the VNU Uni
 
 Research Interests
 -----
-Optimization, signal processing, data science, and their applications: 
+Applied mathematics, signal processing, optimization, data science, and their applications: 
+  * Matrix/tensor decomposition and analysis
+  * Low-rank approximation, estimation and tracking
   * Online and adaptive optimization methods 
-  * Matrix/subspace estimation and tracking
-  * Tensor decomposition and tracking
   * System identification
-  * Biomedical signal processing
+  * Biomedical data processing
 
 **Recent Publications:**
 
