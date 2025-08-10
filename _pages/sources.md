@@ -8,8 +8,10 @@ author_profile: true
 
 📚 Top Publication Venues in Signal Processing
 ---
-* **Magazine**: <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79" style="color: green; text-decoration: underline; ">IEEE Signal Processing Magazine</a> (**SPM**)  
-* **Journals**:
+* **Magazine/Survey/Overview**:
+    -  <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=79" style="color: green; text-decoration: underline; ">IEEE Signal Processing Magazine</a> (**SPM**)
+    -  <a href="https://www.nowpublishers.com/SIG" style="color: green; text-decoration: underline; ">Foundations and Trends in Signal Processing</a> (**FTSP**) 
+* **Journals/Transactions**:
     - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78" style="color: green; text-decoration: underline; ">IEEE Transactions on Signal Processing </a> (**TSP**)
     - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4200690" style="color: green; text-decoration: underline; ">IEEE Journal of Selected Topics in Signal Processing</a>  (**JSTSP**)
     - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6884276" style="color: green; text-decoration: underline; ">IEEE Transactions on Signal and Information Processing over Networks </a> (**TSIPN**)
