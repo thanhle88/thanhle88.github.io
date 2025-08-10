@@ -36,6 +36,9 @@ T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.
 
 1. **Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation** <br>
 N.Q. Dang#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L. Trung, K. Abed-Meraim  <br>
+
+1.  **TriNet: A Novel and Memory-Efficient Representation for Higher-order tensor Decomposition** <br>
+N.T.N. Lan#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L. Trung, K. Abed-Meraim  <br>
    
 
 📝 Journal Articles
