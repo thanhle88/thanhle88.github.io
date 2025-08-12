@@ -72,7 +72,6 @@ author_profile: true
       - Journal of Super Computing
       - Journal of Neural Engineering  
       - Physiological Measurement
-      - REV Journal on Electronics and Communications
 
    - **Conferences**:
       -  IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
