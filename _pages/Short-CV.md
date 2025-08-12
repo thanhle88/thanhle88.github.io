@@ -26,10 +26,10 @@ author_profile: true
           - Mathematics for Artificial Intelligence (AIT2001):  Spring 2024, Fall 2024
          
 
-     - Research interests: Optimization, signal processing, data science, and their applications, see  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
+     - Research interests: Applied mathematics, signal processing, optimization, data science, and their applications, see  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
+          - Matrix/tensor decomposition and analysis
+          - Low-rank approximation, estimation and tracking
           - Online and adaptive optimization methods
-          - Matrix/subspace estimation and tracking
-          - Tensor decomposition and tracking
           - System identification
           - Biomedical signal processing
 
@@ -101,4 +101,4 @@ author_profile: true
    - Best Paper Award at IEEE NICS 2018.
    - Outstanding Graduate Awards for undergraduate (class of 2012) and graduate students (class of 2016), VNU-UET.
    - Best Undergraduate Thesis Award, VNU-UET, 2016.
-   - 3rd place at the 18th National Physics Olympiad in Vietnam (VPhO) & 2nd place at the Provincial Excellent Student Contest in Physics, 2012. 
+   - 3rd place at the National Physics Olympiad in Vietnam (VPhO) & 2nd place at the Provincial Excellent Student Contest in Physics, 2012. 
