@@ -10,7 +10,7 @@ author_profile: true
 <a href="https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google%20Scholar-%234285F4.svg?&style=flat-square&logo=google-scholar&logoColor=white" alt="" />
 </a> 
-<a href="https://dblp.uni-trier.de/pid/36/10443.html">
+<a href="https://dblp.uni-trier.de/pid/345/4559.html">
     <img src="https://img.shields.io/badge/dblp-004F9F?logo=dblp&logoColor=fff&=flat-square&logoColor=white" alt="" />
 </a>
 <a href="https://orcid.org/0000-0002-0036-5160">
