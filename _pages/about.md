@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thanh Trung Le"
+title: "Thanh Trung Le (Lê Trung Thành)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
