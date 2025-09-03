@@ -30,7 +30,7 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 1. **Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation** <br>
 N.Q. Dang#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L. Trung, K. Abed-Meraim  <br>
 
-1.  **TriNet: A Novel and Memory-Efficient Representation for Higher-order Tensor Decomposition** <br>
+1.  **TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** <br>
 N.T.N. Lan#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L. Trung, K. Abed-Meraim  <br>
    
 
