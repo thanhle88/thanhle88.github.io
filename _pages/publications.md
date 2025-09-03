@@ -97,7 +97,7 @@ N.T.N. Lan#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L
 
 
 1. **Robust Sparse Subspace Tracking from  Corrupted Data Observations**<br>
-T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**L.T. Thanh**</span> (Submitted) <br>
+T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**L.T. Thanh**</span> <br>
 ***ISCIT'25**: Proc. 24th International Symposium on Communications and Information Technologies*, 2025  <br/>
 
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
