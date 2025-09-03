@@ -27,13 +27,6 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 📝 Working Papers
 ----
 
-1. **Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**<br>
-<span style="text-decoration: underline">**L.T. Thanh**</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli (Submitted) <br>
-
-
-1. **Robust Sparse Subspace Tracking from  Corrupted Data Observations**<br>
-T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**L.T. Thanh**</span> (Submitted) <br>
-
 1. **Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation** <br>
 N.Q. Dang#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L. Trung, K. Abed-Meraim  <br>
 
@@ -95,6 +88,17 @@ N.T.N. Lan#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L
 
 📘  Conference Papers (WoS/Scopus Indexed)
 ----
+
+
+
+1. **Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**<br>
+<span style="text-decoration: underline">**L.T. Thanh**</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli <br>
+***ISCIT'25**: Proc. 24th International Symposium on Communications and Information Technologies*, 2025  <br/>
+
+
+1. **Robust Sparse Subspace Tracking from  Corrupted Data Observations**<br>
+T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**L.T. Thanh**</span> (Submitted) <br>
+***ISCIT'25**: Proc. 24th International Symposium on Communications and Information Technologies*, 2025  <br/>
 
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">L.T. Thanh</span><br>
