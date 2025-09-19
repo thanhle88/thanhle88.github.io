@@ -97,11 +97,13 @@ N.T.N. Lan#, <span style="text-decoration: underline">**L.T. Thanh**</span>, N.L
 1. **Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**<br>
 <span style="text-decoration: underline">**L.T. Thanh**</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli <br>
 ***ISCIT'25**: Proc. 24th International Symposium on Communications and Information Technologies*, 2025  <br/>
-
+<a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 
 1. **Robust Sparse Subspace Tracking from  Corrupted Data Observations**<br>
 T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**L.T. Thanh**</span> <br>
 ***ISCIT'25**: Proc. 24th International Symposium on Communications and Information Technologies*, 2025  <br/>
+<a href="https://thanhle88.github.io/files/2025_ISCIT_Robust_Sparse_Subspace_Tracking_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+
 
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">L.T. Thanh</span><br>
@@ -110,13 +112,11 @@ A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">L
 
 
 
-
 1. **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
 V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">L.T. Thanh</span><br>
 ***CITA'25**: Proc. 14th Conference on Information Technology and its Applications*, 2025 <br/> 
- <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RACNN%3A+Residual+Attention+Convolutional+Neural+Network+for+Near-Field+Channel+Estimation+in+6G+Wireless+Communications&btnG=
+ <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://thanhle88.github.io/files/2025_CITA_RACNN-Residual%20Attention%20Convolutional%20Neural%20Network%20for%20Near-Field%20Channel%20Estimation%20in%206G%20Wireless%20Communications.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RACNN%3A+Residual+Attention+Convolutional+Neural+Network+for+Near-Field+Channel+Estimation+in+6G+Wireless+Communications&btnG=
 " style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
-
 
 
 
