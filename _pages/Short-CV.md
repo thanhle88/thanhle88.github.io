@@ -9,7 +9,7 @@ author_profile: true
 
 * <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France, 2022
 
-    **Ph.D.** in Computer Science and Signal Processing (Informatique. Traitement du Signal).
+    **Ph.D.** in Computer Science (Informatique).
       
  * <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET </a>, Vietnam, 2018 
 
