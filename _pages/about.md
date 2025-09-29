@@ -28,7 +28,7 @@ Applied mathematics, signal processing, optimization, data science, and their ap
   * System identification
   * Biomedical data processing
 
-**Recent Publications:**
+**Selected Publications:**
 
 <table >
 <tbody>
