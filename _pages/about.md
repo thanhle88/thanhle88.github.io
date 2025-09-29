@@ -93,5 +93,5 @@ Vietnam National University, Hanoi\
 144 Xuan Thuy, Cau Giay, Hanoi, Vietnam 
 * **Email**: thanhletrung@vnu.edu.vn 
 
-<span style="color:blue">**Join me**: I welcome self-motivated students with strong mathematical skills to join my team. Interested candidates are encouraged to send their CV to my email address.</span>
+<span style="color:blue">**Join me**: Self-motivated students with strong mathematical skills are welcome to join my team. Interested candidates are encouraged to send your CV to my email address.</span>
 
