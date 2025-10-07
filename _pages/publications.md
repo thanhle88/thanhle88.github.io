@@ -105,13 +105,13 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**T.T. Le**</span> <br>
 ***ISCIT'25**: Proc. 24th International Symposium on Communications and Information Technologies*, 2025  <br/>
 <span style="color:red">(*New*) </span>  <a href="https://arxiv.org/abs/2509.16585" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a>
-<a href="https://thanhle88.github.io/files/2025_ISCIT_Robust_Sparse_Subspace_Tracking_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<a href="https://thanhle88.github.io/files/2025_ISCIT_Robust_Sparse_Subspace_Tracking_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:E7VqQtBCVmcC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
 
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">T.T. Le</span><br>
 ***EUSIPCO'25**: Proc. 33rd European Signal Processing Conference*, 2025 (Qualis Rank A2) <br/>
-<a href="https://eusipco2025.org/wp-content/uploads/pdfs/0002102.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>EURASIP</a> <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<a href="https://eusipco2025.org/wp-content/uploads/pdfs/0002102.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>EURASIP</a> <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:TesyEGJKHF4C" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
 
 
 
