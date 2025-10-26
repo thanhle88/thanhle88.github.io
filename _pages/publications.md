@@ -99,7 +99,7 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 <span style="text-decoration: underline">**T.T. Le**</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli <br>
 ***ISCIT'25**: Proc. 24th International Symposium on Communications and Information Technologies*, 2025 <br/>
 <span style="color:red">(*New*)</span>
-<a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+<a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> (Invited)
 
 1. **Robust Sparse Subspace Tracking from  Corrupted Data Observations**<br>
 T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**T.T. Le**</span> <br>
