@@ -4,10 +4,7 @@ main:
   - title: "Publications"
     url: /publications/  
     
-  - title: "Codes"
-    url: /software/  
-    
-  - title: "Curriculum Vitae"
+  - title: "CV"
     url: /vitae/
     
   - title: "Others"
