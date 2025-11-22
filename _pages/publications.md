@@ -190,10 +190,10 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
  
 
 
-1.  **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">T.T. Le</span>, & K. Abed-Meraim.  <br> [![ACSSC 2021](https://img.shields.io/badge/ACSSC-2021-blue)](https://ieeexplore.ieee.org/document/9723265) *Proc. 55th Asilomar Conference on Signals, Systems, and Computers* <br> 
+1.  **Side Information Effect on Semi-Blind Channel Identification for MIMO-OFDM Communications Systems**<br>O. Rekik, A. Mokraoui, T.T.T Quynh, <span style="text-decoration:underline">T.T. Le</span>, & K. Abed-Meraim.  <br> [![ACSSC 2021](https://img.shields.io/badge/ACSSC-2021-blue)](https://ieeexplore.ieee.org/document/9723265) *Proc. 55th Asilomar Conference on Signals, Systems, and Computers* (ERA Rank C) <br> 
 <a href="https://ieeexplore.ieee.org/document/9723265" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhtbt.github.io/files/2021_Asilomar_Side%20Information%20Effect%20on%20Semi-Blind%20Channel%20Identification%20for%20MIMO-OFDM%20Communications.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
-<a href="https://avitech-vnu.github.io/InSI/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:kVjdVfd2voEC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
+<a href="https://avitech-vnu.github.io/InSI/" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:kVjdVfd2voEC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> 
 
 
 
