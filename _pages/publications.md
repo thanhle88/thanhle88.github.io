@@ -45,21 +45,19 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 
 1. **Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**<br>
 <span style="text-decoration: underline">**T.T. Le**</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli <br>
-[![ISCIT 2021](https://img.shields.io/badge/ISCIT-2025-blue)](https://ieeexplore.ieee.org/document/11231620)  *Proc. 2025 24th International Symposium on Communications and Information Technologies* <br/>
+[![ISCIT 2021](https://img.shields.io/badge/ISCIT-2025-blue)](https://ieeexplore.ieee.org/document/11231620)  *Proc. 2025 24th International Symposium on Communications and Information Technologies*  (ERA Rank B) <br/>
 <a href="https://ieeexplore.ieee.org/document/11231620" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:EBV337fEn3EC
 " style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> (Invited)
 
 
 
-
-
 1. **Robust Sparse Subspace Tracking from  Corrupted Data Observations**<br>
 T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**T.T. Le**</span> <br>
-[![ISCIT 2021](https://img.shields.io/badge/ISCIT-2025-blue)](https://ieeexplore.ieee.org/document/11231466)   *Proc. 2025 24th International Symposium on Communications and Information Technologies*  <br/>
+[![ISCIT 2021](https://img.shields.io/badge/ISCIT-2025-blue)](https://ieeexplore.ieee.org/document/11231466)   *Proc. 2025 24th International Symposium on Communications and Information Technologies*  (ERA Rank B) <br/>
 <a href="https://ieeexplore.ieee.org/document/11231466" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://arxiv.org/abs/2509.16585" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a>
-<a href="https://thanhle88.github.io/files/2025_ISCIT_Robust_Sparse_Subspace_Tracking_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:E7VqQtBCVmcC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
+<a href="https://thanhle88.github.io/files/2025_ISCIT_Robust_Sparse_Subspace_Tracking_Final.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com.vn/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:E7VqQtBCVmcC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> 
 
 
 1. **Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**<br>
@@ -100,7 +98,6 @@ V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">T.T. 
 1.   **Semi-Blind Tensor-Based Channel Estimation For Double RIS MIMO Systems**<br> 
 Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. Abed-Meraim, Azzedine Zerguine<br>  [![IEEE-MECOM 2024](https://img.shields.io/badge/IEEE--MECOM-2024-blue)](https://ieeexplore.ieee.org/document/10881352) *Proc. IEEE Middle East Conference on Communications and Networking* <br/>
 <a href="https://ieeexplore.ieee.org/document/10881352" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>   <a href="https://thanhle88.github.io/files/2024_MECOM_Semi_Blind_Channel_Estimation_for_D_RIS_MIMO_Systems.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&scioq=Semi-Blind+Tensor-Based+Channel+Estimation+For+Double+RIS+MIMO+Systems&q=Semi-Blind+Tensor-Based+Channel+Estimation+For+Double+RIS+MIMO+Systems&btnG=" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
-
 
 
 
