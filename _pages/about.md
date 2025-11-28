@@ -16,7 +16,7 @@ Hanoi, Vietnam
 
 About Me
 -----
-I am currently a university lecturer (equiv. assistant professor) at the VNU University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). I obtained my B.Sc. and M.Sc. degrees in Electronics and Communications from VNU-UET in 2016 and 2018, respectively. In 2022, I completed my Ph.D. degree in Computer Science (Informatique) from the [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/en/prisme/presentation/about-laboratory), France. Following my Ph.D., I continued my research as a postdoctoral researcher at the University of Orléans from 2022 to 2023.
+I am currently a university lecturer (equiv. assistant professor) at the VNU University of Engineering and Technology, Vietnam National University Hanoi (VNU-UET). I obtained my B.Sc. and M.Sc. degrees in Electronics and Communications from VNU-UET in 2016 and 2018, respectively. In 2022, I completed my Ph.D. degree in Computer Science (Informatique) from the [University of Orléans, INSA CVL, PRISME](https://www.univ-orleans.fr/en/prisme/presentation/about-laboratory), France. Following my Ph.D., I continued my research as a postdoctoral researcher at the University of Orléans from 2022 to 2023. I am also a co-lead of the [AVITECH](https://avitechresearch.vn/en/) research group.
 
 
 Research Interests
