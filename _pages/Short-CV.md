@@ -19,7 +19,7 @@ author_profile: true
 ## 💼 Work Experience
 
 * **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (2023 -- present)
-     - **Undergraduate cources**: 
+     - **Undergraduate Cources**: 
           - Digital Signal Processing (ELT3144): Spring  2024, Summer 2024, Fall 2024, Spring 2025
           - Probability and Statistics (MAT1101):  Summer 2024, Fall 2024, Spring 2025, Fall 2025
           - Signals and Systems (ELT 2035): Spring 2025, Fall 2025
@@ -27,7 +27,7 @@ author_profile: true
      - **Graduate Courses**:
           - Random Processes (ELT 6056): Fall 2025
 
-     - Research interests: Applied mathematics, signal processing, optimization, data science, and their applications, see  <a href="https://avitechresearch.vn/en/signal-processing/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
+     - **Research interests**: Applied mathematics, signal processing, optimization, data science, and their applications, see  <a href="https://avitechresearch.vn/en/signal-processing/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
           - Matrix/tensor decomposition and analysis
           - Low-rank approximation, estimation and tracking
           - Online and adaptive optimization methods
