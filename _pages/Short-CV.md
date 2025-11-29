@@ -32,7 +32,7 @@ author_profile: true
           - Online and adaptive optimization methods
           - System identification
           - Biomedical signal processing
-          - 
+            
 * **Co-Lead** of <a href="https://avitechresearch.vn/en" style="color: green; text-decoration: underline; ">AVITECH Research Group </a> (2025 -- present)
 
 * **Postdoctoral Researcher**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (2022 -- 2023)
