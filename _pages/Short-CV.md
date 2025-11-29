@@ -26,7 +26,7 @@ author_profile: true
           - Mathematics for Artificial Intelligence (AIT2001):  Spring 2024, Fall 2024
          
 
-     - Research interests: Applied mathematics, signal processing, optimization, data science, and their applications, see  <a href="https://avitech.uet.vnu.edu.vn/en/tools-for-complex-systems_page/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
+     - Research interests: Applied mathematics, signal processing, optimization, data science, and their applications, see  <a href="https://avitechresearch.vn/en/signal-processing/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>.
           - Matrix/tensor decomposition and analysis
           - Low-rank approximation, estimation and tracking
           - Online and adaptive optimization methods
