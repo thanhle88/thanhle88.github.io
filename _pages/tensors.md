@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Tensor Team"
-permalink: /Tensor/
+permalink: /tensors/
 author_profile: true
 ---
 
