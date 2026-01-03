@@ -7,6 +7,9 @@ main:
   - title: "CV"
     url: /vitae/
     
+  - title: "Tensor Team"
+    url: /tensors/
+    
   - title: "Others"
     url: /sources/
 
