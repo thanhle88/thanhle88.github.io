@@ -10,7 +10,6 @@ Current Members
 ----
 
 - **Nguyen Quy Dang** (K67AI)
- 
     - N.Q. Dang, T.T. Le, N.L. Trung, K. Abed-Meraim. *"Re-LL1: An Effective Regularized (L,L, 1) Tensor Decomposition Method For Video Background Modeling and Foreground Separation"*. **IEEE ICASSP 2026**.
     - N.Q. Dang#, D.M.Nhat#, T.T. Le, N.L. Trung, K. Abed-Meraim. *"Fast and Robust Triple Tensor Decomposition With Data Corruption"*. **IEEE ICASSP 2026**.
 
