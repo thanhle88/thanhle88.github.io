@@ -11,10 +11,10 @@ Current Members
 
 - **Nguyen Quy Dang** (K67AI)
     - N.Q. Dang, T.T. Le, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/" style="color: green; text-decoration: underline; ">*"Re-LL1: An Effective Regularized (L,L, 1) Tensor Decomposition Method For Video Background Modeling and Foreground Separation"*</a>. **IEEE ICASSP 2026**.
-    - N.Q. Dang#, D.M.Nhat#, T.T. Le, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/" style="color: green; text-decoration: underline; ">*"Fast and Robust Triple Tensor Decomposition With Data Corruption"*</a>. **IEEE ICASSP 2026**.
+    - N.Q. Dang#, D.M. Nhat#, T.T. Le, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/" style="color: green; text-decoration: underline; ">*"Fast and Robust Triple Tensor Decomposition With Data Corruption"*</a>. **IEEE ICASSP 2026**.
 
 - **Do Minh Nhat** (K67AI)
-    - N.Q. Dang#, D.M.Nhat#, T.T. Le, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/" style="color: green; text-decoration: underline; ">*"Fast and Robust Triple Tensor Decomposition With Data Corruption"*</a>. **IEEE ICASSP 2026**.
+    - N.Q. Dang#, D.M. Nhat#, T.T. Le, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/" style="color: green; text-decoration: underline; ">*"Fast and Robust Triple Tensor Decomposition With Data Corruption"*</a>. **IEEE ICASSP 2026**.
 
 - **Nguyen Thi Ngoc Lan** (K68AI)
     - N.T.N. Lan, T.T. Le, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/" style="color: green; text-decoration: underline; ">*"TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition"*</a>. **IEEE ICASSP 2026**. 
