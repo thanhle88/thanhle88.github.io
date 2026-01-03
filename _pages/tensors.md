@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Current Memebers
+Current Members
 ----
 
 - **Nguyen Quy Dang** (K67AI)
