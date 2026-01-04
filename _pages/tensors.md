@@ -24,7 +24,7 @@ Current Members
 
 
 - **To Ngoc Hai** (K68CS)
-    - T.N. Hai, T.T. Le, N.V. Dung, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/document/11231466" style="color: green; text-decoration: underline; ">*"Background and foreground separation via low rank and sparse tensor ring decomposition"*</a>. (In preparation).
+    - T.N. Hai, T.T. Le, N.V. Dung, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/document/11231466" style="color: green; text-decoration: underline; ">*"Low rank and sparse tensor ring decomposition"*</a>. (In preparation).
 
 
 - **Le Minh Son** (K68IT)
