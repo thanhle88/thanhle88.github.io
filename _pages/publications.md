@@ -71,7 +71,7 @@ A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">T
 
 * **RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**<br>
 V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">T.T. Le</span><br>
-[![CITA 2025](https://img.shields.io/badge/CITA-2025-blue)](https://arxiv.org/abs/2503.02299) *Proc. 14th Conference on Information Technology and its Applications* <br/>
+[![CITA 2025](https://img.shields.io/badge/CITA-2025-blue)](https://arxiv.org/abs/2503.02299) *Proc. 14th Conference on Information Technology and its Applications, Lecture Notes in Networks and Systems* <br/>
 <a href="https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Springer</a>
  <a href="https://arxiv.org/abs/2503.02299" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://thanhle88.github.io/files/2025_CITA_RACNN-Residual%20Attention%20Convolutional%20Neural%20Network%20for%20Near-Field%20Channel%20Estimation%20in%206G%20Wireless%20Communications.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a> <a href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=RACNN%3A+Residual+Attention+Convolutional+Neural+Network+for+Near-Field+Channel+Estimation+in+6G+Wireless+Communications&btnG=
 " style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
