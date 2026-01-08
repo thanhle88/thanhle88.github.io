@@ -30,6 +30,22 @@ Applied mathematics, signal processing, optimization, data science, and their ap
 
 **Selected Publications:**
 
+
+<table >
+<tbody>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/SP25.jpg" width="200px" height="120px" border="2px solid #bbb"> </td>
+<td style= "height=120px; vertical-align: top;"> <p>
+<strong>Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis</strong>  <br> <span style="text-decoration:underline"><strong>T.T. Le</strong></span>, K. Abed-Meraim, N. L. Trung, P. Ravier, O Buttelli & A. Hobolar <br>
+<i> <strong>Signal Processing</strong>, 2025 </i> <br>
+ <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270 style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>
+<a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:3A3nxV7CjKIC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> </p> </td> 
+</tr>
+</tbody>
+</table>
+
+
+
 <table >
 <tbody>
 <tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhle88.github.io/images/btd.png" width="200px" height="120px" border="2px solid #bbb"> </td>
@@ -54,22 +70,6 @@ Applied mathematics, signal processing, optimization, data science, and their ap
 </tr>
 </tbody>
 </table>
-
-
-<table >
-<tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/ATT_v2.png" width="200px" height="120px" border="2px solid #bbb"> </td>
-<td style= "height=120px; vertical-align: top;"> <p>
-<strong>A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations</strong>  <br> <span style="text-decoration:underline"><strong>T.T. Le</strong></span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane <br>
-<i> <strong>Signal Processing</strong>, 2024 </i> <br>
- <a href="https://www.sciencedirect.com/science/article/pii/S0165168423003717" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>
-<a href="https://thanhle88.github.io/files/2024_SP_ATT.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
-<a href="https://github.com/thanhtbt/ATT-miss" style="color: green; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Github</a>
- <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:s85pQhAUCrAC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> </p> </td> 
-</tr>
-</tbody>
-</table>
-
 
 
 <table >
