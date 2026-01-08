@@ -30,7 +30,7 @@ Applied mathematics, signal processing, optimization, data science, and their ap
 
 **Selected Publications:**
 
-- *Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis*  <br> <span style="text-decoration:underline"><strong>T.T. Le</strong></span>, K. Abed-Meraim, N. L. Trung, P. Ravier, O Buttelli & A. Hobolar <br>
+- [*Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis*](https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270) <br> <span style="text-decoration:underline"><strong>T.T. Le</strong></span>, K. Abed-Meraim, N. L. Trung, P. Ravier, O Buttelli & A. Hobolar <br>
 <i> <strong>Signal Processing</strong>, 2025 </i> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Elsevier</a>
 <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:3A3nxV7CjKIC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a>
  
