@@ -33,7 +33,7 @@ Applied mathematics, signal processing, optimization, data science, and their ap
 
 <table >
 <tbody>
-<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhtbt.github.io/images/HOSSA.png" width="200px" height="120px" border="2px solid #bbb"> </td>
+<tr> <td style="width:200px; height=120px; vertical-align: top;"> <img style="float: left; margin-right: 10px " src="https://thanhle88.github.io/images/HOSSA.png" width="200px" height="120px" border="2px solid #bbb"> </td>
 <td style= "height=120px; vertical-align: top;"> <p>
 <strong>Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis</strong>  <br> <span style="text-decoration:underline"><strong>T.T. Le</strong></span>, K. Abed-Meraim, N. L. Trung, P. Ravier, O Buttelli & A. Hobolar <br>
 <i> <strong>Signal Processing</strong>, 2025 </i> <br>
