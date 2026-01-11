@@ -39,7 +39,7 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 2025
 ----
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: #FFA500; text-decoration: none; ">**Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**</a> <br> 
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: #800080; text-decoration: none; ">**Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**</a> <br> 
 <span style="text-decoration: underline">**T.T. Le**</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none"> [![SP 2025](https://img.shields.io/badge/SP-2025-red)](https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270) ***Signal Processing***</span> (SJR/Scopus Q1) <br/> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>ScienceDirect</a>  <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: green; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:3A3nxV7CjKIC" style="color: green; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> 
 
 
