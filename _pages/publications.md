@@ -45,7 +45,7 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 
 * <a href="https://ieeexplore.ieee.org/document/11231620" style="color:  #046307; text-decoration: none; ">**Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**</a> <br>
 <span style="text-decoration: underline">**T.T. Le**</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli <br>
-[![ISCIT 2025](https://img.shields.io/badge/ISCIT-2025-blue)](https://ieeexplore.ieee.org/document/11231620)  *Proc. 2025 24th International Symposium on Communications and Information Technologies*  (ERA Rank B) <br/>
+[![ISCIT 2025](https://img.shields.io/badge/ISCIT-2025-green)](https://ieeexplore.ieee.org/document/11231620)  *Proc. 2025 24th International Symposium on Communications and Information Technologies*  (ERA Rank B) <br/>
 <a href="https://ieeexplore.ieee.org/document/11231620" style="color: #046307; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>
 <a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=_6GEXU4AAAAJ&sortby=pubdate&citation_for_view=_6GEXU4AAAAJ:EBV337fEn3EC
 " style="color: #046307; text-decoration: none; "><i class="fa fa-fw fa-graduation-cap"></i> Scholar</a> (Invited)
