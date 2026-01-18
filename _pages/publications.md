@@ -27,15 +27,15 @@ Note: PDFs are for personal use only and their copyrights are reserved by Publis
 📝 2026 
 ----
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: #046307; text-decoration: none; ">**Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation**</a>  <br>
+* <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation**</a>  <br>
 N.Q. Dang#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis Rank A1)  <br/>  
 
-*  <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: #046307; text-decoration: none; ">**Fast and Robust Triple Tensor Decomposition With Data Corruption**</a>   <br>
+*  <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**Fast and Robust Triple Tensor Decomposition With Data Corruption**</a>   <br>
 N.Q. Dang#, D.M. Nhat#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis Rank A1)  <br/>  
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: #046307; text-decoration: none; ">**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** </a>  <br>
+* <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** </a>  <br>
 N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis Rank A1)  <br/>  
    
