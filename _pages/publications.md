@@ -34,8 +34,7 @@ N.Q. Dang#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Tr
 
 *  <a href="https://thanhle88.github.io/files/ICASSP_2026__Robust_Triple_Decomposition.pdf" style="color: #046307; text-decoration: none; ">**Fast and Robust Triple Tensor Decomposition With Data Corruption**</a>   <br>
 N.Q. Dang#, D.M. Nhat#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
-[![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis Rank A1)  <br/>  
-<a href="https://thanhle88.github.io/files/ICASSP_2026__Robust_Triple_Decomposition.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/dangnq2501/Triple-Tensor-Decomposition-with-ADMM" style="color: #046307; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>
+[![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis Rank A1)  <br/> <a href="https://thanhle88.github.io/files/ICASSP_2026__Robust_Triple_Decomposition.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/dangnq2501/Triple-Tensor-Decomposition-with-ADMM" style="color: #046307; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>
 
 
 * <a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: #046307; text-decoration: none; ">**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** </a>  <br>
