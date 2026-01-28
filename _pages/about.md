@@ -31,7 +31,7 @@ Applied mathematics, signal processing, optimization, data science, and their ap
 News
 ----
 
-- 18/1/2026: Three papers are accepted to IEEE ICASSP 2026.
+- 18/1/2026: Three papers accepted to IEEE ICASSP 2026.
 
 Contact
 -----
