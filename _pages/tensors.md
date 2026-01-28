@@ -11,7 +11,9 @@ author_profile: true
 Current Members
 ----
 - **Tran Quang Duy** (Master, QH-2025)
-  
+- **Tran Khac Phuc Khanh** (K68AI)
+- **Pham Nhat Quang** (K68AI)
+- **Le Minh Son** (K68IT)
 - **Nguyen Thi Ngoc Lan** (K68AI)
     - **N.T.N. Lan**, T.T. Le, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/" style="color: #046307; text-decoration: none; ">"**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition**"</a>. **IEEE ICASSP 2026**. 
     - T.G.T. Loan#, N.H. Lan#, **N.T.N. Lan**, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, T.T. Le. <a href="https://ieeexplore.ieee.org/document/11231466" style="color: #046307; text-decoration: none; ">"**Robust Sparse Subspace Tracking from Corrupted Data Observations**"</a>. **ISCIT 2025**. <a href="https://ieeexplore.ieee.org/document/11231466" style="color: #046307; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a> <a href="https://arxiv.org/abs/2509.16585" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a>
@@ -28,9 +30,6 @@ Current Members
 
 - **To Ngoc Hai** (K68CS)
     - **T.N. Hai**, T.T. Le, N.V. Dung, N.L. Trung, K. Abed-Meraim. <a href="https://ieeexplore.ieee.org/document/11231466" style="color: #046307; text-decoration: none; ">"**Low rank and sparse tensor ring decomposition**"</a>. (In preparation).
-
-
-- **Le Minh Son** (K68IT)
 
 
 - **Nguyen Quy Dang** (K67AI)
