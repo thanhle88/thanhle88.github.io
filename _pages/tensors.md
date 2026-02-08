@@ -20,7 +20,7 @@ Current Members
      
 - **Nguyen Hoang Lan** (K68EC): 01 ISCIT (co-first)
     
-- **To Ngoc Hai** (K68CS)
+- **To Ngoc Hai** (K68CS): 01 EUSIPCO (first)
      
 - **Nguyen Quy Dang** (K67AI): 02 ICASSP (first)
      
