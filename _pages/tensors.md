@@ -11,9 +11,13 @@ author_profile: true
 Current Members
 ----
 - **Tran Quang Duy** (Master, QH-2025)
+
 - **Tran Khac Phuc Khanh** (K68AI)
+
 - **Pham Nhat Quang** (K68AI)
+
 - **Le Minh Son** (K68IT)
+
 - **Nguyen Thi Ngoc Lan** (K68AI): 01 ICASSP (first), 01 ISCIT (co-author) 
 
 - **Ta Giang Thuy Loan** (K68AI): 01 ISCIT (co-first) 
