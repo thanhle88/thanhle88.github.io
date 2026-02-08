@@ -24,7 +24,13 @@ Notes: PDFs are for personal use only and their copyrights are reserved by Publi
 
 <span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
 
-📝 2026 
+📝 Working papers
+----
+* <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**TR-ADMM: An inexact ADMM based robust tensor ring decomposition for video foreground detection**</a>  <br>
+T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V.Dung, N.L. Trung, K. Abed-Meraim
+
+
+2026 
 ----
 
 * <a href="https://thanhle88.github.io/files/ICASSP_2026_Re_LL1_Robust_Block_Term_Decomposition.pdf" style="color: #046307; text-decoration: none; ">**Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation**</a>  <br>
