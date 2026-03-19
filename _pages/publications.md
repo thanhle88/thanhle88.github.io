@@ -29,8 +29,12 @@ Notes: PDFs are for personal use only and their copyrights are reserved by Publi
 * <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**TR-ADMM: An inexact ADMM based robust tensor ring decomposition for video foreground detection**</a>  <br>
 T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V.Dung, N.L. Trung, K. Abed-Meraim
 
-* <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**TRION: A Deep Unfolding Framework for Robust Triple Tensor Decomposition**</a>  <br>
-D.M. Nhat#, N.Q. Dang# <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim
+* <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**Towards An Effective and Memory-Efficient Tensor Network for High-Order Tensor Decomposition**</a>  <br>
+N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim
+
+* <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**Deep Algorithm Unrolling Meets Robust Triple Tensor Decomposition**</a>  <br>
+D.M. Nhat#, N.Q. Dang#,  <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim
+
 
 
 2026 
