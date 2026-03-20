@@ -24,18 +24,6 @@ Notes: PDFs are for personal use only and their copyrights are reserved by Publi
 
 <span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
 
-📝 Working papers
-----
-* <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**TR-ADMM: An inexact ADMM based robust tensor ring decomposition for video foreground detection**</a>  <br>
-T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V.Dung, N.L. Trung, K. Abed-Meraim
-
-* <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**Towards An Effective and Memory-Efficient Tensor Network for High-Order Tensor Decomposition**</a>  <br>
-N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim
-
-* <a href="https://thanhle88.github.io/" style="color: #046307; text-decoration: none; ">**Deep Algorithm Unrolling Meets Robust Triple Tensor Decomposition**</a>  <br>
-D.M. Nhat#, N.Q. Dang, P.N. Quang, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim
-
-
 
 2026 
 ----
@@ -53,6 +41,8 @@ N.Q. Dang#, D.M. Nhat#, <span style="text-decoration: underline">**T.T. Le**</sp
 * <a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: #046307; text-decoration: none; ">**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** </a>  <br>
 N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
+<a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+
    
 2025
 ----
