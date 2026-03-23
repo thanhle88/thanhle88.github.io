@@ -26,12 +26,11 @@ Current Members
     
 - **To Ngoc Hai** (K68CS): 01 EUSIPCO (first)
      
-- **Nguyen Quy Dang** (K67AI): 02 ICASSP (first)
-     
 - **Do Minh Nhat** (K67AI): 01 ICASSP (co-first)
   
 
 Former Members
 ----
+- **Nguyen Quy Dang** (K67AI): 02 ICASSP (first)
 - **Vu Tung Lam** (Master, QH-2021): 01 CITA (first)
    
