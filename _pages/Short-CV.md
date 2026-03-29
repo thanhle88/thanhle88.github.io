@@ -20,7 +20,7 @@ author_profile: true
 
 * **Lecturer and Researcher**, <a href="https://vnu.edu.vn/eng/" style="color: green; text-decoration: underline; ">Vietnam National University, Hanoi, VNU-UET</a>, Vietnam (2023 -- present)
      - **Undergraduate Cources**: 
-          - Digital Signal Processing (ELT3144): Spring  2024, Summer 2024, Fall 2024, Spring 2025
+          - Digital Signal Processing (ELT3144): Spring  2024, Summer 2024, Fall 2024, Spring 2025, Spring 2026
           - Probability and Statistics (MAT1101):  Summer 2024, Fall 2024, Spring 2025, Fall 2025
           - Signals and Systems (ELT 2035): Spring 2025, Fall 2025
           - Mathematics for Artificial Intelligence (AIT2001):  Spring 2024, Fall 2024
