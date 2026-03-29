@@ -58,7 +58,7 @@ author_profile: true
 
 * **Program Committee**
 
-  -  TPC core-chair, 18th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA-ASC), 2026, Vietnam <a href="https://apsipa2026.org/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
+  -  TPC co-chair, 18th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA-ASC), 2026, Vietnam <a href="https://apsipa2026.org/" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
   
    - Track chair for special session *“Matrix and Tensor Decomposition: New Algorithms & Applications”*,  IEEE Statistical Signal Processing Workshop (SSP 2023), 2-5 July 2023, Hanoi, Vietnam <a href="https://www.ssp2023.org/SS3.html" style="color: green; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Link</a>
 
