@@ -46,8 +46,7 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 2025
 ----
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: blue; text-decoration: none; ">**Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**</a> <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
- <br> 
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: blue; text-decoration: none; ">**Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**</a> <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> 
 <span style="text-decoration: underline">**T.T. Le**</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none"> [![SP 2025](https://img.shields.io/badge/SP-2025-red)](https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270) ***Signal Processing***</span> (SJR/Scopus Q1) <br/>
 
 * <a href="https://ieeexplore.ieee.org/document/11231620" style="color:  #046307; text-decoration: none; ">**Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**</a> <a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
@@ -144,7 +143,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 2021
 ----
-*  <a href="https://ieeexplore.ieee.org/document/9381678" style="color: blue; text-decoration: none; ">**Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**</a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf" style="color: #red; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> <a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br><span style="text-decoration:underline">**T.T. Le**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>  <span style="color: black; text-decoration: none">  [![IEEE-TSP 2021](https://img.shields.io/badge/TSP-2021-red)](https://ieeexplore.ieee.org/document/9381678) ***IEEE Transactions on Signal Processing***</span>  (SJR/Scopus Q1) <br> 
+*  <a href="https://ieeexplore.ieee.org/document/9381678" style="color: blue; text-decoration: none; ">**Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**</a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Supplementary</a> <a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br><span style="text-decoration:underline">**T.T. Le**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>  <span style="color: black; text-decoration: none">  [![IEEE-TSP 2021](https://img.shields.io/badge/TSP-2021-red)](https://ieeexplore.ieee.org/document/9381678) ***IEEE Transactions on Signal Processing***</span>  (SJR/Scopus Q1) <br> 
 
 
 
@@ -189,7 +188,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 2018
 ----
-*  <a href="https://ieeexplore.ieee.org/document/8606822" style="color: #046307; text-decoration: none; ">**Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**</a>  <a href="https://repository.vnu.edu.vn/bitstream/VNU_123/137923/1/2018_KY_Nonnegative_Tensor_Decomposition.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <br>  N.T.A. Dao, <span style="text-decoration:underline">**T.T. Le**</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> [![IEEE-NICS 2018](https://img.shields.io/badge/IEEE--NICS-2018-green)](https://ieeexplore.ieee.org/document/8606822)*Proc. NAFOSTED Conference on Information and Computer Science* **(Best Paper Award)** <br> 
+*  <a href="https://ieeexplore.ieee.org/document/8606822" style="color: #046307; text-decoration: none; ">**Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**</a>  <a href="https://repository.vnu.edu.vn/bitstream/VNU_123/137923/1/2018_KY_Nonnegative_Tensor_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <br>  N.T.A. Dao, <span style="text-decoration:underline">**T.T. Le**</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> [![IEEE-NICS 2018](https://img.shields.io/badge/IEEE--NICS-2018-green)](https://ieeexplore.ieee.org/document/8606822)*Proc. NAFOSTED Conference on Information and Computer Science* **(Best Paper Award)** <br> 
 
 2017
 ----
@@ -211,7 +210,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 * **Ray-Tracing Channel Models for Near-Field Communication**<br>  N.T. Khang, D.H. Son, T.T. Duy, <span style="text-decoration:underline">T.T. Le</span>, Dr., T.T.T. Quynh, Dr., K. Abed-Meraim, M. Debbah, N.L. Trung <br> *VNU Journal of Science: Computer Science and Communication Engineering*, 2026  <br> 
 
 *  **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<a href="https://thanhtbt.github.io/files/2021_JEC_Robust%20Subspace%20Tracking%20Algorithms%20in%20Signal%20Processing.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <br> <span style="text-decoration:underline">**T.T. Le**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications (JEC)*, 2021 <br> 
-<a href="https://rev-jec.org/index.php/rev-jec/article/view/270" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Publisher</a> 
+ 
 
 
 
@@ -224,7 +223,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 
 
-*  **Deep learning for epileptic spike detection** <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> L.T. Xuyen, <span style="text-decoration:underline">**T.T. Le**</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>*VNU Journal of Science: Computer Science and Communication Engineering*, 2017  (My BSc Thesis, Top Mark)  <br>  
+*  **Deep learning for epileptic spike detection** <a href="https://thanhtbt.github.io/files/2017%20VNU-JCSCE-Deep%20Learning%20for%20Epileptic%20Spike%20Detection.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> L.T. Xuyen, <span style="text-decoration:underline">**T.T. Le**</span>, D.V. Viet, T.Q. Long, N. L. Trung, & N.D. Thuan<br>*VNU Journal of Science: Computer Science and Communication Engineering*, 2017  (My BSc Thesis, Top Mark)  <br>  
 
 
 📚  Theses  and Dissertations 
