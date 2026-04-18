@@ -78,8 +78,7 @@ V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">T.T. 
  
  
 
-* <a href="https://doi.org/10.1016/j.sigpro.2024.109483" style="color: blue; text-decoration: none; ">**Tensor Decomposition Meets  Blind Source Separation** </a>  <a href="https://thanhle88.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  
-<br> 
+* <a href="https://doi.org/10.1016/j.sigpro.2024.109483" style="color: blue; text-decoration: none; ">**Tensor Decomposition Meets  Blind Source Separation** </a>  <a href="https://thanhle88.github.io/files/2024_SP_Tensor%20Decomposition%20Meets%20Blind%20Source%20Separation.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <br> 
 <span style="text-decoration: underline">**T.T. Le**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none">[![SP 2024](https://img.shields.io/badge/SP-2024-red)](https://doi.org/10.1016/j.sigpro.2024.109483) ***Signal Processing***</span>  (SJR/Scopus Q1) <br/> 
 
 *  <a href="https://www.sciencedirect.com/science/article/pii/S0165168423003717" style="color: blue; text-decoration: none; ">**A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations**</a> 
