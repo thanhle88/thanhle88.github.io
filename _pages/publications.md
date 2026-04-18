@@ -118,7 +118,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 <span style="color: black; text-decoration: none"> [![Patterns 2023](https://img.shields.io/badge/Patterns-2023-red)](https://www.sciencedirect.com/science/article/pii/S2666389923001046) ***Cell Patterns***</span> (SJR/Scopus Q1) <br>
  
 
-*   <a href="https://ieeexplore.ieee.org/document/10094931" style="color: #046307; text-decoration: none; ">**Robust Subspace Tracking With Contamination via Alpha-Divergence**</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br> <span style="text-decoration:underline">**T.T. Le**</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
+*   <a href="https://ieeexplore.ieee.org/document/10094931" style="color: #046307; text-decoration: none; ">**Robust Subspace Tracking With Contamination via Alpha-Divergence**</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br> <span style="text-decoration:underline">**T.T. Le**</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
  [![IEEE-ICASSP 2023](https://img.shields.io/badge/ICASSP-2023-green)](https://ieeexplore.ieee.org/document/10094931) *Proc. 48th IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)    <br>
  
 
