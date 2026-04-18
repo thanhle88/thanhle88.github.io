@@ -38,7 +38,7 @@ N.Q. Dang#, D.M. Nhat#, <span style="text-decoration: underline">**T.T. Le**</sp
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
 
 
-* <a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: #046307; text-decoration: none; ">**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** </a> <a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/TriNet" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code (Coming soon)</a> <br>
+* <a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: #046307; text-decoration: none; ">**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** </a> <a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/TriNet" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code (Coming soon)</a> <br>
 N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1) <br/> 
 
@@ -46,39 +46,30 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 2025
 ----
 
-* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: blue; text-decoration: none; ">**Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**</a> <br> 
-<span style="text-decoration: underline">**T.T. Le**</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none"> [![SP 2025](https://img.shields.io/badge/SP-2025-red)](https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270) ***Signal Processing***</span> (SJR/Scopus Q1) <br/> <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: #046307; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>ScienceDirect</a>  <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+* <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: blue; text-decoration: none; ">**Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**</a> <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
+ <br> 
+<span style="text-decoration: underline">**T.T. Le**</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar<br> <span style="color: black; text-decoration: none"> [![SP 2025](https://img.shields.io/badge/SP-2025-red)](https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270) ***Signal Processing***</span> (SJR/Scopus Q1) <br/>
 
-
-* <a href="https://ieeexplore.ieee.org/document/11231620" style="color:  #046307; text-decoration: none; ">**Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**</a> <br>
+* <a href="https://ieeexplore.ieee.org/document/11231620" style="color:  #046307; text-decoration: none; ">**Low-Rank Triple Decomposition of Streaming Tensors and Its Application to Video Completion**</a> <a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
 <span style="text-decoration: underline">**T.T. Le**</span>, N.H. Thinh, L.M. Ha, T.T.T. Quynh, L.V. Ha, V.T.L. Hoang, K. Abed-Meraim, P. Ravier, O. Buttelli <br>
 [![ISCIT 2025](https://img.shields.io/badge/ISCIT-2025-green)](https://ieeexplore.ieee.org/document/11231620)  *Proc. 2025 24th International Symposium on Communications and Information Technologies*  (ERA B) <br/>
-<a href="https://ieeexplore.ieee.org/document/11231620" style="color: #046307; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>
-<a href="https://thanhle88.github.io/files/2025_ISCIT_Low-Rank%20Triple%20Decomposition%20of%20Streaming%20Tensors%20and%20Its%20Application%20to%20Video%20Completion.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> (Invited)
 
 
 
-* <a href="https://ieeexplore.ieee.org/document/11231466" style="color: #046307; text-decoration: none; ">**Robust Sparse Subspace Tracking from  Corrupted Data Observations**</a> <br>
+
+* <a href="https://ieeexplore.ieee.org/document/11231466" style="color: #046307; text-decoration: none; ">**Robust Sparse Subspace Tracking from  Corrupted Data Observations**</a> <a href="https://thanhle88.github.io/files/2025_ISCIT_Robust_Sparse_Subspace_Tracking_Final.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/aOPIT" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
 T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.L. Trung, <span style="text-decoration: underline">**T.T. Le**</span> <br>
 [![ISCIT 2025](https://img.shields.io/badge/ISCIT-2025-green)](https://ieeexplore.ieee.org/document/11231466)   *Proc. 2025 24th International Symposium on Communications and Information Technologies*  (ERA B) <br/>
-<a href="https://ieeexplore.ieee.org/document/11231466" style="color: #046307; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>
-<a href="https://arxiv.org/abs/2509.16585" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a>
-<a href="https://thanhle88.github.io/files/2025_ISCIT_Robust_Sparse_Subspace_Tracking_Final.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/aOPIT" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> 
 
 
-* <a href="https://ieeexplore.ieee.org/document/11226060" style="color: #046307; text-decoration: none; ">**Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**</a> <br>
+* <a href="https://ieeexplore.ieee.org/document/11226060" style="color: #046307; text-decoration: none; ">**Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**</a> <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">T.T. Le</span><br>
 [![EUSIPCO 2025](https://img.shields.io/badge/EUSIPCO-2025-green)](https://ieeexplore.ieee.org/document/11226060) *Proc. 33rd European Signal Processing Conference* (Qualis A2) <br/>
-<a href="https://ieeexplore.ieee.org/document/11226060" style="color: #046307; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>IEEE</a>
-<a href="https://eusipco2025.org/wp-content/uploads/pdfs/0002102.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>EURASIP</a> <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
+ 
 
-
-* <a href="https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29" style="color: #046307; text-decoration: none; ">**RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**</a> <br>
+* <a href="https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29" style="color: #046307; text-decoration: none; ">**RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**</a>  <a href="https://thanhle88.github.io/files/2025_CITA_RACNN-Residual%20Attention%20Convolutional%20Neural%20Network%20for%20Near-Field%20Channel%20Estimation%20in%206G%20Wireless%20Communications.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
 V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">T.T. Le</span><br>
-[![CITA 2025](https://img.shields.io/badge/CITA-2025-green)](https://arxiv.org/abs/2503.02299) *Proc. 14th Conference on Information Technology and its Applications, Lecture Notes in Networks and Systems* <br/>
-<a href="https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29" style="color: #046307; text-decoration: none; "><i class="fas fa-fw  fa-external-link-square-alt zoom"></i>Springer</a>
- <a href="https://arxiv.org/abs/2503.02299" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-external-link-square-alt zoom"></i>Arxiv</a> <a href="https://thanhle88.github.io/files/2025_CITA_RACNN-Residual%20Attention%20Convolutional%20Neural%20Network%20for%20Near-Field%20Channel%20Estimation%20in%206G%20Wireless%20Communications.pdf" style="color: #046307; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  
-
+[![CITA 2025](https://img.shields.io/badge/CITA-2025-green)](https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29) *Proc. 14th Conference on Information Technology and its Applications, Lecture Notes in Networks and Systems* <br/>
 
 
 2024
