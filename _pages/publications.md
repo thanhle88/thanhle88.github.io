@@ -184,7 +184,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 2018
 ----
-*  <a href="https://ieeexplore.ieee.org/document/8606822" style="color: #046307; text-decoration: none; ">**Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**</a>  <a href="https://repository.vnu.edu.vn/bitstream/VNU_123/137923/1/2018_KY_Nonnegative_Tensor_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <br>  N.T.A. Dao, <span style="text-decoration:underline">**T.T. Le**</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> [![IEEE-NICS 2018](https://img.shields.io/badge/IEEE--NICS-2018-green)](https://ieeexplore.ieee.org/document/8606822)*Proc. NAFOSTED Conference on Information and Computer Science* **(Best Paper Award)** <br> 
+*  <a href="https://ieeexplore.ieee.org/document/8606822" style="color: #046307; text-decoration: none; ">**Nonnegative Tensor Decomposition for EEG Epileptic Spike Detection**</a>  <a href="https://repository.vnu.edu.vn/bitstream/VNU_123/137923/1/2018_KY_Nonnegative_Tensor_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <br>  N.T.A. Dao, <span style="text-decoration:underline">**T.T. Le**</span>, V-D. Nguyen, N. L. Trung, & K. Abed-Meraim<br> [![IEEE-NICS 2018](https://img.shields.io/badge/IEEE--NICS-2018-green)](https://ieeexplore.ieee.org/document/8606822)*Proc. NAFOSTED Conference on Information and Computer Science* <br> **(Best Paper Award)** <br> 
 
 2017
 ----
