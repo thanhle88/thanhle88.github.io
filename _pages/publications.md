@@ -20,9 +20,12 @@ author_profile: true
        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="">
 </a>
 
-Notes: PDFs are for personal use only and their copyrights are reserved by Publishers; # denotes students under my supervision; Bolded name denotes the corresponding/main author; 
+Notes: 
 
-<span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
+- PDFs are for personal use only and their copyrights are reserved by Publishers;
+- Bolded name denotes the corresponding/main author; 
+- \# denotes students under my supervision; 
+- <span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
 
 
 2026 
