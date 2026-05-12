@@ -28,6 +28,13 @@ Notes: PDFs are for personal use only and their copyrights are reserved by Publi
 2026 
 ----
 
+* <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**TR-ADMM: An Inexact ADMM-based Robust Tensor Ring Decomposition For Video Foreground Detection**</a>  <br>
+T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V. Dung, N.L. Trung, K. Abed-Meraim  <br>
+[![EUSIPCO 2026](https://img.shields.io/badge/EUSIPCO-2026-green)](https://ieeexplore.ieee.org/document/11460481) *Proc. 34th European Signal Processing Conference*  (Qualis A2)  <br/>  
+
+
+
+
 * <a href="https://ieeexplore.ieee.org/document/11460481" style="color: #046307; text-decoration: none; ">**Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation**</a> <a href="https://thanhle88.github.io/files/ICASSP_2026_Re_LL1_Robust_Block_Term_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/dangnq2501/Robust-Block-term-Tensor-Decomposition" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
 N.Q. Dang#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/11460481) *Proc. IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
