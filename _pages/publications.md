@@ -26,7 +26,7 @@ author_profile: true
 Notes: 
 
 - PDFs are for personal use only and their copyrights are reserved by Publishers;
-- Bolded name denotes the corresponding/main author; 
+- My name in bold indicates the corresponding/main author
 - \# denotes students under my supervision; 
 - <span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
 
