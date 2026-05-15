@@ -36,7 +36,7 @@ Notes:
 
 * <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**TR-ADMM: An Inexact ADMM-based Robust Tensor Ring Decomposition For Video Foreground Detection**</a>  <br>
 T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V. Dung, N.L. Trung, K. Abed-Meraim  <br>
-[![EUSIPCO 2026](https://img.shields.io/badge/EUSIPCO-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. 34th European Signal Processing Conference*  (Qualis A2)  <br/>  
+[![EUSIPCO 2026](https://img.shields.io/badge/EUSIPCO-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. 34th European Signal Processing Conference*  (Qualis A1)  <br/>  
 
 
 
@@ -75,7 +75,7 @@ T.G.T. Loan#, N.H. Lan#, N.T.N. Lan#, D.H. Son, T.T.T. Quynh, K. Abed-Meraim, N.
 
 * <a href="https://ieeexplore.ieee.org/document/11226060" style="color: #046307; text-decoration: none; ">**Tensor-Based Blind Structured Channel Estimation for Multichannel Systems**</a> <a href="https://thanhle88.github.io/files/2025_EUSIPCO_Tensor_Based__Blind_Structured_Channel_Estimation_in_Multichannel_System.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <br>
 A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">T.T. Le</span><br>
-[![EUSIPCO 2025](https://img.shields.io/badge/EUSIPCO-2025-green)](https://ieeexplore.ieee.org/document/11226060) *Proc. 33rd European Signal Processing Conference* (Qualis A2) <br/>
+[![EUSIPCO 2025](https://img.shields.io/badge/EUSIPCO-2025-green)](https://ieeexplore.ieee.org/document/11226060) *Proc. 33rd European Signal Processing Conference* (Qualis A1) <br/>
  
 
 * <a href="https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29" style="color: #046307; text-decoration: none; ">**RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**</a>  <a href="https://thanhle88.github.io/files/2025_CITA_RACNN-Residual%20Attention%20Convolutional%20Neural%20Network%20for%20Near-Field%20Channel%20Estimation%20in%206G%20Wireless%20Communications.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
@@ -107,7 +107,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
  
 
 *  <a href="https://ieeexplore.ieee.org/document/10715293" style="color: #046307; text-decoration: none; ">**Higher-Order Singular Spectrum Analysis For Multichannel Biomedical Signal Analysis**</a>   <a href="https://thanhle88.github.io/files/2024_EUSIPCO_HOMSSA.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <br> 
-<span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N.L. Trung <br>  [![EUSIPCO 2024](https://img.shields.io/badge/EUSIPCO-2024-green)](https://ieeexplore.ieee.org/document/10715293) *Proc. 32nd European Signal Processing Conference*  (Qualis A2) <br/>  
+<span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N.L. Trung <br>  [![EUSIPCO 2024](https://img.shields.io/badge/EUSIPCO-2024-green)](https://ieeexplore.ieee.org/document/10715293) *Proc. 32nd European Signal Processing Conference*  (Qualis A1) <br/>  
 
 
 * <a href="https://ieeexplore.ieee.org/document/10661014" style="color: #046307; text-decoration: none; ">**Tensor Kernel Learning for Classification of Alzheimer’s Conditions using Multimodal Data**</a>  <a href="https://thanhle88.github.io/files/2024_MAPR_Tensor%20Kernel%20Learning.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://github.com/thanhvd18/Tensor-Kernel-Learning-matlab" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br> V.D. Thanh,
@@ -145,7 +145,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 
 
-*  <a href="https://ieeexplore.ieee.org/document/9746546" style="color: #046307; text-decoration: none; ">**Robust Tensor Tracking With Missing Data Under Tensor-Train Format**</a> <a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/ROBOT" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br> [![EUSIPCO 2022](https://img.shields.io/badge/EUSIPCO-2022-green)](https://ieeexplore.ieee.org/document/9746546)  *Proc. 31st European Signal Processing Conference* (Qualis A2) <br> 
+*  <a href="https://ieeexplore.ieee.org/document/9746546" style="color: #046307; text-decoration: none; ">**Robust Tensor Tracking With Missing Data Under Tensor-Train Format**</a> <a href="https://thanhtbt.github.io/files/2022_EUSIPCO-Robust%20Tensor%20Tracking%20with%20Missing%20Data%20under%20Tensor-Train%20Format.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/ROBOT" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung & A. Hafiane<br> [![EUSIPCO 2022](https://img.shields.io/badge/EUSIPCO-2022-green)](https://ieeexplore.ieee.org/document/9746546)  *Proc. 31st European Signal Processing Conference* (Qualis A1) <br> 
 
 *  <a href="https://ieeexplore.ieee.org/document/9980029" style="color: #046307; text-decoration: none; ">**Robust Online Tucker Dictionary Learning from Multidimensional Data Streams**</a> <a href="https://thanhtbt.github.io/files/2022_APSIPA_Robust%20Online%20Tucker%20Dictionary%20Learning%20from%20Multidimensional%20Data%20Streams.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/ROTDL" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br><span style="text-decoration:underline">**T.T. Le**</span>, T. T. Duy, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> [![APSIPA-ASC 2022](https://img.shields.io/badge/APSIPA--ASC-2022-green)](https://ieeexplore.ieee.org/document/9980029) *Proc. 14th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference* <br>  
 
@@ -168,7 +168,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 
 *  <a href="https://ieeexplore.ieee.org/document/9615921" style="color: #046307; text-decoration: none; ">**Performance Lower Bounds of Blind System Identification Techniques in The Presence of Channel Order Estimation error**</a> <a href="https://thanhtbt.github.io/files/2021_EUSIPCO_Perforamnce%20lower%20bounds%20of%20blind%20system%20identification%20techniques%20in%20the%20presence%20of%20channel%20order%20estimation%20error.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/InSI/blob/master/Algorithms/CRB_Mode/Semi-blind/Misspecified/SB_Misspecified.m" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>
-<a href="https://avitech-vnu.github.io/InSI/#/algorithms/CRB_Mode/SB/CRB_SB_MISSPECIFIED" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>    <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, & N. L. Trung<br> [![EUSIPCO 2021](https://img.shields.io/badge/EUSIPCO-2021-green)](https://ieeexplore.ieee.org/document/9615921) *Proc. 30th European Signal Processing Conference*  (Qualis A2) <br> 
+<a href="https://avitech-vnu.github.io/InSI/#/algorithms/CRB_Mode/SB/CRB_SB_MISSPECIFIED" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>InSI-Toolbox</a>    <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, & N. L. Trung<br> [![EUSIPCO 2021](https://img.shields.io/badge/EUSIPCO-2021-green)](https://ieeexplore.ieee.org/document/9615921) *Proc. 30th European Signal Processing Conference*  (Qualis A1) <br> 
  
  
 
@@ -184,13 +184,13 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
  
 *  <a href="https://ieeexplore.ieee.org/document/9287780" style="color: #046307; text-decoration: none; ">**Adaptive Algorithms for Tracking Tensor-Train Decomposition of Streaming Tensors**</a>  <a href="https://thanhtbt.github.io/files/2020_EUSIPCO%20-%20Adaptive%20Algorithms%20for%20Tracking%20Tensor-Train%20Decomposition%20of%20Streaming%20Tensors.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
 <a href="https://github.com/thanhtbt/ATT" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> 
- <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> [![EUSIPCO 2020](https://img.shields.io/badge/EUSIPCO-2020-green)](https://ieeexplore.ieee.org/document/9287780) *Proc. 29th European Signal Processing Conference* (Qualis A2) <br>
+ <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & R. Boyer<br> [![EUSIPCO 2020](https://img.shields.io/badge/EUSIPCO-2020-green)](https://ieeexplore.ieee.org/document/9287780) *Proc. 29th European Signal Processing Conference* (Qualis A1) <br>
  
 
 2019
 ----
 *  <a href="https://ieeexplore.ieee.org/document/8903031" style="color: #046307; text-decoration: none; ">**Robust Subspace Tracking with Missing Data and Outliers via ADMM**</a> <a href="https://thanhtbt.github.io/files/2019_EUSIPCO%20-%20Robust%20Subspace%20Tracking%20with%20Missing%20Data%20and%20Outliers%20via%20ADMM.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
-<a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>   <br><span style="text-decoration:underline">**T.T. Le**</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br> [![EUSIPCO 2019](https://img.shields.io/badge/EUSIPCO-2019-green)](https://ieeexplore.ieee.org/document/8903031) *Proc. 28th European Signal Processing Conference* (Qualis A2) <br> 
+<a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>   <br><span style="text-decoration:underline">**T.T. Le**</span>, V-D. Nguyen, N. L. Trung,  & K. Abed-Meraim<br> [![EUSIPCO 2019](https://img.shields.io/badge/EUSIPCO-2019-green)](https://ieeexplore.ieee.org/document/8903031) *Proc. 28th European Signal Processing Conference* (Qualis A1) <br> 
  
  
 *  <a href="https://ieeexplore.ieee.org/document/9023865" style="color: #046307; text-decoration: none; ">**EEG Source Localization: A New Multiway Temporal-Spatial-Spectral Analysis**</a>  <a href="https://eprints.uet.vnu.edu.vn/eprints/id/eprint/3834/1/NICS2019_final_1570595451.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>    <br> L.T. Xuyen, <span style="text-decoration:underline">T.T. Le</span>, N. L. Trung, T.T.T. Quynh, & N.D. Thuan<br> [![IEEE-NICS 2019](https://img.shields.io/badge/IEEE--NICS-2019-green)](https://ieeexplore.ieee.org/document/9023865) *Proc. NAFOSTED Conference on Information and Computer Science*  <br> 
