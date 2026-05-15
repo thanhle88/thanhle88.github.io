@@ -26,7 +26,7 @@ author_profile: true
 Notes: 
 
 - PDFs are for personal use only and their copyrights are reserved by Publishers;
-- My name in bold indicates the corresponding/main author
+- My name in bold indicates the corresponding/first author
 - \# denotes students under my supervision; 
 - <span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
 
@@ -40,13 +40,12 @@ T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V. Dun
 
 
 
-
-* <a href="https://ieeexplore.ieee.org/document/11460481" style="color: #046307; text-decoration: none; ">**Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation**</a> <a href="https://thanhle88.github.io/files/ICASSP_2026_Re_LL1_Robust_Block_Term_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/dangnq2501/Robust-Block-term-Tensor-Decomposition" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
+* <a href="https://ieeexplore.ieee.org/document/11460481" style="color: #046307; text-decoration: none; ">**Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation**</a> <a href="https://thanhle88.github.io/files/ICASSP_2026_Re_LL1_Robust_Block_Term_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/Robust-Block-term-Tensor-Decomposition" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
 N.Q. Dang#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/11460481) *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
 
 
-*  <a href="https://ieeexplore.ieee.org/abstract/document/11463179" style="color: #046307; text-decoration: none; ">**Fast and Robust Triple Tensor Decomposition With Data Corruption**</a>  <a href="https://thanhle88.github.io/files/ICASSP_2026__Robust_Triple_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/dangnq2501/Triple-Tensor-Decomposition-with-ADMM" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
+*  <a href="https://ieeexplore.ieee.org/abstract/document/11463179" style="color: #046307; text-decoration: none; ">**Fast and Robust Triple Tensor Decomposition With Data Corruption**</a>  <a href="https://thanhle88.github.io/files/ICASSP_2026__Robust_Triple_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/Triple-Tensor-Decomposition-with-ADMM" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
 N.Q. Dang#, D.M. Nhat#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/abstract/document/11463179) *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
 
