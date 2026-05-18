@@ -17,9 +17,8 @@ author_profile: true
     - <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6884276" style="color: green; text-decoration: underline; ">IEEE Transactions on Signal and Information Processing over Networks </a> (**TSIPN**)
     - <a href="https://www.sciencedirect.com/journal/signal-processing" style="color: green; text-decoration: underline; ">Elservier Signal Processing </a>  (**SP**)
 * **Conferences**:
-    - <a href="https://ieeeicassp.org/" style="color: green; text-decoration: underline; ">IEEE International Conference on Acoustics, Speech, and Signal Processing </a> (**ICASSP**)
-    - <a href="https://eurasip.org/eusipco-conferences/" style="color: green; text-decoration: underline; ">European Signal Processing Conference </a>  (**EUSIPCO**)
-
+    - <a href="https://ieeeicassp.org/" style="color: green; text-decoration: underline; ">IEEE International Conference on Acoustics, Speech, and Signal Processing </a> (**ICASSP**) 
+    - <a href="https://eurasip.org/eusipco-conferences/" style="color: green; text-decoration: underline; ">European Signal Processing Conference </a>  (**EUSIPCO**)  
   
 📚 Online Magazines/News
 ---
@@ -45,11 +44,11 @@ author_profile: true
 
 📚 Conference Ranking
 ---
-* <a href="https://ppgcc.github.io/discentesPPGCC/en/qualis" style="color: green; text-decoration: underline; ">Qualis Rank</a>  
+* <a href="https://qualis.pages.dev/eventos/eusipco" style="color: green; text-decoration: underline; ">Qualis Rank</a>  
 
 * <a href="https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf" style="color: green; text-decoration: underline; "> GGS Rank</a>   
 
-* <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=eng" style="color: green; text-decoration: underline; ">Google Scholar Metric</a>
+* <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=phy_acousticssound" style="color: green; text-decoration: underline; ">Google Scholar Metric</a>
 
 * <a href="http://portal.core.edu.au/conf-ranks/" style="color: green; text-decoration: underline; "> CORE Rank</a>  (for CS conferences)
 
