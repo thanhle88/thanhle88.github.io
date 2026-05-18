@@ -78,8 +78,9 @@ author_profile: true
 
    - **International Conferences**:
       -  IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)
+      -  IEEE European Conference on Signal Processing (EUSIPCO)
       -  IEEE Statistical Signal Processing Workshop (SSP)
-      -  IEEE Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
+      -  Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)
       -  IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
       -  IEEE International Symposium on Communications and Information Technologies (ISCIT)
       -  IEEE International Conference on Advanced Technologies for Communications (ATC)
