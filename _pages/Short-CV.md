@@ -85,6 +85,7 @@ author_profile: true
       -  IEEE International Symposium on Communications and Information Technologies (ISCIT)
       -  IEEE International Conference on Advanced Technologies for Communications (ATC)
       -  IEEE International Conference on Multimedia Analysis and Pattern Recognition (MAPR)
+      -  IEEE International Conference and Communications and Electronics (ICCE)
 
 
 * **Invited Talks and Presentations**
