@@ -84,6 +84,7 @@ author_profile: true
       -  IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)
       -  IEEE International Symposium on Communications and Information Technologies (ISCIT)
       -  IEEE International Conference on Advanced Technologies for Communications (ATC)
+      -  IEEE International Conference on Multimedia Analysis and Pattern Recognition (MAPR)
 
 
 * **Invited Talks and Presentations**
