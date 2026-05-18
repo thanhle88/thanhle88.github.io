@@ -46,6 +46,8 @@ author_profile: true
 ---
 * <a href="https://qualis.pages.dev/eventos/eusipco" style="color: green; text-decoration: underline; ">Qualis Rank</a>  
 
+*  <a href="https://ccf.atom.im/" style="color: green; text-decoration: underline; ">CCF Rank</a>  
+
 * <a href="https://scie.lcc.uma.es:8443/gii-grin-scie-rating/ratingSearch.jsf" style="color: green; text-decoration: underline; "> GGS Rank</a>   
 
 * <a href="https://scholar.google.com.vn/citations?view_op=top_venues&hl=en&vq=phy_acousticssound" style="color: green; text-decoration: underline; ">Google Scholar Metric</a>
