@@ -5,8 +5,6 @@ permalink: /tensors/
 author_profile: true
 ---
 
-<span style="color:blue">**Join us**: Self-motivated students with good mathematical skills are welcome to join my team. Interested candidates are encouraged to send your CV to my email address.</span>
-
 
 Current Members
 ----
@@ -24,7 +22,7 @@ Current Members
      
 - **Nguyen Hoang Lan** (K68EC): 01 ISCIT (co-first)
     
-- **To Ngoc Hai** (K68CS): 01 EUSIPCO (first)
+- **To Ngoc Hai** (K68CS): 01 EUSIPCO (first) 
      
 - **Do Minh Nhat** (K67AI): 01 ICASSP (co-first)
   
@@ -34,3 +32,6 @@ Former Members
 - **Nguyen Quy Dang** (K67AI): 02 ICASSP (first)
 - **Vu Tung Lam** (Master, QH-2021): 01 CITA (first)
    
+
+<span style="color:blue">**Join us**:  VNU-UET students with good mathematical and programming skills are welcome to join my team. Interested candidates are encouraged to send your CV to thanhletrung@vnu.edu.vn.</span>
+
