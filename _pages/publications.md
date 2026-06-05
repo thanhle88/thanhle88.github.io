@@ -215,12 +215,10 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 📑 National (Vietnamese) Journals
 ----
 
-* **Ray-Tracing Channel Models for Near-Field Communication**<br>  N.T. Khang, D.H. Son, T.T. Duy, <span style="text-decoration:underline">T.T. Le</span>, Dr., T.T.T. Quynh, Dr., K. Abed-Meraim, M. Debbah, N.L. Trung <br> *VNU Journal of Science: Computer Science and Communication Engineering*, 2026  <br> 
+* <a href="https://jcsce.vnu.edu.vn/index.php/jcsce/article/view/7077" style="color: #046307; text-decoration: none; ">**Ray-Tracing Channel Models for Near-Field Communication**<br>  N.T. Khang, D.H. Son, T.T. Duy, <span style="text-decoration:underline">T.T. Le</span>, T.T.T. Quynh,, K. Abed-Meraim, M. Debbah, N.L. Trung <br> *VNU Journal of Science: Computer Science and Communication Engineering*, 2026  <br> 
 
 *  **Robust Subspace Tracking Algorithms in Signal Processing: A Brief Survey**<a href="https://thanhtbt.github.io/files/2021_JEC_Robust%20Subspace%20Tracking%20Algorithms%20in%20Signal%20Processing.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <br> <span style="text-decoration:underline">**T.T. Le**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>*REV Journal on Electronics and Communications (JEC)*, 2021 <br> 
  
-
-
 
 
 
