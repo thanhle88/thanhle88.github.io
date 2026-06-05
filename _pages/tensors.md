@@ -33,5 +33,11 @@ Former Members
 - **Vu Tung Lam** (Master, QH-2021): 01 CITA (first)
    
 
-<span style="color:blue">**Join us**:  VNU-UET students with good mathematical and programming skills are welcome to join my team. Interested candidates are encouraged to send your CV to thanhletrung@vnu.edu.vn.</span>
+Join Us
+----
+
+<span style="color:blue">  
+- See our [AVITECH](https://avitechresearch.vn/en) group
+
+- VNU-UET students with good mathematical and programming skills are welcome to join my team, please your CV to thanhletrung@vnu.edu.vn.</span>
 
