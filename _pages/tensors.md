@@ -36,7 +36,6 @@ Former Members
 Join Us
 ----
 
-<span style="color:blue">  
 - See our [AVITECH](https://avitechresearch.vn/en) group
 
 - VNU-UET students with good mathematical and programming skills are welcome to join my team, please your CV to thanhletrung@vnu.edu.vn.</span>
