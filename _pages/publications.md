@@ -26,7 +26,7 @@ author_profile: true
 Notes: 
 
 - PDFs are for personal use only and their copyrights are reserved by Publishers
-- My name in bold with (*) indicates the main author (corresponding/first)
+- My name in bold indicates the main author (corresponding/first)
 - \# denotes students under my supervision
 - <span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
 
@@ -35,7 +35,7 @@ Notes:
 ----
 
 * <a href="https://www.researchgate.net/publication/406036364_TR-ADMM_An_inexact_ADMM_based_robust_tensor_ring_decomposition_for_video_foreground_detection" style="color: #046307; text-decoration: none; ">**TR-ADMM: An Inexact ADMM-based Robust Tensor Ring Decomposition For Video Foreground Detection**</a>  <a href="https://thanhle88.github.io/files/2026_EUSIPCO_TR_ADMM__Robust_Tensor_Ring_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
-T.N. Hai#, <span style="text-decoration: underline">**T.T. Le\* **</span>, N.V. Dung, N.L. Trung, K. Abed-Meraim  <br>
+T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V. Dung, N.L. Trung, K. Abed-Meraim  <br>
 [![EUSIPCO 2026](https://img.shields.io/badge/EUSIPCO-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. 34th European Signal Processing Conference*  (Qualis A1)  <br/>  
 
 
