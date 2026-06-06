@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thanh LT"
+title                    : "Thanh LE"
 title_separator          : "-"
 name                     : &name "Thanh Trung Le"
 description              : &description "personal description"
@@ -84,7 +84,7 @@ author:
   avatar           : "DSC_0486.JPG"
   bio              : "Ph.D. in CS & SP"
   location         : "Hanoi, Vietnam"
-  employer         :
+  employer         :   
   googlescholar    : "https://scholar.google.com.vn/citations?user=_6GEXU4AAAAJ&hl=en"
   email            :  thanhletrung@vnu.edu.vn
   researchgate     : "https://www.researchgate.net/profile/Thanh-Le-104"
