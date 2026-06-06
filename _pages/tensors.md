@@ -16,14 +16,14 @@ Current Members
 
 - **Le Minh Son** (K68IT)
 
-- **Nguyen Thi Ngoc Lan** (K68AI): 01 ICASSP (first), 01 ISCIT (co-author) 
+- **Nguyen Thi Ngoc Lan** (K68AI): 01 ICASSP (first), 01 ISCIT (co-author)
+
+- **Nguyen Hoang Lan** (K68EC): 01 ISCIT (co-first)
+
+- **To Ngoc Hai** (K68CS): 01 EUSIPCO (first) 
 
 - **Ta Giang Thuy Loan** (K68AI): 01 ISCIT (co-first) 
-     
-- **Nguyen Hoang Lan** (K68EC): 01 ISCIT (co-first)
-    
-- **To Ngoc Hai** (K68CS): 01 EUSIPCO (first) 
-     
+
 - **Do Minh Nhat** (K67AI): 01 ICASSP (co-first)
   
 
@@ -36,7 +36,5 @@ Former Members
 Join Us
 ----
 
-- See our [AVITECH](https://avitechresearch.vn/en) group
-
-- VNU-UET students with good mathematical and programming skills are welcome to join my team, please your CV to thanhletrung@vnu.edu.vn.</span>
+- <span style="color: red"> VNU-UET students with good mathematical and programming skills are welcome to join my team, please your CV to thanhletrung@vnu.edu.vn. </span>
 
