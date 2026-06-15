@@ -34,7 +34,7 @@ Notes:
 2026 
 ----
 
-* <a href="https:" style="color: #046307; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
+* <a href="https:" style="color: blue; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
 [![APSIPA-ASC 2026](https://img.shields.io/badge/APSIPA-2026-red)](https:///xyz) *APSIPA Transactions on Signal and Information Processing*  (SJR/Scopus Q2)  <br/>  
 
 
