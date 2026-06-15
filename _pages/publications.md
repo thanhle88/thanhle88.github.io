@@ -34,6 +34,10 @@ Notes:
 2026 
 ----
 
+* <a href="https:" style="color: #046307; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
+[![APSIPA-ASC 2026](https://img.shields.io/badge/APSIPA-2026-red)](https:///xyz) *Proc. 34th European Signal Processing Conference*  (Qualis A1)  <br/>  
+
+
 * <a href="https://www.researchgate.net/publication/406036364_TR-ADMM_An_inexact_ADMM_based_robust_tensor_ring_decomposition_for_video_foreground_detection" style="color: #046307; text-decoration: none; ">**TR-ADMM: An Inexact ADMM-based Robust Tensor Ring Decomposition For Video Foreground Detection**</a>  <a href="https://thanhle88.github.io/files/2026_EUSIPCO_TR_ADMM__Robust_Tensor_Ring_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
 T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V. Dung, N.L. Trung, K. Abed-Meraim  <br>
 [![EUSIPCO 2026](https://img.shields.io/badge/EUSIPCO-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. 34th European Signal Processing Conference*  (Qualis A1)  <br/>  
