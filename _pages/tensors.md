@@ -27,11 +27,11 @@ Current Members
 - **Do Minh Nhat** (K67AI): 01 ICASSP (co-first)
   
 
-Former Members
+Alumni
 ----
-- **Nguyen Quy Dang** (K67AI): 02 ICASSP (first)
-- **Vu Tung Lam** (Master, QH-2021): 01 CITA (first)
-   
+- **Nguyen Quy Dang** (K67AI):
+  - 02 ICASSP (first)
+  - MSc at MBZUAI
 
 Join Us
 ----
