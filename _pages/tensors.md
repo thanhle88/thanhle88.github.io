@@ -36,5 +36,5 @@ Alumni
 Join Us
 ----
 
-- <span style="color: red"> VNU-UET students with good mathematical and programming skills are welcome to join my team, please your CV to thanhletrung@vnu.edu.vn. </span>
+- <span style="color: red"> **VNU-UET students with good mathematical and programming skills are welcome to join my team, please your CV to** thanhletrung@vnu.edu.vn. </span>
 
