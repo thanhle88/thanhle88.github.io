@@ -58,7 +58,7 @@ N.Q. Dang#, D.M. Nhat#, <span style="text-decoration: underline">**T.T. Le**</sp
 N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
 [![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/11461780) *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1) <br/> 
 
-* <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**Metabolic  networks on PET-based C-Atlas for diagnosis of Alzheimer's disease** </a>  <a href="https://thanhle88.github.io/files/MAPR_2026.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
+* <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**Metabolic  networks on PET-based C-Atlas for diagnosis of Alzheimer's disease** </a>  <a href="https://thanhle88.github.io/files/2026_MAPR_Metabolic_networks_on_PET_based_C_Atlas_for_diagnosis_of_Alzheimer_s_disease.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
 L.Q. Anh, N.T. Dung, N.P. Trang, P.M. Tuan, <span style="text-decoration: underline">T.T. Le</span>, N.T. Trung, S. de Witte, M. Adel, I.B. Parlak, K. Abed-Meraim, J. Van Schependom, S. Engelborghs, G. Nagels, N. L. Trung  <br> 
 [![MAPR 2026](https://img.shields.io/badge/MAPR-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. International Conference on Multimedia Analysis and Pattern Recognition* <br/> 
 
