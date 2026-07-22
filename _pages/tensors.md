@@ -16,21 +16,30 @@ Current Members
 
 - **Le Minh Son** (K68IT)
 
-- **Nguyen Thi Ngoc Lan** (K68AI): 01 ICASSP (first), 01 ISCIT (co-author)
+- **Nguyen Thi Ngoc Lan** (K68AI):  
+  - [IEEE ICASSP](https://ieeexplore.ieee.org/document/11461780) 
+  - [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
-- **Nguyen Hoang Lan** (K68EC): 01 ISCIT (co-first)
+- **Nguyen Hoang Lan** (K68EC):
+  - [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
-- **To Ngoc Hai** (K68CS): 01 EUSIPCO (first) 
+- **To Ngoc Hai** (K68CS):
+  - [EUSIPCO](https://www.researchgate.net/publication/406036364_TR-ADMM_An_inexact_ADMM_based_robust_tensor_ring_decomposition_for_video_foreground_detection)
 
-- **Ta Giang Thuy Loan** (K68AI): 01 ISCIT (co-first) 
+- **Ta Giang Thuy Loan** (K68AI):
+  - Best Thesis Award
+  - [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
-- **Do Minh Nhat** (K67AI): 01 ICASSP (co-first)
   
 
 Alumni
 ----
+- **Do Minh Nhat** (K67AI):
+  - Valedictorian, Best Thesis Award
+  - [ICASSP 2026](https://ieeexplore.ieee.org/document/11463179/) 
+
 - **Nguyen Quy Dang** (K67AI):
-  - 02 ICASSP (first)
+  - [ICASSP 2026](https://ieeexplore.ieee.org/document/11460481/) and [ICASSP 2026](https://ieeexplore.ieee.org/document/11463179/)
   - MSc at MBZUAI
 
 Join Us
