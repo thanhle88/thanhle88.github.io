@@ -38,7 +38,7 @@ Current Members
 Alumni
 ----
 - **Do Minh Nhat** (K67AI):
-  - Best Thesis Award and [Valedictorian] (https://uet.vnu.edu.vn/thu-khoa-tot-nghiep-som-do-minh-nhat-thu-thach-ban-than-tu-lop-tien-trinh-dao-tao-tich-cuc-nganh-tri-tue-nhan-tao/)
+  - Best Thesis Award and [Valedictorian](https://uet.vnu.edu.vn/thu-khoa-tot-nghiep-som-do-minh-nhat-thu-thach-ban-than-tu-lop-tien-trinh-dao-tao-tich-cuc-nganh-tri-tue-nhan-tao/)
   - Paper: [ICASSP 2026](https://ieeexplore.ieee.org/document/11463179/)
 
 - **Nguyen Quy Dang** (K67AI):
