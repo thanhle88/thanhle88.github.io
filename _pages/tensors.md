@@ -38,8 +38,9 @@ Alumni
   - [ICASSP 2026](https://ieeexplore.ieee.org/document/11463179/) 
 
 - **Nguyen Quy Dang** (K67AI):
-  - [ICASSP 2026](https://ieeexplore.ieee.org/document/11460481/) and [ICASSP 2026](https://ieeexplore.ieee.org/document/11463179/)
   - MSc at MBZUAI
+  - [ICASSP 2026](https://ieeexplore.ieee.org/document/11460481/) and [ICASSP 2026](https://ieeexplore.ieee.org/document/11463179/)
+ 
 
 Join Us
 ----
