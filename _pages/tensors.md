@@ -17,8 +17,7 @@ Current Members
 - **Le Minh Son** (K68IT)
 
 - **Nguyen Thi Ngoc Lan** (K68AI):  
-  - [IEEE ICASSP](https://ieeexplore.ieee.org/document/11461780) 
-  - [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
+  - [IEEE ICASSP](https://ieeexplore.ieee.org/document/11461780) and [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
 - **Nguyen Hoang Lan** (K68EC):
   - [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
