@@ -21,8 +21,8 @@ Current Members
  
     
 - **Nguyen Thi Ngoc Lan** (K68AI):
-  - First Prize in Student Scientific Research Conference, VNU-UET
-  - Papers: [IEEE ICASSP](https://ieeexplore.ieee.org/document/11461780) and [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
+  - First Prize in Student Scientific Research Conference, VNU-UET, [Link](https://uet.vnu.edu.vn/trinet-mo-hinh-mang-tensor-the-he-moi-mo-ra-huong-xu-ly-du-lieu-lon-trong-tri-tue-nhan-tao/)
+  - Papers: [ICASSP](https://ieeexplore.ieee.org/document/11461780) and [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
 - **Nguyen Hoang Lan** (K68EC):
   - Second Prize in Student Scientific Research Conference, VNU-UET
