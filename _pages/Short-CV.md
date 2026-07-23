@@ -44,7 +44,7 @@ author_profile: true
  
 * **Ph.D. Candidate**, <a href="https://www.univ-orleans.fr/fr/prisme/presentation/le-labo" style="color: green; text-decoration: underline; ">University of Orléans, INSA CVL, PRISME</a>, France (2019 -- 2022)
  
-   - Supervised by [Prof. Karim Abed-Meraim](https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en) (*IEEE Fellow*) and  [Prof. Adel Hafiane](https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en).
+   - Supervised by <a href="https://scholar.google.com.vn/citations?user=kiUTN4wAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Karim Abed-Meraim</a> (*IEEE Fellow*) and  <a href="https://scholar.google.com.vn/citations?user=-N_BN4kAAAAJ&hl=en" style="color: green; text-decoration: none; ">Prof. Adel Hafiane</a>.
     
    - <span style="text-decoration:underline">*Tensor Analysis*</span>: Develop fast adaptive tensor algorithms for factorizing streaming data.  See publications [IEEE TSP 2022](https://ieeexplore.ieee.org/document/9866940), [Patterns 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001046), [SP 2024](https://www.sciencedirect.com/science/article/pii/S0165168423003717).
     		
