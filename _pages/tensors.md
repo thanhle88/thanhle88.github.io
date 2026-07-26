@@ -21,15 +21,15 @@ Current Members
  
     
 - **Nguyen Thi Ngoc Lan** (K68AI):
-  - First Prize in Student Scientific Research Conference, VNU-UET, [Link](https://uet.vnu.edu.vn/trinet-mo-hinh-mang-tensor-the-he-moi-mo-ra-huong-xu-ly-du-lieu-lon-trong-tri-tue-nhan-tao/)
+  - First Prize in Student Scientific Research Conference, VNU-UET, [Link](https://uet.vnu.edu.vn/trinet-mo-hinh-mang-tensor-the-he-moi-mo-ra-huong-xu-ly-du-lieu-lon-trong-tri-tue-nhan-tao/) [Link](https://avitechresearch.vn/en/avitech-members-win-top-prizes-at-the-vnu-university-of-engineering-and-technology-students-research-contest-2026/)
   - Papers: [ICASSP](https://ieeexplore.ieee.org/document/11461780) and [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
 - **Nguyen Hoang Lan** (K68EC):
-  - Second Prize in Student Scientific Research Conference, VNU-UET
+  - Second Prize in Student Scientific Research Conference, VNU-UET, [Link](https://avitechresearch.vn/en/avitech-members-win-top-prizes-at-the-vnu-university-of-engineering-and-technology-students-research-contest-2026/)
   - Paper: [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
 - **Ta Giang Thuy Loan** (K68AI):
-  - Second Prize in Student Scientific Research Conference, VNU-UET
+  - Second Prize in Student Scientific Research Conference, VNU-UET, [Link](https://avitechresearch.vn/en/avitech-members-win-top-prizes-at-the-vnu-university-of-engineering-and-technology-students-research-contest-2026/)
   - Best Thesis Award
   - Paper: [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
 
