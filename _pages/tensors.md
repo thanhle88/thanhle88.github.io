@@ -17,7 +17,7 @@ Current Members
 - **Le Minh Son** (K68IT)
 
 - **To Ngoc Hai** (K68CS):
-  - Paper: [EUSIPCO](https://www.researchgate.net/publication/406036364_TR-ADMM_An_inexact_ADMM_based_robust_tensor_ring_decomposition_for_video_foreground_detection)
+  - Paper: [**EUSIPCO**](https://www.researchgate.net/publication/406036364_TR-ADMM_An_inexact_ADMM_based_robust_tensor_ring_decomposition_for_video_foreground_detection)
  
     
 - **Nguyen Thi Ngoc Lan** (K68AI):
