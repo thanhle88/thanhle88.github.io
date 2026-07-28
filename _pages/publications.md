@@ -35,32 +35,32 @@ Notes:
 ----
 
 * <a href="https://thanhle88.github.io/files/2026_ATSIP_C_Atlas.pdf" style="color: blue; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://thanhle88.github.io/files/2026_ATSIP_C_Atlas.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
-[![ATSIP 2026](https://img.shields.io/badge/APSIPA-2026-blue)](https:///xyz) ***APSIPA Transactions on Signal and Information Processing***  (SJR/Scopus Q2)  <br/>  
+***APSIPA Transactions on Signal and Information Processing***  (SJR/Scopus Q2)  <br/>  
 
 
 * <a href="https://www.researchgate.net/publication/406036364_TR-ADMM_An_inexact_ADMM_based_robust_tensor_ring_decomposition_for_video_foreground_detection" style="color: #046307; text-decoration: none; ">**TR-ADMM: An Inexact ADMM-based Robust Tensor Ring Decomposition For Video Foreground Detection**</a>  <a href="https://thanhle88.github.io/files/2026_EUSIPCO_TR_ADMM__Robust_Tensor_Ring_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
 T.N. Hai#, <span style="text-decoration: underline">**T.T. Le**</span>, N.V. Dung, N.L. Trung, K. Abed-Meraim  <br>
-[![EUSIPCO 2026](https://img.shields.io/badge/EUSIPCO-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. 34th European Signal Processing Conference*  (Qualis A1)  <br/>  
+**EUSIPCO**: *Proc. 34th European Signal Processing Conference*  (Qualis A1)  <br/>  
 
 
 
 * <a href="https://www.researchgate.net/publication/406444654_Re-LL1_An_Effective_Regularized_L_L_1-Tensor_Decomposition_Method_For_Video_Background_Modeling_and_Foreground_Separation" style="color: #046307; text-decoration: none; ">**Re-LL1: An Effective Regularized $(L,L,1)$-Tensor Decomposition Method For Video Background Modeling and Foreground Separation**</a> <a href="https://thanhle88.github.io/files/ICASSP_2026_Re_LL1_Robust_Block_Term_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/Robust-Block-term-Tensor-Decomposition" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
 N.Q. Dang#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
-[![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/11460481) *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
+**ICASSP**: *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
 
 
 *  <a href="https://www.researchgate.net/publication/401485902_Fast_and_Robust_Triple_Tensor_Decomposition_With_Data_Corruption" style="color: #046307; text-decoration: none; ">**Fast and Robust Triple Tensor Decomposition With Data Corruption**</a>  <a href="https://thanhle88.github.io/files/2026_ICASSP_FAST%20AND%20ROBUST%20TRIPLE%20TENSOR%20DECOMPOSITION%20WITH%20DATA%20CORRUPTION.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/Triple-Tensor-Decomposition-with-ADMM" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
 N.Q. Dang#, D.M. Nhat#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
-[![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/abstract/document/11463179) *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1)  <br/>  
+**ICASSP**: *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing*   (Qualis A1)  <br/>  
 
 
 * <a href="https://ieeexplore.ieee.org/document/11461780" style="color: #046307; text-decoration: none; ">**TriNet: A Novel and Memory-Efficient Tensor Network for Higher-order Tensor Decomposition** </a> <a href="https://thanhle88.github.io/files/ICASSP_2026__TriNet_On_A_New_Efficient_Tensor_Decomposition.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhle88/TriNet" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> <br>
 N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. Trung, K. Abed-Meraim  <br>
-[![IEEE-ICASSP 2026](https://img.shields.io/badge/ICASSP-2026-green)](https://ieeexplore.ieee.org/document/11461780) *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1) <br/> 
+**ICASSP**: *Proc. 51st IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1) <br/> 
 
 * <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**Metabolic  networks on PET-based C-Atlas for diagnosis of Alzheimer's disease** </a>  <a href="https://thanhle88.github.io/files/2026_MAPR_Metabolic_networks_on_PET_based_C_Atlas_for_diagnosis_of_Alzheimer_s_disease.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
 L.Q. Anh, N.T. Dung, N.P. Trang, P.M. Tuan, <span style="text-decoration: underline">T.T. Le</span>, N.T. Trung, S. de Witte, M. Adel, I.B. Parlak, K. Abed-Meraim, J. Van Schependom, S. Engelborghs, G. Nagels, N. L. Trung  <br> 
-[![MAPR 2026](https://img.shields.io/badge/MAPR-2026-green)](https://ieeexplore.ieee.org/document/xyz) *Proc. International Conference on Multimedia Analysis and Pattern Recognition* <br/> 
+**MAPR**: *Proc. International Conference on Multimedia Analysis and Pattern Recognition* <br/> 
 
    
 2025
