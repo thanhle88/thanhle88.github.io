@@ -94,8 +94,7 @@ V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">T.T. 
 ----
 *  <a href="https://ieeexplore.ieee.org/document/10379829" style="color: blue; text-decoration: none; ">**OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**</a>  <a href="https://thanhle88.github.io/files/2024_TSP_OPIT_A_Simple_but_Effective_Method_for_Sparse_Subspace_Tracking_in_High-Dimension_and_Low-Sample-Size_Context.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Proof</a> 
 <a href="https://github.com/thanhtbt/SST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> <br> 
-<span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>  
-***IEEE Transactions on Signal Processing***</span> (SJR/Scopus Q1, top 5%) <br> 
+<span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Transactions on Signal Processing***</span> (SJR/Scopus Q1, top 5%) <br> 
  
  
 
