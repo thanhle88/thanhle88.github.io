@@ -147,7 +147,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
  
 
 *    <a href="https://ieeexplore.ieee.org/document/10208007" style="color: #046307; text-decoration: none; ">**A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**</a> <a href="https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf" style="color: red; text-decoration: none;"><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <a href="https://github.com/thanhle88/SBTD" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>   <br> <span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
-**IEEE SPW**: *Proc. 22nd IEEE Statistical Signal Processing Workshop*  <br>
+**IEEE SPS**: *Proc. 22nd IEEE Statistical Signal Processing Workshop*  <br>
 
 
 2022
