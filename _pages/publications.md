@@ -139,7 +139,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 *  <a href="https://www.sciencedirect.com/science/article/pii/S2666389923001046" style="color: blue; text-decoration: none; ">**Tracking Online Low-Rank Approximations of Higher-Order Incomplete Streaming Tensors**</a>  <a href="https://thanhtbt.github.io/files/2023_Patterns_Tensor_Tracking_Draw.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/tensor_tracking" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>   <br> 
 <span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> 
-***Cell Patterns***</span> (SJR/Scopus Q1, top 5%) <br>
+***Patterns*** (Cell Press, SJR/Scopus Q1, top 5%) <br>
  
 
 *   <a href="https://ieeexplore.ieee.org/document/10094931" style="color: #046307; text-decoration: none; ">**Robust Subspace Tracking With Contamination via Alpha-Divergence**</a> <a href="https://thanhtbt.github.io/files/2023_aFAPI.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/thanhtbt/aFAPI" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br> <span style="text-decoration:underline">**T.T. Le**</span>, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim<br>
@@ -147,7 +147,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
  
 
 *    <a href="https://ieeexplore.ieee.org/document/10208007" style="color: #046307; text-decoration: none; ">**A Novel Tensor Tracking Algorithm For Block-Term Decomposition of Streaming Tensors**</a> <a href="https://thanhtbt.github.io/files/2023_SSP%20-%20A%20novel%20tensor%20tracking%20algorithm%20for%20block-term%20decomposition%20of%20streaming%20tensors.pdf" style="color: red; text-decoration: none;"><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>   <a href="https://github.com/thanhle88/SBTD" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>   <br> <span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, P. Ravier, & O. Buttelli<br>
-**ICASSP**: *Proc. 22nd IEEE Statistical Signal Processing Workshop*  <br>
+**IEEE SPW**: *Proc. 22nd IEEE Statistical Signal Processing Workshop*  <br>
 
 
 2022
