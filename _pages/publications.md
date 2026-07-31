@@ -38,7 +38,7 @@ Notes:
 ***APSIPA Transactions on Signal and Information Processing***  (SJR/Scopus Q2)  <br/>  
 
 
-* <a href="[thanh](https://thanhle88.github.io/files/2026_APSIPA.pdf" style="color: #046307; text-decoration: none; ">**Common and Individual Exploratory Factor Analysis of Multiple Datasets: An Efficient Alternating Optimization Based Approach**</a>  <a href="https://thanhle88.github.io/files/2026_APSIPA.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
+* <a href="https://thanhle88.github.io/files/2026_APSIPA.pdf" style="color: #046307; text-decoration: none; ">**Common and Individual Exploratory Factor Analysis of Multiple Datasets: An Efficient Alternating Optimization Based Approach**</a>  <a href="https://thanhle88.github.io/files/2026_APSIPA.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
 <span style="text-decoration: underline">**T.T. Le**</span>, K. Abed-Meraim, P. Ravier, O. Buttelli  <br>
 **APSIPA ASC**: *Proc. 18th Asia-Pacific Signal and Information Processing Association Annual Summit and Conference* <br/>
 
