@@ -9,7 +9,11 @@ author_profile: true
 Current Members
 ----
 - **Tran Quang Duy** (Master, QH-2025)
+  
+- **Nguyen Phuong Trang** (K67AI)
 
+- **Tran Ngoc Minh** (K69CE)
+  
 - **Tran Khac Phuc Khanh** (K68AI)
 
 - **Pham Nhat Quang** (K68AI)
