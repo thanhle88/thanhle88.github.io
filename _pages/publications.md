@@ -68,7 +68,12 @@ N.T.N. Lan#, <span style="text-decoration: underline">**T.T. Le**</span>, N.L. T
 L.Q. Anh, N.T. Dung, N.P. Trang, P.M. Tuan, <span style="text-decoration: underline">T.T. Le</span>, N.T. Trung, S. de Witte, M. Adel, I.B. Parlak, K. Abed-Meraim, J. Van Schependom, S. Engelborghs, G. Nagels, N. L. Trung  <br> 
 **IEEE MAPR**: *Proc. International Conference on Multimedia Analysis and Pattern Recognition* <br/> 
 
-   
+* <a href="https://ieeexplore.ieee.org/document/xyz" style="color: #046307; text-decoration: none; ">**Near-Field Channel Estimation via Deep Unfolding for Extremely Large-Scale Antenna Arrays** </a>  <a href="https://thanhle88.github.io/files/2026_ATC_NF.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br>
+N.T. Khang, D.H. Son, T.T. Duy, <span style="text-decoration: underline">T.T. Le</span>, N.V. Dung, H.T. Minh, K. Abed-Meraim, N. L. Trung  <br> 
+**IEEE ATC**: *Proc. IEEE International Conference on Advanced Technologies for Communications* <br/>
+
+
+     
 2025
 ----
 
