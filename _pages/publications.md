@@ -34,7 +34,7 @@ Notes:
 2026 
 ----
 
-* <a href="https://thanhle88.github.io/files/2026_ATSIP_C_Atlas.pdf" style="color: blue; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://thanhle88.github.io/files/2026_ATSIP_C_Atlas.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
+* <a href="https://doi.org/10.1108/ATSIP-05-2026-0037" style="color: blue; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://thanhle88.github.io/files/2026_ATSIP_C_Atlas.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
 ***APSIPA Transactions on Signal and Information Processing***  (SJR/Scopus Q2)  <br/>  
 
 
