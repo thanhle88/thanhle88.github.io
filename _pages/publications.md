@@ -30,6 +30,13 @@ Notes:
 - \# denotes students under my supervision
 - <span style="color: blue">**Blue: Journal papers**</span> and <span style="color: #046307">**Green: Conference papers**</span>
 
+Preprints
+----
+
+* <a href="https://doi.org/10.2139/ssrn.7417408" style="color: blue; text-decoration: none; ">**Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models**</a>  <a href="https://doi.org/10.2139/ssrn.7417408" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.V. Tien, T.T. Le <br>
+  
+
+
 
 2026 
 ----
