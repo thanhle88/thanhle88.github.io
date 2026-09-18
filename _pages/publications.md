@@ -33,7 +33,7 @@ Notes:
 Preprints
 ----
 
-* <a href="https://doi.org/10.2139/ssrn.7417408" style="color: blue; text-decoration: none; ">**Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models**</a>  <a href="https://doi.org/10.2139/ssrn.7417408" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://github.com/vantienpham/structure-aware-vlm-compression" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br> P.V. Tien, <span style="text-decoration: underline">T.T. Le</span> <br>
+* <a href="https://www.researchgate.net/publication/414015310_Structure-Aware_Global_Rank_Allocation_for_Low-Rank_Compression_of_Dual-Tower_Vision-Language_Models" style="color: blue; text-decoration: none; ">**Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models**</a>  <a href="https://doi.org/10.13140/RG.2.2.18904.25601" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://github.com/vantienpham/structure-aware-vlm-compression" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br> P.V. Tien, <span style="text-decoration: underline">T.T. Le</span> <br>
   
 
 
