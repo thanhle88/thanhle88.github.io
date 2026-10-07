@@ -103,8 +103,8 @@ A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">T
 **EUSIPCO**:  *Proc. 33rd European Signal Processing Conference* (Qualis A1) <br/>
  
 
-* <a href="https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29" style="color: #046307; text-decoration: none; ">**RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**</a>  <a href="https://thanhle88.github.io/files/2025_CITA_RACNN-Residual%20Attention%20Convolutional%20Neural%20Network%20for%20Near-Field%20Channel%20Estimation%20in%206G%20Wireless%20Communications.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br>
-V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">T.T. Le</span><br>
+* <a href="https://link.springer.com/chapter/10.1007/978-3-032-00972-2_29" style="color: #046307; text-decoration: none; ">**RACNN: Residual Attention Convolutional Neural Network for Near-Field Channel Estimation in 6G Wireless Communications**</a>  <a href="https://thanhle88.github.io/files/2025_CITA_RACNN-Residual%20Attention%20Convolutional%20Neural%20Network%20for%20Near-Field%20Channel%20Estimation%20in%206G%20Wireless%20Communications.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://github.com/DoHaiSon/RACNN" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> <img src="https://img.shields.io/github/stars/DoHaiSon/RACNN?style=social&label=" alt="stars">
+<br> V.T. Lam#, D.H. Son, T.T.T. Quynh, <span style="text-decoration:underline">T.T. Le</span><br>
 **CITA**:  *Proc. 14th Conference on Information Technology and its Applications, Lecture Notes in Networks and Systems* <br/>
 
 
