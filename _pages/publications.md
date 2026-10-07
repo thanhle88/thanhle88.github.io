@@ -111,7 +111,7 @@ A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">T
 2024
 ----
 *  <a href="https://ieeexplore.ieee.org/document/10379829" style="color: blue; text-decoration: none; ">**OPIT: A Simple but Effective Method for Sparse Subspace Tracking in High-dimension and Low-sample-size Context**</a>  <a href="https://thanhle88.github.io/files/2024_TSP_OPIT_A_Simple_but_Effective_Method_for_Sparse_Subspace_Tracking_in_High-Dimension_and_Low-Sample-Size_Context.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2023_TSP_OPIT_supplementary.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Proof</a> 
-<a href="https://github.com/thanhtbt/SST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> <br> 
+<a href="https://github.com/thanhtbt/SST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br> 
 <span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br> ***IEEE Transactions on Signal Processing*** (SJR/Scopus Q1, top 5%) <br> 
  
  
@@ -188,7 +188,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 2021
 ----
-*  <a href="https://ieeexplore.ieee.org/document/9381678" style="color: blue; text-decoration: none; ">**Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**</a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Proof</a> <a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>    <br><span style="text-decoration:underline">**T.T. Le**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>
+*  <a href="https://ieeexplore.ieee.org/document/9381678" style="color: blue; text-decoration: none; ">**Robust Subspace Tracking with Missing Data and Outliers: Novel Algorithm with Convergence Guarantee**</a> <a href="https://thanhtbt.github.io/files/2021_TSP_PETRELS-ADMM%20(Raw).pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <a href="https://thanhtbt.github.io/files/2021_TSP_Supplementary.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-code zoom"></i>Proof</a> <a href="https://github.com/thanhtbt/RST" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <img src="https://img.shields.io/github/stars/thanhtbt/RST?style=social&label=" alt="stars">  <br><span style="text-decoration:underline">**T.T. Le**</span>, N.V. Dung, N. L. Trung, & K. Abed-Meraim<br>
 ***IEEE Transactions on Signal Processing*** (SJR/Scopus Q1, top 5%) <br> 
 
 
@@ -201,7 +201,7 @@ Kabiru Nasiru Aliyu, <span style="text-decoration:underline">T.T. Le</span>, K. 
 
 
 * <a href="https://ieeexplore.ieee.org/document/9413554" style="color: #046307; text-decoration: none; ">**A Fast Randomized Adaptive CP Decomposition for Streaming Tensors**</a> <a href="https://thanhtbt.github.io/files/2021_ICASSP%20-%20Randomized%20Adaptive%20CP%20Algorithm.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>
-<a href="https://github.com/thanhtbt/ROLCP" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>
+<a href="https://github.com/thanhtbt/ROLCP" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <img src="https://img.shields.io/github/stars/thanhtbt/ROLCP?style=social&label=" alt="stars">  <br><span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>
 **ICASSP**: *Proc. 46th IEEE International Conference on Acoustics, Speech and Signal Processing* (Qualis A1) <br>  
 
 
