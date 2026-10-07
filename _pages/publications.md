@@ -122,7 +122,7 @@ A. Lawal, K. Abed-Meraim, A. Zerguine, <span style="text-decoration:underline">T
 
 *  <a href="https://www.sciencedirect.com/science/article/pii/S0165168423003717" style="color: blue; text-decoration: none; ">**A Novel Recursive Least-Squares Adaptive Method For Streaming Tensor-Train Decomposition With Incomplete Observations**</a> 
 <a href="https://thanhle88.github.io/files/2024_SP_ATT.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> 
-<a href="https://github.com/thanhtbt/ATT-miss" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> <br> 
+<a href="https://github.com/thanhtbt/ATT-miss" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a> <img src="https://img.shields.io/github/stars/thanhtbt/ATT-miss?style=social&label=" alt="stars"> <br> 
 <span style="text-decoration:underline">**T.T. Le**</span>, K. Abed-Meraim, N. L. Trung, & A. Hafiane<br>
 ***Signal Processing***  (SJR/Scopus Q1)  <br>
  
