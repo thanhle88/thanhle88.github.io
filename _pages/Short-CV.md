@@ -101,7 +101,7 @@ author_profile: true
 ## 🏆 Selected Awards
 
    - VNU Outstanding Scientist Awards of Vietnam National University Hanoi (VNU) for years: 2021, 2023, 2024.
-   - Best Paper Award at IEEE NICS 2018.
+   - Best Paper Awards at IEEE NICS 2018 and IEEE ATC 2026.
    - Outstanding Graduate Awards for undergraduate (class of 2012) and graduate students (class of 2016), VNU-UET.
    - Best Undergraduate Thesis Award, VNU-UET, 2016.
    - 3rd place at the National Physics Olympiad in Vietnam (VPhO) & 2nd place at the Provincial Excellent Student Contest in Physics, 2012. 
