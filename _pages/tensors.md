@@ -23,7 +23,6 @@ Current Members
 - **To Ngoc Hai** (K68CS):
   - Paper: [EUSIPCO](https://www.researchgate.net/publication/406036364_TR-ADMM_An_inexact_ADMM_based_robust_tensor_ring_decomposition_for_video_foreground_detection)
  
-    
 - **Nguyen Thi Ngoc Lan** (K68AI):
   - First Prize in Student Scientific Research Conference, VNU-UET, [Link](https://uet.vnu.edu.vn/trinet-mo-hinh-mang-tensor-the-he-moi-mo-ra-huong-xu-ly-du-lieu-lon-trong-tri-tue-nhan-tao/), [Link](https://avitechresearch.vn/en/avitech-members-win-top-prizes-at-the-vnu-university-of-engineering-and-technology-students-research-contest-2026/)
   - Papers: [ICASSP](https://ieeexplore.ieee.org/document/11461780) and [IEEE ISCIT](https://ieeexplore.ieee.org/document/11231466)
@@ -50,8 +49,4 @@ Alumni
   - Papers: [ICASSP 2026a](https://ieeexplore.ieee.org/document/11460481/) and [ICASSP 2026b](https://ieeexplore.ieee.org/document/11463179/)
  
 
-Join Us
-----
-
-- <span style="color: red"> **VNU-UET students with good mathematical and programming skills are welcome to join my team, please your CV to** thanhletrung@vnu.edu.vn. </span>
 
