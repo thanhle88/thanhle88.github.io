@@ -36,7 +36,7 @@ Preprints
 * <a href="https://www.researchgate.net/publication/414015310_Structure-Aware_Global_Rank_Allocation_for_Low-Rank_Compression_of_Dual-Tower_Vision-Language_Models" style="color: blue; text-decoration: none; ">**Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models**</a>  <a href="https://doi.org/10.13140/RG.2.2.18904.25601" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://github.com/vantienpham/structure-aware-vlm-compression" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br> P.V. Tien, <span style="text-decoration: underline">T.T. Le</span> <br>
   
 
-Journals
+International Journals
 ----
 
 * <a href="https://doi.org/10.1108/ATSIP-05-2026-0037" style="color: blue; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://thanhle88.github.io/files/2026_ATSIP_C_Atlas.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
@@ -87,7 +87,7 @@ Journals
 ***Journal of Neural Engineering***   (SJR/Scopus Q1) <br>  
 
 
-International Conferences
+IEEE Conferences
 ----
 
 
