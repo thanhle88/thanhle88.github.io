@@ -86,7 +86,7 @@ International Journals
 ***Journal of Neural Engineering***, 2020  (SJR/Scopus Q1) <br>  
 
 
-IEEE Conferences
+International Conferences
 ----
 
 
