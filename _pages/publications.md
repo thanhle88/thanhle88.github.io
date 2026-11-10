@@ -22,6 +22,8 @@ author_profile: true
 <a href="https://github.com/thanhle88">
        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="">
 </a>
+[![Google Scholar](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DYOUR_ID)](https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en)
+
 
 Notes: 
 
@@ -29,18 +31,22 @@ Notes:
 - My name (<span style="text-decoration: underline">**T.T. Le**</span>) in bold indicates the main author (corresponding/first)
 - \# denotes students under my supervision
 
+
+
 Preprints
 ----
 
 * <a href="https://www.researchgate.net/publication/414015310_Structure-Aware_Global_Rank_Allocation_for_Low-Rank_Compression_of_Dual-Tower_Vision-Language_Models" style="color: #046307; text-decoration: none; ">**Structure-Aware Global Rank Allocation for Low-Rank Compression of Dual-Tower Vision-Language Models**</a>  <a href="https://doi.org/10.13140/RG.2.2.18904.25601" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a>  <a href="https://github.com/vantienpham/structure-aware-vlm-compression" style="color: red; text-decoration: none; "><i class="fab fa-fw fa-github zoom"></i>Code</a>  <br> P.V. Tien, <span style="text-decoration: underline">T.T. Le</span> <br>
   
 
+
 International Journals
 ----
 
 * <a href="https://doi.org/10.1108/ATSIP-05-2026-0037" style="color: #046307; text-decoration: none; ">**Novel PET-Driven Brain Mapping for Diagnosis of Alzheimer’s Disease: Integrated Feature Extraction and Ranking Capabilities**</a>  <a href="https://thanhle88.github.io/files/2026_ATSIP_C_Atlas.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> P.M. Tuan, L.Q. Anh, <span style="text-decoration: underline">T.T. Le</span>, T.L. Phan, M. Adel, S. Bourennane, I.B. Parlak, E. Guedj, G. Nagels, N.L. Trung  <br>
 ***APSIPA Transactions on Signal and Information Processing***, 2026  (SJR/Scopus Q2)  <br/>
-  
+
+
 * <a href="https://www.sciencedirect.com/science/article/abs/pii/S0165168425002270" style="color: #046307; text-decoration: none; ">**Tensor-based Higher-Order Multivariate Singular Spectrum Analysis and Applications to Multichannel Biomedical Signal Analysis**</a> <a href="https://thanhle88.github.io/files/2025_SP_HOMSSA.pdf" style="color: red; text-decoration: none; "><i class="fas fa-fw fa-file-pdf zoom"></i>PDF</a> <br> <span style="text-decoration: underline">**T.T. Le**</span>, K. Abed-Meraim, N.L. Trung, P. Ravier, O. Buttelli, A. Holobar<br>
 ***Signal Processing***, 2025 (SJR/Scopus Q1) <br/>
 
