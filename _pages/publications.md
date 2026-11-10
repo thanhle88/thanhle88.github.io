@@ -23,8 +23,6 @@ author_profile: true
        <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="">
 </a>
 
-[![Google Scholar](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.vercel.app%2Fcitations%3Fuser%3DYOUR_ID)](https://scholar.google.com/citations?user=_6GEXU4AAAAJ&hl=en)
-
 
 Notes: 
 
