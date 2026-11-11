@@ -31,7 +31,6 @@ Notes:
 - \# denotes students under my supervision
 
 
-[![GitHub Stars](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/USERNAME/HOMEPAGE_REPO/main/stars.json&logo=github)](https://github.com/thanhle88/streaming-tensor-decompositions)
 
 
 Preprints
